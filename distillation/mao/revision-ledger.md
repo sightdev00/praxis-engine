@@ -129,3 +129,45 @@ earlier judgment
 - Candidate methodological lesson: growth under benign conditions is weak evidence of durable capability; stress behavior is a stronger validation signal.
 - Confidence: high textual confidence; broader empirical confidence medium-low.
 - Evidence pointer: `evidence/v1-004/evidence-ledger.md#E23`.
+
+---
+
+## R-008 — Earlier case against force dispersion judged argumentatively insufficient
+
+- Earlier article / date: letter quoted inside V1-006, written before 1930-01-05.
+- Earlier judgment: the front committee had argued against small-unit dispersion mainly through failure risks: weak leadership, isolation, vulnerability and adverse environments.
+- Later evidence / article: V1-006 explicitly says these reasons were only negative and “very insufficient,” then adds positive causal reasons for concentration: defeating larger opponents, taking towns, mobilizing broader populations and building connected areas.
+- What changed: the action conclusion was largely retained, but the **argument model** was revised from loss avoidance to positive capability generation.
+- Error type: `argument incompleteness`, not necessarily action error.
+- Was the earlier judgment explicitly revised?: yes, at the level of reasoning.
+- Candidate methodological lesson: a conclusion can be directionally right for weak reasons. Preserve it only after auditing and strengthening the mechanism, rather than treating correct outcome as proof of the original argument.
+- Confidence: high textual confidence.
+- Evidence pointer: `evidence/v1-006/evidence-ledger.md#E09-E10`.
+
+---
+
+## R-009 — “One year to win Jiangxi” timing commitment withdrawn
+
+- Earlier article / date: 1929 proposal quoted in V1-006.
+- Earlier judgment: set a one-year horizon for the Jiangxi plan, based partly on an expectation that the national revolutionary high tide was approaching quickly.
+- Later evidence / article: V1-006 says explicitly that specifying one year was wrong and that future development can only be judged in broad direction, not mechanically dated.
+- What changed: the strategic direction was retained, but the time parameter was relaxed.
+- Error type: `forecast calibration / over-precision`.
+- Was the earlier judgment explicitly revised?: yes.
+- Candidate methodological lesson: distinguish structural/directional confidence from calendar precision. Do not borrow confidence from one into the other.
+- Confidence: high textual confidence.
+- Evidence pointer: `evidence/v1-006/evidence-ledger.md#E12-E13`.
+
+---
+
+## R-010 — From “investigate” to “investigate correctly”
+
+- Earlier article / date: V1-007, 1930-05.
+- Earlier formulation: “没有调查，没有发言权” emphasizes absence of investigation as the epistemic failure.
+- Later evidence / article: V1-007 note [1] records Mao's 1931-04-02 addition: “不做正确的调查同样没有发言权.”
+- What changed: the control moved from a binary `investigated/not investigated` criterion to a quality criterion.
+- Error type: `method specification incomplete`.
+- Was the earlier judgment explicitly revised?: yes, via later supplementary formulation.
+- Candidate methodological lesson: adding an evidence-gathering step is not enough; the evidence process itself needs quality, sampling, ontology, recording and bias controls.
+- Confidence: high textual confidence via editorial note; primary 1931 document should later be audited.
+- Evidence pointer: `evidence/v1-007/evidence-ledger.md#E17`.
