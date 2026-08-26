@@ -2,208 +2,175 @@
 
 > Scope: only the first two articles of Volume I  
 > Purpose: record what is strengthened, what remains article-local, and what evidence the next articles must challenge  
-> Maximum confidence allowed here: **G2 provisional**
+> Current maximum confidence: **P1 recurring pattern**
 
-## Why synthesize this early?
+## Methodological correction
 
-The goal is not to declare a doctrine after two articles. The goal is to prevent later hindsight from erasing how confidence changed over time.
+An earlier version of this file labeled the first three recurring mechanisms `G2 provisional`.
 
-V1-001 proposed an actor/interest/stage model largely through structural analysis. V1-002 then brought direct field investigation and observed behavioral movement into the picture. This gives the first opportunity to distinguish:
+That was too aggressive.
+
+V1-001 and V1-002 are close in author, time, political context, and problem family. Repetition across them is useful evidence that a pattern is worth tracking, but it is not strong cross-context replication.
+
+Under the revised protocol:
 
 ```text
-single-article interpretation
-from
-repeated mechanism with independent behavioral evidence
+H1 -> P1 -> P2 -> G2 -> G3
 ```
+
+all three previously labelled `G2` mechanisms are now `P1`.
+
+The downgrade itself is retained as part of the research record.
 
 ---
 
-## G2-01 — Segment actors by stakes and trajectory, not broad labels
+## P1-01 — Broad categories require internal differentiation
 
 ### Claim
 
-A broad actor category is strategically unreliable when its members differ materially in assets, pressures, expected gains/losses, or direction of change.
+A broad actor category can be strategically misleading when its members occupy materially different positions or face different pressures and trajectories.
 
-### Evidence matrix
+### Evidence
 
 | Article | Evidence |
 |---|---|
 | V1-001 | Divides apparently broad social groups into subgroups with different economic positions and predicts different political behavior. |
-| V1-002 | Observes poor, middle, and rich peasants entering and participating in the movement at materially different times and intensities. |
+| V1-002 | Reports poor, middle, and rich peasants entering and participating in the movement at materially different times and intensities. |
 
-### Mechanism
+### Textual confidence
 
-```text
-same broad label
-+ different stakes / exposure / trajectory
--> different risk tolerance and incentives
--> different behavior under the same external event
-```
+High that both articles use meaningful internal differentiation.
 
-### Why G2, not G3
+### Empirical confidence
 
-- The two texts are close in time and political context.
-- Both concern social mobilization around rural/class structure.
-- We have not yet tested the mechanism in military, economic, organizational, or inter-party contexts.
+Unknown beyond this closely related problem family.
+
+### Modern analytical mapping
+
+Later this may map to segmentation by stakes/exposure rather than labels, but that is a modern abstraction and not the source vocabulary.
 
 ### Falsification targets
 
-Look for later cases where broad categories remain behaviorally coherent despite major internal material differences, or where non-material variables dominate strongly enough to make the current model inadequate.
+Look for cases where broad categories remain behaviorally coherent despite major internal differences, or where institutional, cultural, organizational, or ideological variables dominate enough to make the current decomposition inadequate.
 
 ---
 
-## G2-02 — Actor positions are stage-dependent
+## P1-02 — Actor behavior changes with stage and force conditions
 
 ### Claim
 
-An actor map must be timestamped. A group's behavior can change when perceived success probability, force balance, pressure, or available alternatives change.
+The two articles both treat participant behavior as potentially variable across changing conditions rather than as a permanently fixed attribute.
 
-### Evidence matrix
+### Evidence
 
 | Article | Evidence |
 |---|---|
-| V1-001 | Predicts that middle groups may move or split as the revolutionary tide and visible prospect of success change. |
-| V1-002 | Records middle peasants and rich peasants changing their observable joining behavior after peasant associations became stronger and more credible. |
+| V1-001 | Predicts movement or division of middle groups as the revolutionary situation and visible prospect of success change. |
+| V1-002 | Reports middle and rich peasants changing observable joining behavior as peasant associations become stronger. |
 
-### Mechanism
+### Textual confidence
 
-```text
-material position
-+ perceived force balance
-+ expected success/failure
-+ switching cost
--> current stance
-```
+High that temporal/stage variation is part of the reasoning.
 
-The same actor can therefore move without its underlying identity changing.
+### Empirical confidence
 
-### Practical implication to test later
+Low-to-unknown as a general causal mechanism because the two texts concern closely related social mobilization conditions.
 
-A force/ally/opponent map should contain both:
+### Falsification targets
 
-```text
-current position
-and
-conditions that would cause movement
-```
-
-### Why G2, not G3
-
-We still need evidence from materially different stages, especially united-front, military, governance, and postwar texts.
+Later articles should test whether stage changes actually alter actor maps in military, inter-party, organizational, economic, and governance problems.
 
 ---
 
-## G2-03 — Effective power depends on organization and structure, not headcount alone
+## P1-03 — Effective force is not reducible to raw numbers
 
 ### Claim
 
-Raw population/resource count is an incomplete measure of usable force. Organization, concentration, coordination, structural position, and execution channels can change the effective power of the same nominal quantity.
+Both texts reason about usable force through organizational or structural conditions in addition to nominal quantity.
 
-### Evidence matrix
+### Evidence
 
 | Article | Evidence |
 |---|---|
 | V1-001 | Explains the importance of industrial workers partly through concentration and position in modern production despite limited absolute numbers. |
-| V1-002 | Shows dispersed peasants becoming a qualitatively different force after association coverage, mobilization, local leadership, information flow, and execution capacity expanded. |
+| V1-002 | Describes dispersed peasants becoming a qualitatively different force after association coverage, mobilization, local leadership, and execution capacity expand. |
 
-### Working decomposition
+### Textual confidence
 
-```text
-EffectivePower = f(
-  quantity,
-  organization,
-  concentration,
-  coordination,
-  structural_position,
-  motivation,
-  execution_capacity
-)
-```
+Medium-to-high.
 
-This is our analytical decomposition, not a formula from the source texts.
+### Empirical confidence
 
-### Why G2, not G3
+Unknown beyond the current context.
 
-The variable list is still underdetermined. Later military and organizational texts should reveal whether some factors dominate, interact, or fail under particular constraints.
+### Modern analytical mapping
+
+A later synthesis may represent this as a multidimensional force/capability model. Do not treat any current variable list or formula as a source claim.
 
 ---
 
-# Strong new G1 hypotheses introduced by V1-002
+# H1 hypotheses introduced or strengthened by V1-002
 
-These do **not** yet qualify for cross-article confidence upgrades.
+These remain article-local or insufficiently repeated.
 
-## G1-A — Decision-relevant field investigation can overturn socially dominant narratives
+## H1-A — Field investigation can correct decision-relevant narrative distortion
 
-Need later confirmation in `反对本本主义`, `农村调查`, economic work, military reconnaissance/assessment, and leadership texts.
+Need later evidence from `反对本本主义`, `农村调查`, economic work, military assessment, and leadership texts.
 
-## G1-B — Stage definitions should correspond to observable state transitions
+## H1-B — Stage definitions may correspond to observable state transitions
 
-Need to test whether later texts define stages through measurable changes in force, task, environment, or capability rather than merely historical labels.
+Need to test whether later texts define stages through changes in force, task, environment, capability, or organization rather than merely historical labels.
 
-## G1-C — Find enabling constraints before spreading effort across multiple tasks
+## H1-C — Tasks may need ordering by dependency / enabling conditions
 
-V1-002 orders political, economic, and cultural/social tasks by dependency. Need to test whether this dependency-first prioritization recurs elsewhere.
+V1-002 gives a concrete task sequence under its historical conditions. We must test whether dependency-first prioritization appears independently elsewhere before using modern terms such as `enabling constraint` or `bottleneck`.
 
-## G1-D — Organization at scale requires internal correction mechanisms
+## H1-D — Organization at scale may require internal correction mechanisms
 
 Need later evidence from discipline, party organization, reporting, rectification, committee, and leadership-method texts.
 
-## G1-E — Guidance should build agency rather than substitute for it
+## H1-E — Leadership may sometimes need to build participant agency rather than substitute for it
 
-V1-002's "do not act in place of the peasants" argument may be a local tactic or a broader leadership principle. Do not generalize yet.
+The relevant passage may be local to the problem discussed. Do not generalize yet.
 
-## G1-F — Interventions must be evaluated for second-order effects
+## H1-F — Interventions should sometimes be evaluated beyond the immediate target effect
 
-The article records employment, fiscal, trade, and constituency side effects. Need to see whether later economic/policy texts systematically perform this kind of balancing.
+The article records employment, fiscal, trade, and constituency side effects. Need to see whether later policy/economic texts systematically reason this way.
 
 ---
 
 # What changed after Article 2?
 
-The working model after V1-001 was approximately:
+The legitimate conclusion is narrower than the first version of this synthesis suggested.
+
+After two related texts we can say only that several recurring reasoning patterns are now visible enough to track:
 
 ```text
-stakes / material position
--> predicted stance
--> alliance / opposition map
+internal differentiation
+stage-sensitive behavior
+organization/structure as part of force assessment
 ```
 
-V1-002 forces a richer model:
+We cannot yet claim that these are durable methods across the four volumes.
 
-```text
-field evidence
-      ↓
-segment actors by real stakes and trajectory
-      ↓
-observe organization + force balance + stage
-      ↓
-predict not only current stance but movement conditions
-      ↓
-identify the binding constraint
-      ↓
-choose stage-appropriate action
-      ↓
-observe effects and side effects
-      ↓
-revise the map
-```
-
-The important change is that actor classification is no longer just a static analytical exercise. It begins to look like a **feedback process**.
-
-That interpretation is still provisional and must survive the remaining 157 items.
+The second article also introduces strong new research hypotheses around field investigation, task sequencing, organizational correction, agency, and side effects. Those remain `H1`.
 
 ---
 
 # Next test: V1-003 中国的红色政权为什么能够存在？
 
-The next article should be used to test, not merely extend, the current model.
+V1-003 is the first article to be processed under the revised six-pass protocol.
 
-Questions to carry forward:
+It should be used to test rather than merely extend the current model.
 
-1. Does it explain a surprising phenomenon through a **combination of concrete conditions** rather than one master cause?
-2. Does it distinguish necessary, enabling, and temporary conditions?
-3. Does force assessment include geography, political fragmentation, economic conditions, organization, and external environment?
-4. Does it make explicit predictions about when the current situation can or cannot persist?
-5. Does its reasoning strengthen or contradict the first two articles' stage-dependent force model?
+Questions:
 
-No new G3 principle is permitted at this stage.
+1. Does the article explain the target phenomenon through one dominant cause or through a combination of concrete conditions?
+2. What evidence is actually used for each condition?
+3. Which claims are observation, historical comparison, received report, or author inference?
+4. Does the article distinguish conditions required for existence from conditions affecting duration, growth, or vulnerability?
+5. Are stage and force judgments operationally connected to strategic action?
+6. What is the strongest alternative explanation?
+7. Which existing `P1` patterns are strengthened, narrowed, contradicted, or left untouched?
+
+No confidence upgrade is a goal in itself.
