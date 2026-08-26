@@ -1,6 +1,8 @@
 # Distillation Protocol
 
-This protocol defines how Praxis Engine converts a source text into a candidate reusable method without collapsing historical description, interpretation, and modern application into one layer.
+This protocol defines how Praxis Engine converts a source text into a candidate reusable method without collapsing historical description, interpretation, empirical validity, and modern application into one layer.
+
+The protocol is itself provisional. Material changes must be recorded in `meta/protocol-evolution.md` rather than silently replacing prior assumptions.
 
 ## 1. Unit of analysis
 
@@ -10,13 +12,13 @@ Do not distill isolated quotations as independent principles unless the article-
 
 ## 2. Four-layer separation
 
-Every claim belongs to exactly one of these layers:
+Every claim belongs to one of these layers:
 
 ### S — Source
 What the text explicitly states or clearly argues.
 
 ### I — Interpretation
-Our reconstruction of the problem, causal model, strategy, or mechanism implicit in the source.
+Our reconstruction of the problem, argument, causal model, strategy, or mechanism implicit in the source.
 
 ### G — Generalization
 A candidate principle abstracted beyond the historical case.
@@ -26,111 +28,221 @@ A modern use of that generalized principle.
 
 Never present an `I`, `G`, or `A` claim as if it were an `S` claim.
 
-## 3. Article-card schema
+Modern analytical vocabulary should normally appear only after the source's own conceptual structure has been reconstructed.
 
-Each article card must answer the following.
+## 3. Six-pass workflow
 
-### A. Identification
-- title;
-- volume;
-- date;
-- canonical source URL;
-- variant/earlier source URLs if consulted;
-- reading status.
+### Pass 0 — Historical frame
 
-### B. Historical situation
-What concrete conditions made this document necessary?
+Record only the historical context needed to understand the document:
 
-### C. Problem
-What decision/problem was the author trying to resolve?
+- date and stage;
+- immediate events;
+- intended audience;
+- concrete decision pressure;
+- relevant institutional or military constraints.
 
-### D. Observed facts
-What facts, observations, reports, or conditions does the argument rely on?
+Do not use later theory to explain the article at this stage.
 
-Separate directly observed/reported facts from assumptions.
+### Pass 1 — Source / argument reconstruction
 
-### E. Competing judgments
-Which alternative analyses, strategies, or failure modes are explicitly or implicitly opposed?
+Reconstruct the article on its own terms.
 
-### F. Contradiction structure
-- major tensions/conflicts;
-- proposed principal contradiction, if identifiable;
-- principal aspect, if identifiable;
-- evidence for that classification.
+Answer:
 
-Do not force every article into the vocabulary of `principal contradiction` when the text does not support it.
+- why was it written?
+- what are the major claims?
+- what is the sequence of the argument?
+- which claims support which conclusions?
+- what action or judgment does the article finally advocate?
 
-### G. Actors / forces
-For each material actor or group:
-- interests;
-- incentives;
-- capabilities;
-- constraints;
-- likely direction of movement;
-- relation to the focal problem.
-
-### H. Stage judgment
-What stage is the situation considered to be in? What would make that judgment change?
-
-### I. Causal model
-Write the argument as explicit causal propositions where possible:
+Prefer an explicit argument map:
 
 ```text
-condition A + mechanism B -> consequence C
+Evidence E1 + E2
+-> Judgment J1
+
+J1 + E3
+-> Judgment J2
+
+J1 + J2
+-> Strategy S1
 ```
 
-Mark causal links that are inferred rather than explicit.
+### Pass 2 — Evidence audit
 
-### J. Strategic objective
-What long-horizon outcome is being optimized or protected?
+Create an auditable evidence ledger where the article materially depends on factual claims.
 
-### K. Tactical / operational actions
-What concrete actions are proposed now, and why these rather than alternatives?
+Recommended evidence types:
 
-### L. Organization and execution
-How are responsibilities, coordination, information flow, discipline, incentives, or feedback handled?
+- `O1` — direct observation;
+- `O2` — first-hand interview/testimony;
+- `O3` — administrative or quantitative record;
+- `O4` — second-hand report;
+- `O5` — historical/comparative evidence;
+- `O6` — author inference;
+- `O7` — later editorial/retrospective framing.
 
-### M. Feedback / falsification
-What later observations would support, weaken, or overturn the judgment?
+For each important item record, where possible:
 
-If the text does not specify this, reconstruct cautiously and label it `I`.
+- evidence ID;
+- claim supported;
+- evidence type;
+- source location/page/section;
+- limitations or selection bias;
+- whether the evidence was available at the time of the decision.
 
-### N. Candidate transferable mechanisms
-For each candidate mechanism record:
+Do not call an author inference an observed fact.
+
+### Pass 3 — Reasoning reconstruction
+
+Only after the argument and evidence are reconstructed, analyze the reasoning operations used.
+
+Possible operations include:
+
+- classification;
+- comparison;
+- before/after comparison;
+- trend extrapolation;
+- causal inference;
+- analogy;
+- force/capability assessment;
+- stage analysis;
+- prioritization;
+- organizational design;
+- feedback and correction.
+
+Use neutral language first. Modern mappings such as `bottleneck`, `stakeholder`, `feedback loop`, or `second-order effect` should be marked as analytical mappings rather than source concepts.
+
+### Pass 4 — Adversarial reading
+
+Construct the strongest plausible challenge to the article's reasoning.
+
+At minimum test for:
+
+- sample/selection bias;
+- omitted variables;
+- reverse causality;
+- correlation mistaken for causation;
+- retrospective justification;
+- overgeneralization;
+- value judgment treated as factual inference;
+- evidence produced by interested actors;
+- short observation windows hiding long-term consequences;
+- later developments that revise or contradict the claim.
+
+Do not search only for support.
+
+### Pass 5 — Candidate mechanisms
+
+Only now generate article-local hypotheses.
+
+Each candidate should record:
+
 - mechanism;
+- source basis;
+- textual confidence;
+- empirical confidence;
 - minimum assumptions;
 - expected effect;
 - failure conditions;
 - scope of transfer;
-- confidence.
+- modern analytical mapping, if any.
 
-### O. Non-transferable content
-Record conclusions that depend heavily on the specific historical, military, political, institutional, or technological environment.
+Article-local candidates begin at `H1`.
 
-### P. Open questions
-What must be checked before this card can support synthesis?
+### Pass 6 — Cross-article update
 
-## 4. Evidence confidence
+Compare the new article with existing patterns.
 
-Use three confidence levels for generalized claims:
+The result may:
 
-- **G3 — strong**: repeated in multiple independent texts/cases and mechanism is explicit or strongly supported.
-- **G2 — provisional**: plausible mechanism with partial repetition/evidence.
-- **G1 — hypothesis**: useful interpretation that still requires cross-text validation.
+- strengthen a pattern;
+- narrow its scope;
+- split one pattern into multiple mechanisms;
+- add a boundary condition;
+- downgrade confidence;
+- reject the pattern.
 
-No `G1` principle may enter a final skill as a mandatory rule.
+Confidence should not move upward merely because a later text uses similar wording.
 
-## 5. Cross-article synthesis rule
+## 4. Pattern confidence ladder
 
-A candidate principle enters `cross-article/` only if at least one of the following holds:
+Use this ladder for cross-text mechanisms:
 
-1. it appears in multiple articles under meaningfully different conditions;
-2. one article develops the mechanism in unusually explicit detail and another case provides independent behavioral evidence;
-3. a later article explicitly revises, limits, or operationalizes an earlier principle.
+- **H1 — article-local hypothesis**: reconstructed from one article.
+- **P1 — recurring pattern**: reappears in related/similar texts; enough to track, not enough to call general.
+- **P2 — cross-context pattern**: survives materially different problem settings such as investigation, military strategy, organization, economic work, or governance.
+- **G2 — generalizable candidate**: cross-context pattern with explicit counterexample/boundary work and a plausible causal mechanism.
+- **G3 — durable mechanism**: survives cross-volume testing, revision/failure cases, and transfer evaluation strongly enough to become a candidate mandatory skill rule.
 
-Record counterexamples and revisions alongside supporting cases.
+No `H1` or `P1` principle may enter a final skill as a mandatory rule.
 
-## 6. Transfer test
+## 5. Dual confidence axes
+
+For important mechanisms, keep two separate judgments:
+
+### Textual confidence
+
+How sure are we that the author actually used or endorsed this reasoning structure?
+
+Suggested values: `low / medium / high`.
+
+### Empirical confidence
+
+How sure are we that the mechanism itself is reliable beyond the source case?
+
+Suggested values: `unknown / low / medium / high`.
+
+A mechanism may have high textual confidence and low empirical confidence.
+
+## 6. Article architecture
+
+The target corpus is large enough that article cards must remain comparable.
+
+Preferred structure:
+
+```text
+article-cards/<article>.md       # compact synthesis and argument map
+evidence/<article>/              # evidence ledger, source map, variants, historical notes
+cross-article/                    # pattern tracking
+revision-ledger.md                # later corrections, reversals, failed judgments
+meta/                             # changes to the research method itself
+```
+
+Do not inflate article cards with material that belongs in evidence appendices.
+
+## 7. Cross-article synthesis rule
+
+A candidate may enter `cross-article/` when it is important enough to track, but the confidence label must reflect context independence.
+
+Record:
+
+- supporting cases;
+- contradicting cases;
+- revisions;
+- context similarity;
+- what next article could falsify it.
+
+Two adjacent texts from the same author, period, and problem family normally justify at most `P1`, not `P2`.
+
+## 8. Revision and failure tracking
+
+Later correction is first-class evidence.
+
+Track:
+
+```text
+earlier judgment
+-> later reality
+-> later revision/non-revision
+-> reason for change
+-> methodological lesson
+```
+
+A mechanism that explains only successful judgments is weaker than one that also explains why mistakes were detected and corrected.
+
+## 9. Transfer test
 
 Before a historical mechanism becomes a reusable skill rule, test:
 
@@ -141,7 +253,7 @@ Before a historical mechanism becomes a reusable skill rule, test:
 5. **measurement difference** — can the relevant variables actually be observed now?
 6. **failure cost** — is experimentation reversible or catastrophic?
 
-## 7. Anti-patterns
+## 10. Anti-patterns
 
 Do not:
 
@@ -151,15 +263,23 @@ Do not:
 - treat military concepts as business/engineering concepts without structural mapping;
 - retrofit Bayesian/Kelly/compound-growth language into Mao texts during Phase 1;
 - choose only texts that support a preconceived synthesis;
-- conflate moral/political commitments with causal claims.
+- conflate moral/political commitments with causal claims;
+- treat repeated wording in closely related texts as independent replication;
+- introduce modern systems vocabulary before reconstructing the source's own reasoning;
+- protect an existing pattern from downgrade when later evidence conflicts with it.
 
-## 8. Definition of done for one article
+## 11. Definition of done for one article
 
-An article card is complete only when:
+An article is first-pass complete only when:
 
 - the full source has been read;
+- the historical frame is stated;
+- the article's argument structure is reconstructed;
+- important evidence types and limitations are audited;
 - source and interpretation layers are separated;
-- the concrete problem and historical conditions are stated;
-- the causal/strategic structure is reconstructed;
-- transfer boundaries are explicit;
-- open questions and possible counterevidence are recorded.
+- an adversarial reading is present;
+- article-local candidate mechanisms, if any, begin at `H1`;
+- open questions and possible counterevidence are recorded;
+- cross-article patterns are updated conservatively.
+
+`first-pass complete` does not mean `current-protocol audited` if the article was completed under an earlier protocol revision.
