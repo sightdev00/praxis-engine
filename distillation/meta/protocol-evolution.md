@@ -117,4 +117,80 @@ Do not block V1-003 on a full rewrite. Apply the new protocol to V1-003, then us
 
 ### Validation status
 
-Pending. V1-003 will be the first article distilled under the revised protocol.
+V1-003 completed under the six-pass protocol. Initial result: **useful and retained**.
+
+Observed benefits:
+
+1. the article's own five-condition structure was reconstructed before modern abstraction;
+2. `O6` author inference could be separated from local operational evidence;
+3. the adversarial pass exposed circular-risk in phrases such as “policy correct”;
+4. a later editorial correction could enter the revision ledger without being smuggled into the 1928 evidence base;
+5. the new structure prevented all prior patterns from being automatically “confirmed”.
+
+Observed cost:
+
+- article card + evidence ledger still require discipline to avoid duplicating the same material;
+- source-location precision is section-level rather than page/paragraph-level for web texts.
+
+No rollback warranted.
+
+---
+
+## 2026-08-26 — After V1-003: do not force every system into a single-bottleneck model
+
+### Trigger
+
+- V1-003 `中国的红色政权为什么能够存在？`
+- conflict with the earlier V1-002-derived hypothesis `find the enabling constraint`.
+
+### Observed weakness
+
+Our own interpretation after V1-002 was drifting toward a universal pattern:
+
+```text
+many problems
+-> identify the single enabling constraint / principal bottleneck
+-> concentrate effort there
+```
+
+V1-003 does not fit that shape cleanly. It explains survival through a configuration spanning political fragmentation, prior organizational history, national trend, regular military capability, party organization/policy, logistics, and base construction.
+
+Some factors are described as non-substitutable or necessary-like conditions.
+
+### Methodological correction
+
+Do **not** ask “what is the bottleneck?” as a mandatory step before establishing the causal topology.
+
+Ask first:
+
+```text
+What kind of constraint structure is this?
+
+A. dominant bottleneck / dependency chain?
+B. conjunctive configuration of several conditions?
+C. threshold system?
+D. compensatory trade-off system?
+E. currently unknown?
+```
+
+Only use `principal contradiction`, `bottleneck`, or `enabling constraint` if the article/problem evidence supports that topology.
+
+### Classification
+
+- Philosophy: resistance to forcing reality into a preferred ontology.
+- Architecture: candidate mechanisms may split rather than only gain/lose confidence.
+- Methodology: infer constraint topology before selecting a prioritization heuristic.
+
+### Expected benefit
+
+- prevents “principal contradiction” from becoming an all-purpose retrospective label;
+- keeps room for multiple jointly necessary conditions;
+- improves transfer to engineering systems where bottleneck, threshold, redundancy, and configuration behave differently.
+
+### Cost / risk
+
+This adds another meta-question and can become overformalized. Use it only when prioritization or causal structure materially affects the decision.
+
+### Validation target
+
+V1-004 and later economic/organizational texts should test whether Mao repeatedly reduces systems to one principal bottleneck, or alternates between bottleneck and configuration reasoning depending on the problem.
