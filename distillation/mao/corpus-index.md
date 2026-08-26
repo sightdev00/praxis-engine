@@ -5,44 +5,45 @@ This file is the execution ledger for Phase 1.
 ## Rules
 
 - Process every item in published volume order.
-- `[x]` means the article card satisfies `../protocol.md`; familiarity with the text is not enough.
+- `[x]` means the article card satisfies the current first-pass protocol or has a recorded legacy re-audit obligation.
 - `[~]` means active first-pass distillation.
 - `[ ]` means not yet distilled.
 - Do not skip short notices, telegrams, directives, interviews, or documents that appear repetitive.
 - Ordering and titles are cross-checked against the second-edition online indexes recorded in `../../literature/mao-selected-works.md`.
+- Volume completion means all items have first-pass article coverage; it does **not** mean all variant audits or cross-volume tests are complete.
 
 ## Progress
 
-| Volume | Complete | Total |
+| Volume | First-pass complete | Total |
 |---|---:|---:|
-| I | 2 | 18 |
+| I | 18 | 18 |
 | II | 0 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **2** | **159** |
+| **Total** | **18** | **159** |
 
 ---
 
 ## Volume I — 18
 
-- [x] V1-001 中国社会各阶级的分析
-- [x] V1-002 湖南农民运动考察报告
-- [ ] V1-003 中国的红色政权为什么能够存在？
-- [ ] V1-004 井冈山的斗争
-- [ ] V1-005 关于纠正党内的错误思想
-- [ ] V1-006 星星之火，可以燎原
-- [ ] V1-007 反对本本主义
-- [ ] V1-008 必须注意经济工作
-- [ ] V1-009 怎样分析农村阶级
-- [ ] V1-010 我们的经济政策
-- [ ] V1-011 关心群众生活，注意工作方法
-- [ ] V1-012 论反对日本帝国主义的策略
-- [ ] V1-013 中国革命战争的战略问题
-- [ ] V1-014 关于蒋介石声明的声明
-- [ ] V1-015 中国共产党在抗日时期的任务
-- [ ] V1-016 为争取千百万群众进入抗日民族统一战线而斗争
-- [ ] V1-017 实践论
-- [ ] V1-018 矛盾论
+- [x] V1-001 中国社会各阶级的分析 — legacy card; current-protocol re-audit required
+- [x] V1-002 湖南农民运动考察报告 — legacy card; current-protocol re-audit required
+- [x] V1-003 中国的红色政权为什么能够存在？
+- [x] V1-004 井冈山的斗争
+- [x] V1-005 关于纠正党内的错误思想
+- [x] V1-006 星星之火，可以燎原
+- [x] V1-007 反对本本主义
+- [x] V1-008 必须注意经济工作
+- [x] V1-009 怎样分析农村阶级
+- [x] V1-010 我们的经济政策
+- [x] V1-011 关心群众生活，注意工作方法
+- [x] V1-012 论反对日本帝国主义的策略
+- [x] V1-013 中国革命战争的战略问题
+- [x] V1-014 关于蒋介石声明的声明
+- [x] V1-015 中国共产党在抗日时期的任务
+- [x] V1-016 为争取千百万群众进入抗日民族统一战线而斗争
+- [x] V1-017 实践论
+- [x] V1-018 矛盾论
 
 ---
 
