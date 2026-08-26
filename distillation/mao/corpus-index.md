@@ -5,7 +5,7 @@ This file is the execution ledger for Phase 1.
 ## Rules
 
 - Process every item in published volume order.
-- `[x]` means the article card satisfies the current first-pass protocol or has a recorded legacy re-audit obligation.
+- `[x]` means the article card satisfies the current first-pass protocol or has a recorded legacy re-audit.
 - `[~]` means active first-pass distillation.
 - `[ ]` means not yet distilled.
 - Do not skip short notices, telegrams, directives, interviews, or documents that appear repetitive.
@@ -17,17 +17,17 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 0 | 40 |
+| II | 12 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **18** | **159** |
+| **Total** | **30** | **159** |
 
 ---
 
 ## Volume I — 18
 
-- [x] V1-001 中国社会各阶级的分析 — legacy card; current-protocol re-audit required
-- [x] V1-002 湖南农民运动考察报告 — legacy card; current-protocol re-audit required
+- [x] V1-001 中国社会各阶级的分析 — legacy card; current-protocol evidence re-audit recorded
+- [x] V1-002 湖南农民运动考察报告 — legacy card; current-protocol evidence re-audit recorded
 - [x] V1-003 中国的红色政权为什么能够存在？
 - [x] V1-004 井冈山的斗争
 - [x] V1-005 关于纠正党内的错误思想
@@ -49,18 +49,18 @@ This file is the execution ledger for Phase 1.
 
 ## Volume II — 40
 
-- [ ] V2-001 反对日本进攻的方针、办法和前途
-- [ ] V2-002 为动员一切力量争取抗战胜利而斗争
-- [ ] V2-003 反对自由主义
-- [ ] V2-004 国共合作成立后的迫切任务
-- [ ] V2-005 和英国记者贝特兰的谈话
-- [ ] V2-006 上海太原失陷以后抗日战争的形势和任务
-- [ ] V2-007 陕甘宁边区政府、第八路军后方留守处布告
-- [ ] V2-008 抗日游击战争的战略问题
-- [ ] V2-009 论持久战
-- [ ] V2-010 中国共产党在民族战争中的地位
-- [ ] V2-011 统一战线中的独立自主问题
-- [ ] V2-012 战争和战略问题
+- [x] V2-001 反对日本进攻的方针、办法和前途
+- [x] V2-002 为动员一切力量争取抗战胜利而斗争
+- [x] V2-003 反对自由主义
+- [x] V2-004 国共合作成立后的迫切任务
+- [x] V2-005 和英国记者贝特兰的谈话
+- [x] V2-006 上海太原失陷以后抗日战争的形势和任务
+- [x] V2-007 陕甘宁边区政府、第八路军后方留守处布告
+- [x] V2-008 抗日游击战争的战略问题
+- [x] V2-009 论持久战
+- [x] V2-010 中国共产党在民族战争中的地位
+- [x] V2-011 统一战线中的独立自主问题
+- [x] V2-012 战争和战略问题
 - [ ] V2-013 五四运动
 - [ ] V2-014 青年运动的方向
 - [ ] V2-015 反对投降活动
