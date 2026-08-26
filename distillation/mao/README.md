@@ -6,6 +6,29 @@ Reconstruct the recurring reasoning-and-action mechanisms in Volumes I-IV before
 
 This phase is successful only if the final skill can trace its rules back through cross-article synthesis to article-level evidence.
 
+## Corpus commitment
+
+The corpus is **all articles in the standard second-edition Volumes I-IV, in published volume order**.
+
+This is a hard project constraint:
+
+- do not skip short notices, telegrams, reports, directives, interviews, or apparently repetitive pieces;
+- do not jump ahead to famous methodological essays;
+- do not treat one article as understood merely because its slogan or conclusion is familiar;
+- do not synthesize a final "Mao method" before every article has an article card;
+- preserve revisions, tensions, failed or limited judgments, and stage-specific conclusions rather than smoothing them into a coherent doctrine after the fact.
+
+The reason for full coverage is methodological. Operational texts, organizational directives, battlefield analyses, economic documents, and short political statements can reveal how abstract principles were actually used, revised, constrained, or violated. Selection only by fame would create severe confirmation bias.
+
+Current working count for the four-volume corpus is **159 articles/documents**:
+
+- Volume I: 18
+- Volume II: 40
+- Volume III: 31
+- Volume IV: 70
+
+The exact tracker is maintained in `corpus-index.md`. Titles and ordering are cross-checked against the second-edition online indexes listed in `../../literature/mao-selected-works.md`.
+
 ## Corpus order
 
 Work through the selected corpus in published volume order. Do not skip directly to famous methodological essays, because earlier operational and organizational texts provide evidence about how the later abstractions were actually used.
@@ -23,6 +46,8 @@ v1-001-class-analysis.md
 v1-002-hunan-peasant-investigation.md
 ```
 
+Sequence numbers restart within each volume and follow the published order.
+
 ## Workflow for each article
 
 1. read the complete canonical text;
@@ -30,8 +55,9 @@ v1-002-hunan-peasant-investigation.md
 3. fill the common distillation protocol;
 4. separate source / interpretation / generalization / application;
 5. record candidate mechanisms as `G1` by default;
-6. compare with later articles before upgrading confidence;
-7. preserve contradictions, revisions, and failed/limited judgments.
+6. compare with earlier/later articles before upgrading confidence;
+7. preserve contradictions, revisions, and failed/limited judgments;
+8. update `corpus-index.md` only after the article card satisfies the definition of done.
 
 ## Synthesis gates
 
