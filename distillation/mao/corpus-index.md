@@ -18,9 +18,9 @@ This file is the execution ledger for Phase 1.
 |---|---:|---:|
 | I | 18 | 18 |
 | II | 40 | 40 |
-| III | 1 | 31 |
+| III | 2 | 31 |
 | IV | 0 | 70 |
-| **Total** | **59** | **159** |
+| **Total** | **60** | **159** |
 
 ---
 
@@ -95,7 +95,7 @@ This file is the execution ledger for Phase 1.
 ## Volume III — 31
 
 - [x] V3-001 《农村调查》的序言和跋
-- [ ] V3-002 改造我们的学习
+- [x] V3-002 改造我们的学习
 - [ ] V3-003 揭破远东慕尼黑的阴谋
 - [ ] V3-004 关于反法西斯的国际统一战线
 - [ ] V3-005 在陕甘宁边区参议会的演说
