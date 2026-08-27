@@ -256,6 +256,21 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-017 — Anti-communist incidents will continue locally without immediate nationwide civil war
+
+- Source/date: V2-027 `克服投降危险，力争时局好转`, 1940-01-28.
+- Type: event-scope + short-term political risk forecast.
+- Prediction: military/political restriction and sudden incidents will continue, but under current international and domestic constraints they are more likely to remain local than become an immediate nationwide anti-communist war or total capitulation.
+- Preconditions: Japan remains uncompromising; inter-imperialist conflicts persist; Soviet aid and Chinese resistance continue; middle groups and much of the Nationalist coalition resist capitulation.
+- Time horizon: `目前` / the coming phase after January 1940; no terminal date.
+- Observable outcome: recurring local clashes/restrictions, while the national anti-Japanese coalition and war continue without immediate full nationwide KMT-CCP civil war.
+- Later evidence: local military-political conflicts intensified through 1940 and included the January 1941 New Fourth Army Incident; nevertheless the Second United Front and the anti-Japanese war continued formally, and full nationwide civil war did not begin in this immediate phase.
+- Status: **substantially confirmed on relative scope; severity was high and the horizon is underspecified**.
+- Alternative explanation: both sides' strategic incentives, Japanese pressure, territorial separation and international constraints—not merely the listed class alignment—limited immediate nationwide war.
+- Model update: forecast incident frequency and system-level transition separately; a severe local event can remain compatible with a non-transition forecast while still requiring major model updates.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
