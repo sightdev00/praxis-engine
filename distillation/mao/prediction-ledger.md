@@ -104,6 +104,21 @@ prediction at time t
 
 ---
 
+## PRED-007 — Capitulation and split plots will necessarily be exposed and sanctioned
+
+- Source/date: V2-015 `反对投降活动`, 1939-06-30.
+- Type: actor/outcome forecast.
+- Prediction: even if capitulation and split actors temporarily gain advantage, they will ultimately be exposed by the people and sanctioned.
+- Preconditions: continued national historical task of united resistance; no institutional enforcement mechanism is specified.
+- Time horizon: unspecified (`最后`).
+- Observable outcome: identified actors lose concealment and face a measurable sanction attributable to public discovery.
+- Later evidence: some collaborationist actors were exposed and punished, but the broad category “暗藏的投降派” is not specified ex ante well enough to score all intended actors without retrospective relabeling.
+- Status: **partially compatible / under-specified**.
+- Alternative explanation: military defeat, regime change or elite conflict may produce punishment independently of public exposure.
+- Model update: moral inevitability claims require actor IDs, time bounds, enforcement path and counterfactuals before they can count as calibrated forecasts.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
