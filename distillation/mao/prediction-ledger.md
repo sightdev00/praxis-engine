@@ -119,6 +119,66 @@ prediction at time t
 
 ---
 
+## PRED-008 — The Soviet-German pact will consolidate bilateral peace
+
+- Source/date: V2-017 `关于国际新形势对新华日报记者的谈话`, 1939-09-01.
+- Type: actor/relationship + duration forecast.
+- Prediction: the pact has consolidated peace between the Soviet Union and Germany and secured Soviet development.
+- Preconditions: Germany continues respecting the pact; no operational failure condition is stated.
+- Time horizon: implied durable enough to matter strategically; not numerically specified.
+- Observable outcome: no German-Soviet war over the relevant strategic horizon.
+- Later evidence: Germany invaded the Soviet Union on 1941-06-22, less than two years later.
+- Status: **contradicted as a durable peace claim; short-term delay only**.
+- Alternative explanation: the pact temporarily bought Soviet time without changing Germany's longer-run objective.
+- Model update: distinguish a truce/buffer that delays conflict from a relationship mechanism that stabilizes peace.
+
+---
+
+## PRED-009 — Direct general European war is imminent
+
+- Source/date: V2-017, 1939-09-01.
+- Type: stage + timing + actor forecast.
+- Prediction: the one-sided appeasement stage will be replaced by direct war between the Anglo-French and German-Italian blocs; the conflict is imminent.
+- Preconditions: appeasement has exhausted itself and inter-imperialist conflict dominates.
+- Time horizon: `迫在眉睫`.
+- Observable outcome: Britain/France enter direct war with Germany/Italy.
+- Later evidence: Germany invaded Poland on the article's date; Britain and France declared war on Germany on 1939-09-03. Italy entered the war in June 1940.
+- Status: **confirmed on direction and near-term timing; causal framing only partially identified**.
+- Alternative explanation: treaty commitments to Poland, German decision-making and immediate military events explain timing more directly than a general law of reactionary policy.
+- Model update: a well-timed stage forecast does not validate every moral classification or causal attribution used to reach it.
+
+---
+
+## PRED-010 — The United States will delay entry and later seek capitalist-world leadership
+
+- Source/date: V2-017, 1939-09-01.
+- Type: actor strategy + sequence forecast.
+- Prediction: the US-led bloc will temporarily remain outside the war under neutrality, preserve domestic normality, later intervene and compete for leadership of the capitalist world.
+- Preconditions: entry remains temporarily against US interests; later opportunity emerges.
+- Time horizon: short-run delay followed by unspecified later action.
+- Observable outcome: initial non-belligerence, later entry, postwar leadership position.
+- Later evidence: the United States remained formally outside the European war until December 1941, then entered World War II and emerged with a leading postwar economic/security role.
+- Status: **substantially confirmed on sequence/direction; motive identification partial**.
+- Alternative explanation: domestic politics, Axis actions and Pearl Harbor affected timing; waiting need not have been a single preplanned leadership strategy.
+- Model update: observable sequence can confirm timing/direction without proving a unitary hidden motive.
+
+---
+
+## PRED-011 — Japan will shift emphasis from frontal offensives to political, economic and rear-area pressure
+
+- Source/date: V2-017, 1939-09-01.
+- Type: operating-mode forecast.
+- Prediction: large frontal offensives may become less likely while `以华制华`, `以战养战`, occupation sweeps and inducement/pressure for Chinese capitulation intensify.
+- Preconditions: Japan faces greater external difficulty but retains its objective in China.
+- Time horizon: the coming phase after Wuhan.
+- Observable outcome: relative change in Japanese operation mix, not merely presence of any one method.
+- Later evidence: Selected Works notes describe increased attacks on rear-area bases and political/economic methods, but independent campaign/occupation data are still needed to compare relative effort.
+- Status: **provisionally partial / requires quantitative historical validation**.
+- Alternative explanation: military logistics, terrain, Chinese force deployment and wider Pacific planning may drive the shift independently of the pact.
+- Model update: mode-shift forecasts require denominator/relative allocation evidence, not examples of the predicted mode alone.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

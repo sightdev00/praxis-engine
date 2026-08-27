@@ -186,3 +186,18 @@ earlier judgment
 - Candidate methodological lesson: responsibility models require timestamps. Later attribution must not be merged into the evidence set available when the earlier action/appeal was chosen.
 - Confidence: high that the textual positions differ; unknown-to-medium that this represents Mao's own epistemic revision rather than public tactics or later editorial construction.
 - Evidence pointer: `evidence/v2-016/evidence-ledger.md#E11-E14`.
+
+---
+
+## R-012 — Soviet-German pact interpreted as consolidated peace, broken within two years
+
+- Earlier article / date: V2-017, 1939-09-01.
+- Earlier judgment: the Soviet-German non-aggression pact had consolidated peace between the two countries and created a foundation for Soviet construction and wider peace support.
+- Later reality: Germany invaded the Soviet Union on 1941-06-22. The pact functioned as a temporary delay, not a durable bilateral peace mechanism.
+- What changed: observable actor behavior falsified the strong relationship forecast; the model would need to distinguish short-term tactical agreement from stable objective alignment.
+- Error type: `actor-model error + forecast horizon/calibration error + hidden-information problem`.
+- Was the earlier judgment explicitly revised?: not yet audited in a later corpus article; future 1941 texts must be checked.
+- Operational consequence: overconfidence in the pact's stabilizing meaning could understate preparation needs, although the Soviet state did continue preparing during the interval.
+- Candidate methodological lesson: agreements constrain actions only while compliance incentives remain. Score “bought time” separately from “created peace,” and preserve adversarial objectives unless evidence supports their change.
+- Confidence: high that the durable-peace wording conflicts with 1941 reality; medium on what time horizon the original speaker implicitly intended.
+- Evidence pointer: `evidence/v2-017/evidence-ledger.md#E01-E02`.
