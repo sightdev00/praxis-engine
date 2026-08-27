@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 31 | 40 |
+| II | 32 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **49** | **159** |
+| **Total** | **50** | **159** |
 
 ---
 
@@ -80,7 +80,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-029 向国民党的十点要求
 - [x] V2-030 《中国工人》发刊词
 - [x] V2-031 必须强调团结和进步
-- [ ] V2-032 新民主主义的宪政
+- [x] V2-032 新民主主义的宪政
 - [ ] V2-033 抗日根据地的政权问题
 - [ ] V2-034 目前抗日统一战线中的策略问题
 - [ ] V2-035 放手发展抗日力量，抵抗反共顽固派的进攻

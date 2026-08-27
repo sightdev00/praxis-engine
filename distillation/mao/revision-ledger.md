@@ -261,3 +261,18 @@ earlier judgment
 - Candidate methodological lesson: freeze decision-time specifications before scoring foresight. Later mature formulations can be valuable, but must be stored as updates rather than silently replacing the original contract.
 - Confidence: high that substantive post-1949 changes occurred; medium on the motive assigned to each change; disputed for some alleged 1940—1943 author revisions.
 - Evidence pointer: `evidence/v2-026/evidence-ledger.md#E17-E22`.
+
+---
+
+## R-017 — Yuan Shikai's “three days as emperor” corrected to several months
+
+- Earlier article / date: earlier published-text transcription of V2-032, 1940-02-20.
+- Earlier formulation: Yuan Shikai “做了三天的皇帝就死了,” used as a historical example for the universal rule that repression backfires on its initiator.
+- Later selected text: changes the duration to “做了几个月的皇帝就死了.”
+- What changed: an obviously false precise duration was replaced by a materially more accurate approximate duration; the surrounding causal example and universal rule were retained.
+- Error type: `factual / numeric error corrected; causal generalization not revalidated`.
+- Was the earlier judgment explicitly revised?: the wording is revised in the selected text; authorship and edit date are not independently established here.
+- Operational consequence: exact historical details can be corrected while the larger narrative that selected them remains unchanged. Local fact correction must not be counted as validation of the containing universal mechanism.
+- Candidate methodological lesson: audit at two levels—claim data and inference. Fixing a datum does not automatically repair sampling, causal attribution or universal quantification.
+- Confidence: high that the compared texts differ and the later duration is substantially closer to the historical interval; contemporaneous scan and editorial provenance remain pending.
+- Evidence pointer: `evidence/v2-032/evidence-ledger.md#E14-E15`.

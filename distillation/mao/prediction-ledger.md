@@ -286,6 +286,21 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-019 — Constitutional mobilization will produce New Democratic government within years
+
+- Source/date: V2-032 `新民主主义的宪政`, 1940-02-20.
+- Type: institutional direction + mobilization + approximate-time forecast.
+- Prediction: distributed constitutional-promotion activity will aggregate nationally; reactionary obstruction cannot reverse the historical direction; continued effort for “a few years” will bring the project close to realization and China will become a New Democratic state.
+- Preconditions: mass mobilization expands, the non-reactionary majority acts, local campaigns influence the country and anti-Japanese/democratic forces prevail.
+- Time horizon: `做他几年，也就差不多`; endpoint is not precisely defined.
+- Observable outcome: distinguish (a) broader constitutional movement, (b) enforceable democratic rights, (c) a New Democratic state, and (d) a formal constitution; date each separately.
+- Later evidence: not scored at entry. Later 1940s corpus and constitutional/institutional history must be compared without treating the 1949 CCP victory or 1954 Constitution as automatic confirmation of every component.
+- Status: **unresolved / endpoint under-specified**.
+- Alternative explanation: institutional change may follow war outcome, organizational/military control, international intervention and state-building rather than the promotion-meeting mechanism.
+- Model update: predictions about “constitutional progress” require separate artifacts, operating-rights and power-transition measures; do not let an eventual favored regime validate an unspecified near-term process forecast.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

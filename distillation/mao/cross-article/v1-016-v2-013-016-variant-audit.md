@@ -1,4 +1,4 @@
-# Variant Audit — V1-016, V2-013, V2-015, V2-016, V2-029, V2-031
+# Variant Audit — V1-016, V2-013, V2-015, V2-016, V2-029, V2-031, V2-032
 
 > Status: source-critical cross-article control; not an author-method confidence upgrade
 
@@ -26,6 +26,7 @@ Because all cases pass through a related editorial tradition, they are not indep
 | V2-016 `必须制裁反动派` | Original appeals to law, life protection, Chiang and the National Government; selected text compresses that interface, while later notes identify Chiang as the secret commander | The later responsibility attribution was already available at the original decision point |
 | V2-029 `向国民党的十点要求` | Original title is `讨汪拥蒋大会通电`, directly addresses Chiang/government and a broad delivery network, calls it `我国民政府`, supports Chiang's resistance and carries named/30,000-person signatures; selected text removes these while retaining most demands | The 1940 artifact was a one-way anti-KMT demand rather than conditional recognition plus pressure through a shared governmental interface |
 | V2-031 `必须强调团结和进步` | Earlier long document is a Feb. 1 Central Committee decision with alternative futures, influencing conditions, ten tasks and fourteen public slogans; selected text is presented as a Feb. 7 Mao editorial and retains only the three-objective argument/failure list | A branch-aware executable strategy was merely a timeless slogan, while its organizational owner, uncertainty, implementation portfolio and pro-Chiang/government delivery interface disappear |
+| V2-032 `新民主主义的宪政` | Earlier transcription says Yuan was emperor for three days, attributes a saying to Li Yuanhong, uses narrower Western comparison cases and more colloquial insults; selected text corrects the duration, removes attribution, softens some rhetoric but expands some external-system claims | Editorial revision is always retrospective hardening; here it also performs real fact correction and rhetorical cleanup, while leaving the universal causal claim unaudited |
 
 ## Source-critical mechanism
 
