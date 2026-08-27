@@ -201,3 +201,18 @@ earlier judgment
 - Candidate methodological lesson: agreements constrain actions only while compliance incentives remain. Score “bought time” separately from “created peace,” and preserve adversarial objectives unless evidence supports their change.
 - Confidence: high that the durable-peace wording conflicts with 1941 reality; medium on what time horizon the original speaker implicitly intended.
 - Evidence pointer: `evidence/v2-017/evidence-ledger.md#E01-E02`.
+
+---
+
+## R-013 — “Stalemate has arrived” gains condition, scale and action boundaries
+
+- Earlier article / date: V2-017, 1939-09-01.
+- Earlier judgment: under the new international environment, greater Japanese difficulty and Chinese non-compromise, strategic retreat had ended and stalemate had arrived.
+- Later evidence/article: V2-018, 1939-09-16, says stalemate has arrived only conditionally; large campaign offensives and local retreats remain possible; campaign counterattacks are necessary while strategic counteroffensive is not yet authorized.
+- What changed: the direction judgment remains, but its specification gains preconditions, strategic/campaign scale separation, residual events and an explicit commitment boundary.
+- Error type: `model specification incomplete / scope clarification`, not a demonstrated reversal.
+- Was the earlier judgment explicitly revised?: clarified and narrowed fifteen days later.
+- Operational consequence: prevents local enemy offensives from being treated as automatic falsification of strategic stalemate, and prevents “prepare counteroffensive” from authorizing premature strategic attack.
+- Candidate methodological lesson: when a stage label controls action, define what counter-events remain compatible and which actions are still forbidden.
+- Confidence: high textual confidence; empirical accuracy of the stage date still requires war-history validation.
+- Evidence pointer: `evidence/v2-018/evidence-ledger.md#E01-E04`.
