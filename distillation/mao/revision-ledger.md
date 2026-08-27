@@ -246,3 +246,18 @@ earlier judgment
 - Candidate methodological lesson: timestamp taxonomies. Structural identity may set a prior, but behavior and context must control later category splits, merges and policy consequences.
 - Confidence: high textual confidence on the revision record; empirical quality of the new grouping still requires independent outcome validation.
 - Evidence pointer: `evidence/v2-023/evidence-ledger.md#E18-E21`.
+
+---
+
+## R-016 — New Democracy's selected text was reweighted after the later institutional choice
+
+- Earlier article / date: early published V2-026 `新民主主义论`, 1940.
+- Earlier model: placed greater rhetorical weight on the identity between New Democracy and the revolutionary Three People's Principles; limited land confiscation wording to big landlords; described the current agricultural stage without the selected text's stronger cooperative-socialist bridge.
+- Later evidence/article: post-1949 revisions for the Selected Works added that state economy was socialist in nature and the leading force, added cooperative economy as a socialist factor, broadened `big landlord` to `landlord`, and reduced some New Democracy/New Three People's Principles equivalence while strengthening the socialist connection.
+- What changed: the transition model was rewritten toward the institutional route actually chosen after victory.
+- Error type or environment change: `retrospective model reweighting / policy-scope expansion / outcome-informed editing`.
+- Was the earlier judgment explicitly revised?: the textual revisions are well documented; the exact motivation of each edit is inferred from timing and content, not individually stated by Mao.
+- Operational consequence: a selected-only reader can mistake post-1949 knowledge and policy choice for the exact coalition/property commitment offered in 1940.
+- Candidate methodological lesson: freeze decision-time specifications before scoring foresight. Later mature formulations can be valuable, but must be stored as updates rather than silently replacing the original contract.
+- Confidence: high that substantive post-1949 changes occurred; medium on the motive assigned to each change; disputed for some alleged 1940—1943 author revisions.
+- Evidence pointer: `evidence/v2-026/evidence-ledger.md#E17-E22`.

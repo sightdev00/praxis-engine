@@ -237,6 +237,23 @@ prediction at time t
 - Alternative explanation: Soviet aid was unusually early and valuable, while later non-socialist aid emerged as US/Japanese relations and the global war changed. Actor policy was stage-dependent, not fixed by regime class alone.
 - Model update: define aid by observable transfer, risk, delivery and effect; score motive and reliability separately. Do not use “true” to immunize a class prediction from counterexamples.
 
+Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable condition of final resistance victory. This is not counted as independent confirmation because it repeats the same actor model before the outcome.
+
+---
+
+## PRED-016 — Socialist republics will become the form of all advanced industrial states
+
+- Source/date: V2-026 `新民主主义论`, 1940-01.
+- Type: global institutional-form + historical-direction forecast.
+- Prediction: Soviet-style proletarian socialist republics are developing in capitalist countries and will become the dominant state form of all advanced industrial countries; capitalism is in decisive terminal decline.
+- Preconditions: socialist forces continue rising, capitalist crisis deepens and colonial revolutions join a unified world-socialist trajectory.
+- Time horizon: described as the current epoch and coming historical period; no numeric deadline.
+- Observable outcome: all advanced industrial capitalist countries transition to socialist republics, with capitalism ceasing to be their dominant institutional/economic form.
+- Later evidence: socialist/communist states expanded substantially after World War II, but advanced industrial countries followed divergent paths; most retained mixed capitalist economies and plural or authoritarian non-socialist state forms, while the Soviet Union itself dissolved in 1991.
+- Status: **contradicted as a universal institutional forecast**.
+- Alternative explanation: war and crisis enabled socialist revolutions in some institutional/geopolitical conditions, welfare-capitalist adaptation in others, and multiple hybrid/authoritarian paths elsewhere.
+- Model update: replace epoch-wide inevitability with conditional transition models; specify units, mechanisms, time horizons and disconfirming survivor cases.
+
 ---
 
 ## Future entry template
