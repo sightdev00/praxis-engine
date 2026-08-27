@@ -8,6 +8,7 @@ Files:
 
 - `agent-learning-loop.md` — rules for the dual object/meta learning loop;
 - `protocol-evolution.md` — chronological decisions about changes to the research protocol.
+- `durability-protocol.md` — checkpoint, validation, and remote-recovery rules after the 66/159 baseline audit.
 
 The meta layer must not become a substitute for reading the corpus. Its purpose is to make methodological changes explicit, testable, reversible, and traceable.
 

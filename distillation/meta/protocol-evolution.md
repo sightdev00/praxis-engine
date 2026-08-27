@@ -304,3 +304,31 @@ Recursive challenge can block commitment. Use full review at retrospectives, rep
 ### Validation target
 
 V3-007/018 and later organizational/economic reviews must test whether the new field finds real omitted causes without turning every task into unlimited constitutional review. Do not write to AgentRecord until it survives beyond this corpus/project context.
+
+---
+
+## 2026-08-27 — After the 66/159 recovery audit: make persistence a research invariant
+
+### Trigger
+
+The repository contained committed artifacts only through V3-007 plus a source-based
+reconstruction of V4-026, while earlier conversation updates had reported additional
+analysis that was not present as files or commits.
+
+### Change adopted
+
+Add a durability protocol and repository validator. Treat committed article artifacts as
+the only completion evidence, write the corpus index last, checkpoint each article in an
+independent commit, and verify the remote tree after every published checkpoint.
+
+### Rationale
+
+The research process is itself an information-retention system. A correct analysis that
+cannot be recovered after a session boundary is operationally equivalent to missing
+analysis. Durability is therefore part of the method, not clerical cleanup.
+
+### Boundary
+
+This protects persistence and provenance; it does not make a source-based reconstruction
+equivalent to recovery of the missing original work. Reconstructed material must retain
+that label and must not be used to claim that the earlier lost analysis was recovered.
