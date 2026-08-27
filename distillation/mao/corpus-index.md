@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 29 | 40 |
+| II | 30 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **47** | **159** |
+| **Total** | **48** | **159** |
 
 ---
 
@@ -78,7 +78,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-027 克服投降危险，力争时局好转
 - [x] V2-028 团结一切抗日力量，反对反共顽固派
 - [x] V2-029 向国民党的十点要求
-- [ ] V2-030 《中国工人》发刊词
+- [x] V2-030 《中国工人》发刊词
 - [ ] V2-031 必须强调团结和进步
 - [ ] V2-032 新民主主义的宪政
 - [ ] V2-033 抗日根据地的政权问题
