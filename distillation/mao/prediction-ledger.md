@@ -512,6 +512,54 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-034 — The next two years will bring worse material difficulty while the war seeks victory within two years
+
+- Source/date: V3-009 `一个极其重要的政策`, 1942-09-07.
+- Type: resource-constraint forecast plus mobilizing time target.
+- Prediction: the fifth and sixth years of resistance approach victory but contain extreme difficulty; material conditions will necessarily worsen, and the revolutionary side should strive to defeat Japan within two years.
+- Preconditions: enemy sweeps/blockade continue to compress bases; production, trade, external assistance and the international war do not offset the decline; “two years” is treated as a planning target rather than guaranteed date.
+- Time horizon: approximately September 1942 to September 1944.
+- Observable outcome: track base area/population, production, fiscal burden, prices, supplies, force support and war termination separately.
+- Later evidence: severe constraint and blockade were real, but the Border Region also improved production and used trade/financial measures; Japan surrendered in August 1945, about three years after the article.
+- Status: **partial on severe constraints; contradicted if two years is read as a completion forecast; over-certain on monotonic material worsening**.
+- Alternative explanation: international military developments and multiple domestic economic interventions shaped both hardship and war termination.
+- Model update: separate stress scenario, action target and base-case forecast; close each against its own horizon.
+- Evidence pointer: `evidence/v3-009/evidence-ledger.md#E03-E07; E21-E22`.
+
+---
+
+## PRED-035 — Base areas may shrink further and make the existing institutional footprint unsustainable
+
+- Source/date: V3-009, 1942-09-07.
+- Type: environmental-capacity forecast.
+- Prediction: after already shrinking, anti-Japanese base areas may contract further for a period, making large war institutions increasingly mismatched to their support base.
+- Preconditions: enemy territorial pressure remains effective; population and production capacity fall faster than institutional demand; local areas are not offset by expansion elsewhere.
+- Time horizon: the following phase of the war, unspecified.
+- Observable outcome: region-level territory, governed population, production/support capacity and institutional load ratios.
+- Later evidence: not fully reconstructed here. Available policy histories confirm contemporary pressure and high nonproductive ratios, but later territorial paths varied across base areas.
+- Status: **unresolved / region-dependent**.
+- Alternative explanation: administrative inefficiency, fiscal policy and external supply loss may create overload even without further territorial contraction.
+- Model update: forecast the capacity ratio directly instead of using territory alone as its proxy.
+- Evidence pointer: `evidence/v3-009/evidence-ledger.md#E06-E10`.
+
+---
+
+## PRED-036 — A smaller, denser institution will remain capable and become harder to defeat
+
+- Source/date: V3-009, 1942-09-07.
+- Type: policy-effect forecast.
+- Prediction: reducing and consolidating military/government institutions while strengthening frontline and grassroots units will lower the fish-water mismatch, leave the organization powerful and make it more capable of surviving and ultimately defeating the enemy.
+- Preconditions: cuts target low-value overhead; critical functions and redundancy survive; burdens are not hidden or shifted; released personnel/material reach higher-value uses.
+- Time horizon: implementation through the remaining war.
+- Observable outcome: total support burden, force readiness, administrative service, recovery, local legitimacy, personnel harm and survival/outcome.
+- Later evidence: official histories record repeated implementation, lower personnel ratios, unit consolidation, local/frontline reinforcement and reduced burden; ultimate victory occurred, but many co-interventions and international causes prevent independent attribution.
+- Status: **partially confirmed on implementation and burden direction; causal contribution to strength/victory unidentifiable**.
+- Alternative explanation: production, trade, finance, mobilization, external war and enemy decline may explain resilience; some costs may have been shifted outside formal headcount.
+- Model update: evaluate capability density and total-system burden, not cut size or endpoint victory alone.
+- Evidence pointer: `evidence/v3-009/evidence-ledger.md#E11; E15-E22`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

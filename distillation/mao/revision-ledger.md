@@ -408,3 +408,17 @@ earlier judgment
 - Candidate methodological lesson: when a version adds or removes a claim that can withdraw rights, trigger investigation or redefine critics as enemies, preserve the old claim, evidence standard, actuator, affected actors and correction outcome. A clean final text is not a complete learning record.
 - Confidence: high that the 1943 addition and 1953 deletion occurred; medium on the causal role of this exact wording in individual cases because campaign actions had multiple upstream signals.
 - Evidence pointer: `evidence/v3-008/evidence-ledger.md#E39-E43`.
+
+---
+
+## R-027 — A once-appropriate large wartime institution is explicitly resized after carrying capacity falls
+
+- Earlier policy/state: during the earlier resistance period, a large war organization was described as permitted and appropriate to the available territorial and material base.
+- Later article/date: V3-009 `一个极其重要的政策`, 1942-09-07.
+- What changed: after base contraction and rising material pressure, preserving the earlier footprint is reclassified from strength to a fish-water mismatch; the replacement policy is force/government consolidation, grassroots reinforcement and lower overhead.
+- Error type or environment change: `environment change + institutional lag + sunk-cost/status-quo resistance`.
+- Was the earlier judgment explicitly revised?: yes. The text says the old arrangement fit the old situation and must change now; it does not claim the earlier scale was always mistaken.
+- Operational consequence: organization size becomes a state variable rather than a permanent achievement. Subsequent implementation used multiple rounds and local adjustments, indicating that the first resizing was not self-validating.
+- Candidate methodological lesson: preserve the state variables that made a design fit; when they change, recompute capacity, dependencies, redundancy and affected-person costs. Do not confuse reversal caused by environment change with proof that the original design was wrong.
+- Confidence: high textual confidence on explicit state-conditioned revision; medium empirical confidence on which exact cuts increased net capability.
+- Evidence pointer: `evidence/v3-009/evidence-ledger.md#E08-E22`.
