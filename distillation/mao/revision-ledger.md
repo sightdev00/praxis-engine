@@ -422,3 +422,18 @@ earlier judgment
 - Candidate methodological lesson: preserve the state variables that made a design fit; when they change, recompute capacity, dependencies, redundancy and affected-person costs. Do not confuse reversal caused by environment change with proof that the original design was wrong.
 - Confidence: high textual confidence on explicit state-conditioned revision; medium empirical confidence on which exact cuts increased net capability.
 - Evidence pointer: `evidence/v3-009/evidence-ledger.md#E08-E22`.
+
+---
+
+## R-028 — Mass cadre examination received investigation and irreversible-action controls after false-positive escalation
+
+- Earlier policy/date: V3-013 `关于领导方法的若干问题`, 1943-06-01.
+- Earlier judgment: cadre examination would be fully successful when a chief leader, higher guidance and broad or universal participation replaced isolated work by a small organization department.
+- Later evidence/date: the July 1943 Rescue Campaign rapidly produced coercive confession, mass suspicion and many false/unjust cases; on July 30 the center stressed investigation, distinguishing cases and stopping the campaign, in August reissued review rules, and in October required “kill none, arrest the great majority not.”
+- What changed: participation and unified responsibility were no longer treated as sufficient. Fact investigation, classification, stop conditions and limits on irreversible coercion were added.
+- Error type: `high-consequence domain overextension + false-positive cascade + missing evidence/rights controls`.
+- Was the earlier judgment explicitly revised?: yes operationally, though later correction did not fully audit the June decision's role or provide complete independent adjudication and remedy.
+- Operational consequence: the mass-line loop must be consequence-weighted; accusation and punishment require safeguards beyond the general leadership method.
+- Candidate methodological lesson: when a feedback method moves from reversible production/education experiments to identity classification and coercion, increase evidence, separate investigation from judgment, protect dissent, add stop rules and preserve repair for false positives.
+- Confidence: high on temporal sequence and documented corrective rules; medium on causal contribution of this single June text because the campaign had multiple directives and actors.
+- Evidence pointer: `evidence/v3-013/evidence-ledger.md#E30-E40`.

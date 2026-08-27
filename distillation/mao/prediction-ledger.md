@@ -752,6 +752,70 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-049 — General calls combined with a few deeply guided units will produce valid, scalable guidance
+
+- Source/date: V3-013 `关于领导方法的若干问题`, 1943-06-01.
+- Type: organizational-learning causal forecast.
+- Prediction: a broad call followed by direct study and guidance in two or three representative units will test and enrich the call, generate experience and enable effective general guidance; calls without this step will fail.
+- Preconditions: selected units expose rather than conceal failure; outcomes are comparable; leaders update rather than confirm priors; wider units share relevant conditions.
+- Time horizon: the 1943 rectification cycle and any subsequent work cycle.
+- Observable outcome: pilot selection, process fidelity, negative results, version changes and comparative rollout performance.
+- Later evidence: the method became influential and can explain implementation learning, but the article provides no common-denominator 1942 comparison; later rectification errors show that deep local activity can also scale false beliefs.
+- Status: **plausible and partially supported as a learning architecture; universal success claim unidentifiable**.
+- Alternative explanation: successful units may have had stronger leaders/resources and been selected because they were already likely to succeed.
+- Model update: pair purposeful pilots with failure, edge and random samples; preserve pre-registered outcomes and rejected hypotheses.
+- Evidence pointer: `evidence/v3-013/evidence-ledger.md#E04-E10; E23-E26; E36-E40`.
+
+---
+
+## PRED-050 — A dynamic leadership core joined to the broad mass is necessary to complete organizational tasks
+
+- Source/date: V3-013, 1943-06-01.
+- Type: team-structure necessity forecast.
+- Prediction: neither an isolated core nor unorganized mass activity can complete and sustain tasks; a core formed in practice, linked to the mass and periodically renewed is necessary across schools, units, factories and villages.
+- Preconditions: core members are selected by real capability/integrity rather than conformity; mass feedback remains candid; replacement is possible.
+- Time horizon: across each task's start, middle and final stages.
+- Observable outcome: task performance with/without such cores, turnover quality, participation, dissent and failure recovery.
+- Later evidence: many effective organizations use coordinating cores and distributed participation, but no universal comparison validates necessity; the Rescue Campaign shows a connected, mobilizing core can coordinate harmful error.
+- Status: **partially supported as complementarity; contradicted as a sufficient guarantee of correct direction**.
+- Alternative explanation: expertise, incentives, material resources and institutional checks may matter more than core-mass structure in some domains.
+- Model update: evaluate core epistemic quality and contestability, not just cohesion, loyalty or mobilization reach.
+- Evidence pointer: `evidence/v3-013/evidence-ledger.md#E11-E17; E36-E40`.
+
+---
+
+## PRED-051 — Repeated mass-opinion and action cycles will become progressively more correct and richer
+
+- Source/date: V3-013, 1943-06-01.
+- Type: iterative epistemic forecast.
+- Prediction: gathering dispersed opinions, synthesizing them, returning them as action, testing in action and repeating will make judgments progressively more correct, vivid and rich.
+- Preconditions: raw disagreement is preserved; synthesis is revisable; outcomes can falsify policy; people can report error without penalty; causal feedback is interpretable.
+- Time horizon: indefinite repeated cycles.
+- Observable outcome: forecast/error reduction, preserved dissent, explicit version updates and correction speed across cycles.
+- Later evidence: the ensuing cadre-examination campaign produced rapid false-positive amplification before additional investigation and consequence limits were imposed. This demonstrates that iteration alone is not monotonic learning.
+- Status: **contradicted in unconditional monotonic form; conditionally useful with signal, rights and falsification controls**.
+- Alternative explanation: hierarchy, fear and selection can make later cycles more uniform but less true.
+- Model update: feedback topology and incentives determine learning direction; every loop needs independent error signals and a stop rule.
+- Evidence pointer: `evidence/v3-013/evidence-ledger.md#E18-E26; E36-E40`.
+
+---
+
+## PRED-052 — Unified chief responsibility and broad participation will make cadre examination fully successful
+
+- Source/date: V3-013, 1943-06-01.
+- Type: high-consequence governance forecast.
+- Prediction: cadre examination cannot succeed through a small organization department alone; if the administrative chief mobilizes many or all members under correct higher guidance, its purpose will certainly be fully achieved.
+- Preconditions: higher guidance is correct; evidence is reliable; participation does not create accusation incentives; investigation, adjudication and appeal are adequately separated.
+- Time horizon: the active 1943 cadre-examination campaign.
+- Observable outcome: false-positive/false-negative rates, coercion, detention, correction, appeal and verified security outcomes.
+- Later evidence: the July Rescue Campaign generated large numbers of false and unjust cases and coercive confessions; the center then stopped the campaign and added investigation, classification and limits on killing/arrest.
+- Status: **contradicted in its strong “certainly fully achieved” form**.
+- Alternative explanation: the failure reflected threat exaggeration and coercive implementation, but those are precisely missing preconditions in the June governance design.
+- Model update: mass participation and unified command cannot substitute for evidence, separated powers, defense, independent review and reversible action.
+- Evidence pointer: `evidence/v3-013/evidence-ledger.md#E27-E40`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
