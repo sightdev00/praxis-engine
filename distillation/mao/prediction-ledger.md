@@ -816,6 +816,70 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-053 — Hu Zongnan's deployment represented a real attack preparation and civil-war crisis
+
+- Source/date: V3-014 `质问国民党`, 1943-07-12.
+- Type: event-warning forecast / hidden-intent inference.
+- Prediction: the withdrawal of major forces from Yellow River defense and movement toward the Border Region formed part of a real plan to strike Yan'an, not merely rhetoric or a routine deployment.
+- Preconditions: the acquired intelligence was authentic; troop locations and readiness were reported correctly; the temporary halt did not erase the earlier plan.
+- Time horizon: early July 1943 through the immediate crisis.
+- Observable outcome: operational orders, deployment records, protest sequence, halt/withdrawal instructions and continuing readiness.
+- Later evidence: official historical reconstruction records July 3 intelligence of a surprise-attack plan, protests on July 4 and 6, and Chiang's July 9 order temporarily not to act against northern Shaanxi.
+- Status: **substantially confirmed as a real attack-preparation crisis; exact probability and command maturity remain uncertain**.
+- Alternative explanation: some movement may have served coercive signaling or contingency preparation rather than an irrevocable attack decision.
+- Model update: score the warning separately from later actor-identity accusations; preserve intelligence confidence and observable force indicators.
+- Evidence pointer: `evidence/v3-014/evidence-ledger.md#E03-E09; E27-E35`.
+
+---
+
+## PRED-054 — An attack on the Border Region would damage resistance and create opportunity for Japan
+
+- Source/date: V3-014, 1943-07-12.
+- Type: downstream military and coalition-risk forecast.
+- Prediction: redirecting river-defense forces into an anti-Communist attack would weaken the anti-Japanese front, fracture cooperation and allow Japan to benefit.
+- Preconditions: the redeployment materially opened the defense; fighting was sustained enough to consume forces; Japan could observe and exploit the opportunity.
+- Time horizon: immediate campaign and following resistance period.
+- Observable outcome: defense gaps, Japanese operations, diverted strength, coalition breakdown and civilian/military losses under attack/no-attack branches.
+- Later evidence: the attack did not proceed in July, so the strong counterfactual was not directly observed; the opportunity-cost mechanism remains credible, and later civil war confirms the broader coalition-breakdown risk without validating the specific 1943 Japanese-response branch.
+- Status: **plausible but counterfactual and not directly confirmed**.
+- Alternative explanation: a rapid successful coercive action might have produced less river-defense cost than the article implied, though this would still threaten coalition cooperation.
+- Model update: express downstream harm as scenario ranges and trigger indicators rather than a certain enemy response.
+- Evidence pointer: `evidence/v3-014/evidence-ledger.md#E05-E09; E34-E40`.
+
+---
+
+## PRED-055 — Disclosure, coalition pressure and external attention can stop or reduce the crisis
+
+- Source/date: V3-014, 1943-07-12.
+- Type: public-deterrence intervention forecast.
+- Prediction: exposing deployments and propaganda, appealing to patriotic Kuomintang members and mobilizing domestic/international attention will raise the price of attack and help force de-escalation.
+- Preconditions: the disclosure is credible; audiences can impose political or material cost; the opponent retains a face-saving off-ramp; self-defense readiness prevents cheap attack.
+- Time horizon: July to December 1943.
+- Observable outcome: halt/withdrawal instructions, reduced hostile propaganda, negotiations, public response and change in attack readiness.
+- Later evidence: the July 9 temporary-stop order preceded the July 12 editorial, but it followed earlier telegrams and dissemination; continuing pressure, international factors, preparedness and later reciprocal de-escalation accompanied December easing.
+- Status: **partially supported for the broader deterrence campaign; the marginal effect of this editorial is unidentifiable**.
+- Alternative explanation: Chiang's own military/political cost calculation, international conditions or private communications may have been sufficient.
+- Model update: treat public writing as one actuator in a bundle and preserve time-stamped intermediate decisions.
+- Evidence pointer: `evidence/v3-014/evidence-ledger.md#E21-E25; E29-E39`.
+
+---
+
+## PRED-056 — Behavioral similarity indicates direct collusion or tacit agreement with enemy and puppet forces
+
+- Source/date: V3-014, 1943-07-12.
+- Type: actor-identity / coordination inference.
+- Prediction: shared anti-Communist aims and similar demands/actions are evidence that relevant Kuomintang elements and enemy-puppet forces are colluding or acting in tacit agreement as forms of a fifth column.
+- Preconditions: similarity is not explained by independent incentives; communications or coordination effects are observable; named actors are correctly linked to the acts.
+- Time horizon: current 1943 campaign and subsequent documentary discovery.
+- Observable outcome: communications, common operational planning, synchronized acts beyond shared incentives, financing/command links and actor-specific records.
+- Later evidence: accessible reconstruction supports the Kuomintang attack plan and propaganda campaign but does not independently establish the article's broad collusion/tacit-agreement classification.
+- Status: **unconfirmed and overextended beyond the public evidence shown**.
+- Alternative explanation: actors with a common anti-Communist preference can behave similarly without communication, joint command or shared identity.
+- Model update: keep similarity, common incentive, tacit coordination and direct collusion as separate hypotheses with rising evidence thresholds and consequence limits.
+- Evidence pointer: `evidence/v3-014/evidence-ledger.md#E10-E20; E36-E40`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

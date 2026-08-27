@@ -437,3 +437,18 @@ earlier judgment
 - Candidate methodological lesson: when a feedback method moves from reversible production/education experiments to identity classification and coercion, increase evidence, separate investigation from judgment, protect dissent, add stop rules and preserve repair for false positives.
 - Confidence: high on temporal sequence and documented corrective rules; medium on causal contribution of this single June text because the campaign had multiple directives and actors.
 - Evidence pointer: `evidence/v3-013/evidence-ledger.md#E30-E40`.
+
+---
+
+## R-029 — Public escalation was later reduced after the attack state changed
+
+- Earlier policy/date: the July 1943 deterrence campaign culminating in V3-014 `质问国民党`, 1943-07-12.
+- Earlier judgment: public exposure, accusation, coalition appeal and external attention were used to raise the cost of a threatened attack while self-defense preparation continued.
+- Later evidence/date: after the July 9 temporary-stop order and continuing non-withdrawal risk, the CCP on October 6 decided temporarily to stop publicly exposing the Kuomintang in order to test political easing; Chiang ordered an easing of the northern Shaanxi situation in December.
+- What changed: the public-pressure actuator was reduced when the immediate threat state changed, while readiness and political monitoring remained.
+- Error type: `environment change + escalation-control revision`.
+- Was the earlier judgment explicitly revised?: operationally yes; this was not an admission that the original attack warning was false, but a change in action after deterrence partly succeeded.
+- Operational consequence: deterrence requires an exit condition. Continuing maximum public pressure after an opponent pauses can destroy a face-saving off-ramp and create a self-sustaining escalation loop.
+- Candidate methodological lesson: precommit both escalation and de-escalation triggers; record state changes, reciprocal signals and residual defense separately from public rhetoric.
+- Confidence: high on sequence, medium on the independent causal effect of the October change.
+- Evidence pointer: `evidence/v3-014/evidence-ledger.md#E32-E39`.
