@@ -354,8 +354,8 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 - Preconditions: international pressure, KMT factional contradictions, domestic public opinion and continued CCP protest constrain escalation.
 - Time horizon: `从此暂时`; no expiry date.
 - Observable outcome: track system-level coalition status separately from regional attacks, political restrictions and propaganda; identify when easing ends.
-- Later evidence: not fully scored at entry. V2-040 is the immediate internal review; later wartime corpus/history must establish event frequency, national coalition continuity and regional scope.
-- Status: **unresolved / calibrated and falsifiable by scale**.
+- Later evidence: V2-040 (1941-05-08) again states that the high tide has passed and the war continues in a new environment, while retaining preparation against anti-Communist pressure. This is a same-source near-term confirmation of the system-direction update, not independent evidence for local event frequency or the claimed causal mechanism.
+- Status: **provisionally confirmed on near-term system direction by same-source update; local-scope/mechanism validation pending**.
 - Alternative explanation: limited easing may reflect the KMT's already-limited objectives or resource/external constraints rather than CCP pressure; local conflict persistence may arise from decentralized actors.
 - Model update: maintain separate alert levels by scale and channel. A severe local incident need not imply system transition, while non-transition does not make local harm minor.
 
