@@ -83,7 +83,7 @@ Use, where applicable:
 Target architecture:
 
 ```text
-article-cards/<article>.md       # compact synthesis / argument map
+article-cards/<原文章中文标题>.md   # compact synthesis / argument map
 evidence/<article>/              # detailed source and evidence audit
 cross-article/                    # pattern tracking
 revision-ledger.md                # later corrections, reversals, failed judgments

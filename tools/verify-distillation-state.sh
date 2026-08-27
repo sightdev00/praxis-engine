@@ -18,7 +18,8 @@ while IFS= read -r index_line; do
   article=$(printf '%s\n' "$index_line" | rg -o 'V[1-4]-[0-9]{3}')
   [[ -z "$article" ]] && continue
   completed=$((completed + 1))
-  card_count=$(find "$cards_dir" -maxdepth 1 -type f -iname "${article,,}-*.md" | wc -l)
+  cards=$(rg -l "^# ${article} " "$cards_dir" --glob '*.md' || true)
+  card_count=$(printf '%s\n' "$cards" | sed '/^$/d' | wc -l)
   evidence_file="$evidence_dir/${article,,}/evidence-ledger.md"
 
   if [[ "$card_count" -ne 1 ]]; then
@@ -30,8 +31,16 @@ while IFS= read -r index_line; do
     failures=$((failures + 1))
   fi
 
+  if [[ "$card_count" -eq 1 ]]; then
+    card="$cards"
+    title=$(sed -n "1s/^# ${article} //p" "$card")
+    if [[ "$(basename "$card" .md)" != "$title" ]]; then
+      echo "${article}: article-card filename must equal original Chinese title: $(basename "$card")" >&2
+      failures=$((failures + 1))
+    fi
+  fi
   if [[ "$card_count" -eq 1 && "$index_line" != *"legacy card; current-protocol evidence re-audit recorded"* ]]; then
-    card=$(find "$cards_dir" -maxdepth 1 -type f -iname "${article,,}-*.md")
+    card="$cards"
     for pass_no in 0 1 2 3 4 5 6; do
       if ! rg -q "^# Pass ${pass_no}( |$)" "$card"; then
         echo "${article}: missing Pass ${pass_no} in $(basename "$card")" >&2
