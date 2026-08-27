@@ -171,3 +171,18 @@ earlier judgment
 - Candidate methodological lesson: adding an evidence-gathering step is not enough; the evidence process itself needs quality, sampling, ontology, recording and bias controls.
 - Confidence: high textual confidence via editorial note; primary 1931 document should later be audited.
 - Evidence pointer: `evidence/v1-007/evidence-ledger.md#E17`.
+
+---
+
+## R-011 — From petitioning Chiang as enforcement authority to later identifying him as hidden commander
+
+- Earlier article / date: original 1939 version of V2-016 `用国法制裁反动份子`, 1939-08-01.
+- Earlier public judgment/action: request Chiang Kai-shek and the National Government to enforce law, punish the perpetrators and protect anti-Japanese personnel. The text attributes the killings to domestic reactionaries and ultimately to Japanese/Wang Jingwei direction, but does not publicly identify Chiang as the commander.
+- Later evidence/article: the Selected Works second-edition note [1] to V2-016 states that the Pingjiang massacre was carried out under Chiang's secret order and identifies him and his followers as the reactionaries attacked in the speech.
+- What changed: the apparent actor model changes from `Chiang/government as petitioned enforcement interface` to `Chiang as hidden principal of the event`.
+- Error type or environment change: `actor-model revision / later responsibility attribution`, with possible tactical-public-position and editorial-framing confounds.
+- Was the earlier judgment explicitly revised?: not in the body of a later Mao article audited here. The change is currently evidenced by O7 editorial framing; authorship and timing of the revised belief remain unresolved.
+- Operational consequence: a selected-only reading erases the earlier petition channel and can make later knowledge look contemporaneous.
+- Candidate methodological lesson: responsibility models require timestamps. Later attribution must not be merged into the evidence set available when the earlier action/appeal was chosen.
+- Confidence: high that the textual positions differ; unknown-to-medium that this represents Mao's own epistemic revision rather than public tactics or later editorial construction.
+- Evidence pointer: `evidence/v2-016/evidence-ledger.md#E11-E14`.
