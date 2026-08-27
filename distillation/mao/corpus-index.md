@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 13 | 40 |
+| II | 14 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **31** | **159** |
+| **Total** | **32** | **159** |
 
 ---
 
@@ -62,7 +62,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-011 统一战线中的独立自主问题
 - [x] V2-012 战争和战略问题
 - [x] V2-013 五四运动
-- [ ] V2-014 青年运动的方向
+- [x] V2-014 青年运动的方向
 - [ ] V2-015 反对投降活动
 - [ ] V2-016 必须制裁反动派
 - [ ] V2-017 关于国际新形势对新华日报记者的谈话

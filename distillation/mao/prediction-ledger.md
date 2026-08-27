@@ -89,6 +89,21 @@ prediction at time t
 
 ---
 
+## PRED-006 — Global convergence on a Soviet-style socialist direction
+
+- Source/date: V2-014 `青年运动的方向`, 1939-05-04.
+- Type: long-run institutional/directional forecast.
+- Prediction: China will eventually develop into socialism; Britain, the United States, France, Japan, Germany, Italy and ultimately the whole world will cease to have capitalists and follow the direction represented by the Soviet Union.
+- Preconditions: not specified in operational form.
+- Time horizon: unspecified (`将来`).
+- Observable outcome: disappearance of capitalist ownership/classes across the named countries and global convergence on the claimed institutional direction.
+- Later evidence: global capitalism and mixed institutional paths continue; the Soviet Union itself later dissolved. These facts conflict with a literal finite-horizon reading, but the source gives no deadline and therefore protects the claim from clean temporal falsification.
+- Status: **contradicted in observed direction to date / temporally under-specified**.
+- Alternative explanation: some welfare-state, public-ownership and labor institutions diffused without the predicted full convergence.
+- Model update: treat direction, destination, mechanism and time horizon as separate forecast components; do not call an unbounded destination claim confirmed by partial institutional diffusion.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
