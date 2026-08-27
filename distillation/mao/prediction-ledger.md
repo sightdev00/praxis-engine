@@ -361,6 +361,36 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-024 — A US-Japan-Chiang “Far Eastern Munich” will sacrifice China
+
+- Source/date: V3-003 `揭破远东慕尼黑的阴谋`, 1941-05-25.
+- Type: secret-diplomacy + actor-coordination + alliance-transition forecast.
+- Prediction: Japan and the United States, with Chiang Kai-shek's participation, are preparing a compromise that sacrifices China and produces an anti-Communist, anti-Soviet alignment.
+- Preconditions: Japanese pressure/inducement continues; US and KMT actors prefer an accommodation at China's expense; secret negotiations can overcome their conflicting interests.
+- Time horizon: `正在酝酿`; no deadline, but the warning concerns the immediate 1941 situation.
+- Observable outcome: identify an agreement/draft and each actor's participation; score territorial/political concessions concerning China, anti-Soviet/anti-Communist provisions and subsequent implementation separately.
+- Later evidence: 1941 US-Japanese negotiations and compromise proposals were real and included questions of Japanese forces in China/Indochina. They did not culminate in the predicted three-party anti-Soviet/anti-Communist accommodation: Japan attacked Pearl Harbor on 1941-12-07 and the United States entered war against Japan, while US aid to China expanded.
+- Status: **risk signal partially grounded; contradicted as the predicted realized alignment/path**.
+- Alternative explanation: negotiations explored incompatible bargains while both sides prepared for other branches; diplomatic contact does not itself prove common intent or agreement, and Chiang's participation in the claimed plot is not established here.
+- Model update: distinguish `talks exist`, `terms proposed`, `terms accepted`, `implementation` and `durable alignment`. A negotiation channel is not an outcome forecast.
+
+---
+
+## PRED-025 — Japan will necessarily switch from military attack to inducement
+
+- Source/date: V3-003 `揭破远东慕尼黑的阴谋`, 1941-05-25.
+- Type: adversary channel-switch + near-term activity forecast.
+- Prediction: after the current military attack phase ends, Japan will necessarily turn to inducement aimed at Chiang's capitulation, repeating its attack/pull policy.
+- Preconditions: the military phase has in fact closed; capitulation remains Japan's objective; political inducement is the next preferred channel.
+- Time horizon: immediate successor phase after May 1941; expiry and geography unspecified.
+- Observable outcome: track Japanese military operations, peace feelers, intermediaries, terms and KMT responses in parallel; define what activity level counts as the dominant successor channel.
+- Later evidence: diplomatic/peace maneuvering continued during 1941, but Japan also expanded military operations and by December opened a wider Pacific war. The source supplies no threshold by which inducement can be separated from background activity or shown to have followed rather than accompanied force.
+- Status: **partially plausible activity claim; unidentifiable as a necessary/dominant sequence**.
+- Alternative explanation: Japan could employ coercion, negotiation, propaganda and expansion concurrently rather than in a fixed sequence.
+- Model update: channel-switch forecasts need shares, thresholds and overlapping states. Historical repetition sets a prior, not probability one.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
