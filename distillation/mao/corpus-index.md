@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 27 | 40 |
+| II | 28 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **45** | **159** |
+| **Total** | **46** | **159** |
 
 ---
 
@@ -76,7 +76,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-025 纪念白求恩
 - [x] V2-026 新民主主义论
 - [x] V2-027 克服投降危险，力争时局好转
-- [ ] V2-028 团结一切抗日力量，反对反共顽固派
+- [x] V2-028 团结一切抗日力量，反对反共顽固派
 - [ ] V2-029 向国民党的十点要求
 - [ ] V2-030 《中国工人》发刊词
 - [ ] V2-031 必须强调团结和进步

@@ -271,6 +271,21 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-018 — China will not be subjugated; liberation/progress is certain and regression temporary
+
+- Source/date: V2-028 `团结一切抗日力量，反对反共顽固派`, 1940-02-01.
+- Type: national survival + military-political direction + duration forecast.
+- Prediction: China will not be destroyed as an independent nation; liberation and progress are certain; current regression is only temporary.
+- Preconditions: progressive anti-Japanese forces unite, resist capitulationist attacks and preserve/expand their organizations and bases.
+- Time horizon: national survival through the war; “temporary” regression has no maximum duration.
+- Observable outcome: Japanese conquest fails; China emerges from war; the favored liberation/progress path advances; regression ends within a defined temporary interval.
+- Later evidence: Japan surrendered in 1945 and China was not permanently colonized; the CCP won national power in 1949, matching the author's favored political direction. The duration claim is not identifiable because “temporary” and “progress” are undefined, and the outcome does not by itself validate the stated causal mechanism.
+- Status: **confirmed on non-subjugation and broad favored direction; unidentifiable on temporariness/mechanism**.
+- Alternative explanation: Allied war outcomes, Chinese resistance across multiple forces, Japanese resource limits, Soviet entry and US material/military power all contributed; no single coalition-policy claim is isolated by the result.
+- Model update: decompose motivational certainty into observable sub-forecasts with horizons; never use eventual success to validate every mechanism asserted by the winning actor.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
