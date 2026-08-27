@@ -316,6 +316,21 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-021 — The fourth year of resistance will be the most difficult
+
+- Source/date: V2-036 `团结到底`, 1940-07-05.
+- Type: one-year risk superlative + bundled international/political forecast.
+- Prediction: the war's fourth year will be the most difficult as Japan moves south, intensifies attacks on China and encourages wavering Chinese actors to capitulate; broader imperialist-war crises will generate revolutions in many countries.
+- Preconditions: Japanese southward preparation and Chinese internal wavering continue; Soviet support and global crises simultaneously favor eventual resistance.
+- Time horizon: the fourth anniversary year, roughly July 1940–July 1941; the revolution component has no clear horizon.
+- Observable outcome: predefine difficulty measures—military losses, territory, supply, civilian harm, coalition rupture and organizational survival—and compare with prior/subsequent years; score each causal component separately.
+- Later evidence: not scored at entry. The January 1941 New Fourth Army Incident is a major adverse event within the window, but one severe event cannot by itself establish a cross-year superlative.
+- Status: **unresolved / metric underspecified**.
+- Alternative explanation: different years may be hardest on different axes; later Pacific-war shifts, blockade and the 1944 Japanese offensive create competing comparison periods.
+- Model update: superlatives are forecasts only when metric, comparison set and window are fixed. Never let a salient event stand in for a multi-dimensional annual comparison.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
