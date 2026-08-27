@@ -1360,6 +1360,70 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-087 — Source-neutral correct criticism and correction will make the organization flourish
+
+- Source/date: V3-019 `为人民服务`, 1944-09-08.
+- Type: open-feedback governance forecast.
+- Prediction: accepting correct criticism from anyone, adopting public-benefit proposals and correcting mistakes will cause the organization to flourish.
+- Preconditions: critics are safe; truth/benefit judgments are contestable; decisions and outcomes are tracked; leaders cannot suppress adverse evidence.
+- Time horizon: ongoing organizational development.
+- Observable outcome: proposal denominator, adoption/rejection reasons, retaliation, implementation results and error recurrence.
+- Later evidence: Li Dingming's simplification proposal is a concrete positive case and the organization later grew, but one case and endpoint coincidence do not identify system-wide openness.
+- Status: **plausible and partially illustrated; strong causal effect unidentifiable**.
+- Alternative explanation: military, political and material factors drove growth irrespective of feedback openness.
+- Model update: build a source-blind, appealable criticism ledger with outcome review.
+- Evidence pointer: `evidence/v3-019/evidence-ledger.md#E07-E11; E33`.
+
+---
+
+## PRED-088 — The base-area population must expand beyond 91 million for national liberation
+
+- Source/date: V3-019, 1944-09-08.
+- Type: scale/capability necessity forecast.
+- Prediction: leadership over roughly 91 million people is insufficient; broader incorporation is required to achieve liberation of the whole nation.
+- Preconditions: population reach translates into mobilization, legitimacy and control; external and opponent conditions do not substitute.
+- Time horizon: remaining war and national transition.
+- Observable outcome: governed/supporting population, territorial expansion and contribution to national outcome.
+- Later evidence: Communist-controlled territory/population expanded before national victory, supporting direction; exact threshold and necessity are not identified.
+- Status: **directionally confirmed; quantitative necessity under-specified**.
+- Alternative explanation: opponent collapse, external war and concentrated capability can matter more than raw population.
+- Model update: separate population governed, consenting, mobilized and benefiting.
+- Evidence pointer: `evidence/v3-019/evidence-ledger.md#E12-E16`.
+
+---
+
+## PRED-089 — Care and avoidable-sacrifice reduction sustain necessary struggle
+
+- Source/date: V3-019, 1944-09-08.
+- Type: duty-of-care and resilience forecast.
+- Prediction: while struggle creates casualties, minimizing unnecessary sacrifice and making cadres/peers care for every member will preserve courage, cohesion and sustainable effort.
+- Preconditions: avoidability is independently reviewed; safety is resourced; care includes material remedy and is not merely exhortation.
+- Time horizon: ongoing military/production activity.
+- Observable outcome: preventable death/injury, near-miss reporting, retention, trust, care delivery and mission performance.
+- Later evidence: the speech institutionalized a duty norm, but accessible memorial sources do not provide comparative safety outcomes.
+- Status: **strong normative mechanism; empirical effect unresolved**.
+- Alternative explanation: coercion, ideology or material conditions can sustain participation without actual care, at different human cost.
+- Model update: treat loss prevention and member remedy as hard operating metrics.
+- Evidence pointer: `evidence/v3-019/evidence-ledger.md#E17-E21; E29-E32`.
+
+---
+
+## PRED-090 — Universal memorial practice will process grief and unite people
+
+- Source/date: V3-019, 1944-09-08.
+- Type: ritual/institutional cohesion forecast.
+- Prediction: funerals and memorials for any useful contributor, regardless of rank, and similar village practice will express grief and strengthen popular unity.
+- Preconditions: ritual is inclusive and truthful; families consent; adverse facts are not suppressed; material obligations accompany honor.
+- Time horizon: recurring deaths and community life.
+- Observable outcome: coverage by rank/status, family experience, participation, trust, grievance and institutional follow-through.
+- Later evidence: the memorial and phrase became highly durable symbols, confirming diffusion; causal effects on unity and family welfare remain unisolated.
+- Status: **confirmed as durable institutional symbolism; cohesion effect partially supported/unidentifiable**.
+- Alternative explanation: shared struggle creates unity independently of ritual, while ritual can also pressure conformity.
+- Model update: couple equal recognition with fact finding, family rights and permission for critical memory.
+- Evidence pointer: `evidence/v3-019/evidence-ledger.md#E22-E25; E32-E34`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
