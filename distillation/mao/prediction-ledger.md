@@ -688,6 +688,70 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-045 — Another year of production will make the public-economy foundation more secure
+
+- Source/date: V3-012 `抗日时期的经济问题和财政问题`, 1942-12.
+- Type: one-year capability forecast.
+- Prediction: with another year of production in 1943, the already established public-economy foundation will become more secure.
+- Preconditions: labor and land remain available; blockade and military pressure do not destroy output; tools, seed, trade and organization improve; nominal gains are not only inflation.
+- Time horizon: calendar 1943.
+- Observable outcome: real public output, inventory, self-supply months, import dependence, unit costs and resilience to shocks.
+- Later evidence: later accounts record substantial increases in grain output and unit self-supply during 1943, but also severe inflation and multiple revenue/trade mechanisms.
+- Status: **directionally confirmed; exact “foundation security” and production-only attribution remain under-specified**.
+- Alternative explanation: personnel reduction, trade, monetary finance, favorable local conditions and special-commodity revenue also improved fiscal survival.
+- Model update: define capability in real units and test all source channels; survival or nominal revenue alone is not a production metric.
+- Evidence pointer: `evidence/v3-012/evidence-ledger.md#E09-E13; E35-E40`.
+
+---
+
+## PRED-046 — Continued public production and military farming in 1943–1944 will reduce the people's burden after two years
+
+- Source/date: V3-012, 1942-12.
+- Type: conditional timing + distribution forecast.
+- Prediction: if public production continues to develop and border-region troops obtain full or substantial farming opportunities during 1943 and 1944, the people's burden can be reduced and productive capacity rested after two years.
+- Preconditions: both explicit production/tuntian conditions occur; military and administrative demand does not rise faster; inflation and hidden extraction do not offset formal tax relief.
+- Time horizon: by the end of 1944 / after two years.
+- Observable outcome: public grain/tax share, compulsory labor, debt, inflation incidence, household disposable grain/assets and regional distribution.
+- Later evidence: official histories report rising production, lower personnel footprint and reduced public-grain burden ratios, but currency depreciation and omitted fiscal sources complicate the net household burden.
+- Status: **partially confirmed on formal production and burden direction; net distributional outcome unidentifiable from canonical evidence**.
+- Alternative explanation: tax changes, organization cuts, trade recovery, prices and wartime conditions may drive measured relief independently of unit production.
+- Model update: a burden forecast must include taxes, inflation, labor, debt and in-kind extraction, not only the headline tax ratio.
+- Evidence pointer: `evidence/v3-012/evidence-ledger.md#E14-E26; E36-E40`.
+
+---
+
+## PRED-047 — The border region will not collapse, will prosper, and other bases will endure until victory
+
+- Source/date: V3-012, 1942-12.
+- Type: organizational survival + broad trajectory forecast.
+- Prediction: the Shaan-Gan-Ning Border Region will not collapse but will become more prosperous; the more exposed North and Central China bases will continue to survive until victory.
+- Preconditions: popular compliance/support persists; production, extraction and military defense remain within carrying capacity; leadership adapts to local shocks.
+- Time horizon: through final victory in the Anti-Japanese War.
+- Observable outcome: territorial/organizational continuity, food/fiscal capacity, population welfare and final wartime survival for each base rather than aggregate survival alone.
+- Later evidence: the Communist base system survived and contributed through 1945, while local bases experienced different losses, relocations, coercion and economic conditions.
+- Status: **confirmed on broad system survival; “only prosper” and universal-any-difficulty forms are overbroad**.
+- Alternative explanation: Japanese strategic shifts, wider Allied victory and local geography combined with internal mobilization.
+- Model update: survival forecasts require unit-level denominators, failure thresholds and welfare measures; aggregate endpoint success can hide local collapse or cost.
+- Evidence pointer: `evidence/v3-012/evidence-ledger.md#E27-E28; E35-E40`.
+
+---
+
+## PRED-048 — Full implementation of the five simplification objectives will overcome fiscal-economic difficulty
+
+- Source/date: V3-012, 1942-12.
+- Type: conditional organizational-causal forecast.
+- Prediction: strict, thorough and universal implementation of simplification, unity, efficiency, economy and anti-bureaucratism will reduce consumption, raise production, lower public burden and overcome the crisis.
+- Preconditions: eliminated work is nonessential; personnel move into productive/high-value roles; local workload and hidden costs do not rise; corruption and coordination failures actually fall.
+- Time horizon: implementation from late 1942 through the subsequent consolidation period.
+- Observable outcome: total-system staffing/cost, service and military capability, output per worker, transferred workload, corruption loss and household burden.
+- Later evidence: historical accounts record large personnel reductions and improving material capacity by 1944, but the effects of simplification cannot be separated cleanly from production, trade, money, tax and military changes.
+- Status: **partially confirmed on implementation and direction; the strong sufficient-cause claim is unidentifiable**.
+- Alternative explanation: production campaigns, trade, monetary measures, external war changes and unrecorded revenue sources could account for survival.
+- Model update: treat austerity as versioned capability reallocation and measure total-system cost and function, not central headcount alone.
+- Evidence pointer: `evidence/v3-012/evidence-ledger.md#E29-E40`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
