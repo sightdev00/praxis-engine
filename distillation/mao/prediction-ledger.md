@@ -391,6 +391,111 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-026 — The opposing regimes have no future and the revolutionary coalition can defeat all enemies
+
+- Source/date: V4-026 `关于目前党的政策中的几个重要问题`, 1948-01-18.
+- Type: broad strategic forecast + confidence claim.
+- Prediction: imperialist and Kuomintang rule is rotten and without a future; with confidence and correct policy, the revolutionary side can defeat all internal and external enemies.
+- Preconditions: the overall strategic balance remains favorable; policy errors are corrected; local enemy capability is not mistaken for overall strategic reversal.
+- Time horizon: long-term victory; no terminal date.
+- Observable outcome: separate regime survival, battlefield victory, coalition durability and the contribution of policy correction; do not use national victory to validate each causal claim.
+- Later evidence: the revolutionary side won national power in 1949, but the broad claim and its causal mechanism need decomposition against war duration, rival actors, external intervention and policy reversals.
+- Status: **partially confirmed on broad political outcome; over-broad and unidentifiable as a complete causal forecast**.
+- Alternative explanation: multiple military, institutional, international and economic factors may explain the outcome; a broad winner's outcome does not show that the strategic confidence was well calibrated at every local decision point.
+- Model update: strategic confidence is a forecast object with a horizon and alternative causes, not a protected identity premise.
+
+---
+
+## PRED-027 — Protecting middle peasants and representing them will preserve coalition support
+
+- Source/date: V4-026, 1948-01-18.
+- Type: coalition-policy forecast.
+- Prediction: correcting middle-peasant misclassification, returning property, protecting wealthy middle peasants and including middle-peasant activists in committees will prevent wavering and preserve support for the revolutionary leadership.
+- Preconditions: classifications are accurate enough to identify middle peasants; material treatment is actually non-harmful; representation affects decisions rather than serving as a token.
+- Time horizon: during land reform and the subsequent establishment of rural government.
+- Observable outcome: track misclassification rate, property return, tax/labor burden, representation, defections, support and production separately.
+- Later evidence: later land-policy history reports middle-peasant rejection or misclassification and land being returned in some areas, indicating that the policy problem was real; the net support effect and causal contribution remain to be reconstructed from local records.
+- Status: **partial / execution-sensitive**.
+- Alternative explanation: local cadre incentives, security conditions, prior class conflict and resource scarcity may drive both misclassification and support changes.
+- Model update: coalition forecasts must score the treatment actually delivered, not the protection rule stated in the central document.
+
+---
+
+## PRED-028 — Differentiated land policy and reclassification will prevent left overreach while completing transformation
+
+- Source/date: V4-026, 1948-01-18.
+- Type: policy-design forecast.
+- Prediction: separating landlords from rich peasants, distinguishing bully and non-bully and large/medium/small categories, correcting errors and limiting punitive treasure-hunting will allow land reform to proceed without destructive excess.
+- Preconditions: local categories are reliably applied; correction is timely; the main land and production objectives remain visible to implementers.
+- Time horizon: the land-reform cycle beginning in 1948.
+- Observable outcome: compare policy category, action, harm, property return, production, local conflict and later policy reversal by area.
+- Later evidence: subsequent instructions continued to refine state and class distinctions, while later history reports over-rapid implementation, arbitrary arrests and killings in some areas. This suggests the design did not automatically control execution.
+- Status: **unresolved / partly contradicted as an execution guarantee**.
+- Alternative explanation: failures may reflect local implementation capacity and security conditions rather than the central distinctions alone.
+- Model update: a refined classifier is not a control unless local incentives, measurement, audit and remedy are also specified.
+
+---
+
+## PRED-029 — Protection and joint management will preserve useful industrial and commercial production
+
+- Source/date: V4-026, 1948-01-18.
+- Type: economic-capacity forecast + commitment.
+- Prediction: protecting useful private businesses, keeping useful confiscated businesses operating, using joint management and limiting taxes will lower costs, increase production and support the broader revolutionary effort.
+- Preconditions: “useful” businesses are identified accurately; requisition, taxation and management do not negate protection; administrative capacity can enforce continuity.
+- Time horizon: immediate transition and post-confiscation operation.
+- Observable outcome: business survival, output, costs, employment, tax/requisition burden, ownership disputes and worker welfare.
+- Later evidence: later policy history reports commercial damage in over-rapid implementations, while the next policy text again warns against applying rural struggle mechanically to cities. Directional concern is supported; quantitative effect and generality are unscored.
+- Status: **partial / implementation-sensitive**.
+- Alternative explanation: wartime scarcity, transport disruption, financing and military requisition may explain commercial damage independently of class policy.
+- Model update: productive-capacity boundaries must cover ownership, taxation, requisition, labor and remedy, not only continued operation.
+
+---
+
+## PRED-030 — Few killings and procedural review will preserve sympathy and prevent isolation
+
+- Source/date: V4-026, 1948-01-18.
+- Type: harm-control forecast.
+- Prediction: limiting executions to a very small number of genuinely egregious cases, requiring people's-court trial and committee approval, and forbidding random killing will preserve public sympathy and prevent political isolation.
+- Preconditions: “genuinely egregious” is evidence-based; review can block action; local actors report killings honestly; non-lethal coercion is also monitored.
+- Time horizon: land reform and political consolidation.
+- Observable outcome: executions, arbitrary killings, detention, property seizure, displacement, complaints, appeals, public support and correction time.
+- Later evidence: later policy history reports arbitrary arrests and killings in some implementation areas, so a formal central limit did not guarantee local compliance. The effect on sympathy and isolation requires independent evidence.
+- Status: **partially contradicted as a sufficient safeguard**.
+- Alternative explanation: local security emergencies, revenge dynamics and weak reporting may account for violations; this does not remove the design failure of missing enforcement controls.
+- Model update: a numeric or procedural ceiling needs independent counting, appeal, audit and remedy; “few” is not self-enforcing.
+
+---
+
+## PRED-031 — Representative congresses will supply the governing form of the New Democratic state
+
+- Source/date: V4-026, 1948-01-18.
+- Type: institutional target/commitment, not a base-case forecast.
+- Prediction: village, district, county, provincial and central governments will be constituted through people's assemblies and representative congresses, with the future People's Republic as the state form.
+- Preconditions: the revolution wins nationally; electoral eligibility and representation are operationalized; party leadership and popular representation remain compatible.
+- Time horizon: present rural government at lower levels; future nationwide victory for higher levels.
+- Observable outcome: actual election procedures, contestation, participation, authority of elected bodies, turnover, minority rights and remedies.
+- Later evidence: not scored here. Later institutional history must distinguish formal representative bodies from effective contestable power.
+- Status: **target/commitment; do not score as foresight**.
+- Alternative explanation: institutional form may be shaped by military control, party organization and postwar state-building rather than by the stated sequence alone.
+- Model update: store institutional targets separately from forecasts and audit operation, not labels.
+
+---
+
+## PRED-032 — Time- and behavior-based reclassification will transform former landlords and rich peasants rather than permanently exclude them
+
+- Source/date: V4-026, 1948-01-18.
+- Type: reintegration-policy forecast.
+- Prediction: work and good conduct over specified periods can change class status, while only large remaining surplus property is taken; former landlords and rich peasants can become productive members of the new order.
+- Preconditions: work and conduct are measured consistently; the reclassification authority can be challenged; “large surplus” is not arbitrarily expanded.
+- Time horizon: more than five years for a landlord's labor transition and more than three years for a rich peasant's downward status change.
+- Observable outcome: reclassification rates, livelihood, property retained, participation, stigma, repeat sanctions and local acceptance.
+- Later evidence: not scored at entry. Later land-policy texts and local records should test whether the stated time thresholds produced durable reintegration.
+- Status: **unresolved**.
+- Alternative explanation: reclassification may reflect political compliance or local power bargains more than changed economic role or conduct.
+- Model update: reintegration rules need expiry, evidence, independent review and protection against permanent origin-based stigma.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

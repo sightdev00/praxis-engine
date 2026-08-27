@@ -323,3 +323,73 @@ earlier judgment
 - Candidate methodological lesson: revision histories can be non-monotonic. Store policy versions and why each transition occurred; the newest change may restore an older mechanism under a newly articulated boundary.
 - Confidence: high textual confidence on the 1941 retrospective chain; medium empirical confidence until earlier directives and outcomes are compared.
 - Evidence pointer: `evidence/v3-001/evidence-ledger.md#E11-E15`.
+
+---
+
+## R-021 — Exclusive poor-peasant rule explicitly replaced by coalition leadership
+
+- Earlier judgment / risk: a land-reform process could be read as poor peasants alone making and occupying the state, turning a mobilization backbone into an exclusive governing class.
+- Later article/date: V4-026 `关于目前党的政策中的几个重要问题`, 1948-01-18.
+- What changed: the article explicitly rejects the exclusive slogan and defines poor-peasant leadership as a way to unite with middle peasants and other laboring people. It extends the coalition nationally to several non-peasant groups.
+- Error type: `actor-model overcompression + coalition-design correction`.
+- Was the earlier judgment explicitly revised?: yes at the level of the slogan and policy boundary; the earlier implementation record is not reconstructed here.
+- Operational consequence: poor-peasant initiative is no longer sufficient authorization for excluding middle peasants from representation, property protection or government.
+- Candidate methodological lesson: distinguish a group's mobilizing role from its claim to exclusive authority; coalition leadership must be tested through participation and non-harm.
+- Confidence: high textual confidence; medium empirical confidence because the effect of the correction requires local implementation evidence.
+- Evidence pointer: `evidence/v4-026/evidence-ledger.md#E08-E11`.
+
+---
+
+## R-022 — Classification correction and consent boundaries added to the anti-overreach policy
+
+- Earlier judgment / risk: broad class categories and struggle practices could treat middle peasants, wealthy middle peasants, new rich peasants and useful businesses as undifferentiated enemies.
+- Later article/date: V4-026, 1948-01-18.
+- What changed: the article adds reclassification and return of property, a 25 percent income boundary, consent protection for wealthy middle peasants and new rich peasants, distinctions among landlord/rich-peasant and bully/non-bully categories, and continued operation of useful businesses.
+- Error type: `classifier refinement + policy-scope correction`.
+- Was the earlier judgment explicitly revised?: partially. The article states the replacement rules, but it does not provide a complete error-rate or remedy audit of the earlier practice.
+- Operational consequence: classification is supposed to become behavior- and effect-sensitive rather than identity-only; however, the new thresholds can still be misapplied.
+- Candidate methodological lesson: refinement is not repair until the denominator, reviewer, correction deadline and material remedy are explicit.
+- Confidence: high textual confidence; medium-low empirical confidence until area-level records are compared.
+- Evidence pointer: `evidence/v4-026/evidence-ledger.md#E12-E21; E31-E36`.
+
+---
+
+## R-023 — Anti-random-killing language became a formal control without independent adjudication
+
+- Earlier judgment / risk: coercive land and political struggle could escalate through arbitrary killing, rough handling and local retaliation.
+- Later article/date: V4-026, 1948-01-18.
+- What changed: the article formalizes few killings, a ban on random killing, people's-court trial, government-committee approval, public announcement, persuasion and anti-retaliation requirements.
+- Error type: `execution-control correction with governance gap`.
+- Was the earlier judgment explicitly revised?: yes as a policy requirement; whether the control was reliably enforced remains open.
+- Operational consequence: irreversible action acquires a review gate, but the same political authority still controls classification and review; defense, appeal and remedy are not supplied.
+- Candidate methodological lesson: a procedural gate lowers risk only when it is independent enough to reject the initiating authority and when false-positive repair is possible.
+- Confidence: high textual confidence; low-medium empirical confidence.
+- Evidence pointer: `evidence/v4-026/evidence-ledger.md#E37-E41`.
+
+---
+
+## R-024 — Representative state form specified without resolving contestable authority
+
+- Earlier judgment / ambiguity: broad “people's” rule and party leadership could be invoked without a concrete institutional route for election, replacement or appeal.
+- Later article/date: V4-026, 1948-01-18.
+- What changed: the article specifies people's congresses and elected governments at village, district, county, city, provincial, border-region and central levels, while retaining Communist Party leadership of the working class.
+- Error type: `institutional specification with unresolved power-transition boundary`.
+- Was the earlier judgment explicitly revised?: partially; representative form is made more concrete, but the relationship between party leadership, eligibility and contestability is not resolved.
+- Operational consequence: an elected-form claim can be audited against actual authority, not accepted as evidence of democratic operation.
+- Candidate methodological lesson: separate institutional form, operating power, eligibility, opposition rights, turnover and remedy; adding an election mechanism does not settle the rest.
+- Confidence: high textual confidence; empirical confidence unknown.
+- Evidence pointer: `evidence/v4-026/evidence-ledger.md#E42-E48`.
+
+---
+
+## R-025 — February policy route later narrowed toward rent-and-interest reduction and production stability
+
+- Earlier judgment / policy: V4-026 presents land reform, differentiated class treatment, protection of useful business and representative consolidation as the current policy package.
+- Later evidence: 1948 policy history records a shift by late May toward temporary rent/interest reduction, production, finance and order, after reports of over-rapid and damaging local implementation.
+- What changed: the immediate actuator and timetable were narrowed; the February package was not treated as an unchanging endpoint.
+- Error type or environment change: `policy revision after implementation feedback + state/scale mismatch`.
+- Was the earlier judgment explicitly revised?: yes at policy level; the exact contribution of each local report and the degree of central responsibility require further source audit.
+- Operational consequence: land reform should be modeled as a versioned policy path with stop/revise conditions, not as a one-time formula validated by later national victory.
+- Candidate methodological lesson: preserve failed local cases and revise the actuator when execution costs threaten production and coalition capacity; record what changed and what remained protected.
+- Confidence: medium-high textual confidence on the later policy shift; medium causal confidence.
+- Evidence pointer: `evidence/v4-026/evidence-ledger.md#E50-E52`.

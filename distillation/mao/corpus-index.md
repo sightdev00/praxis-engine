@@ -11,6 +11,7 @@ This file is the execution ledger for Phase 1.
 - Do not skip short notices, telegrams, directives, interviews, or documents that appear repetitive.
 - Ordering and titles are cross-checked against the second-edition online indexes recorded in `../../literature/mao-selected-works.md`.
 - Volume completion means all items have first-pass article coverage; it does **not** mean all variant audits or cross-volume tests are complete.
+- Recovery note: the later V4 artifacts reported in the conversation are absent from this clone. Counts below reflect verified files in this checkout; V4-026 is explicitly marked as a source-based reconstruction, while V4-001–025 remain unverified here.
 
 ## Progress
 
@@ -19,8 +20,8 @@ This file is the execution ledger for Phase 1.
 | I | 18 | 18 |
 | II | 40 | 40 |
 | III | 7 | 31 |
-| IV | 0 | 70 |
-| **Total** | **65** | **159** |
+| IV | 1 | 70 |
+| **Total** | **66** | **159** |
 
 ---
 
@@ -155,7 +156,7 @@ This file is the execution ledger for Phase 1.
 - [ ] V4-023 中国人民解放军总部关于重行颁布三大纪律八项注意的训令
 - [ ] V4-024 目前形势和我们的任务
 - [ ] V4-025 关于建立报告制度
-- [ ] V4-026 关于目前党的政策中的几个重要问题
+- [x] V4-026 关于目前党的政策中的几个重要问题 — source-based reconstruction; earlier reported V4 artifacts absent from this clone
 - [ ] V4-027 军队内部的民主运动
 - [ ] V4-028 在不同地区实施土地法的不同策略
 - [ ] V4-029 纠正土地改革宣传中的“左”倾错误
