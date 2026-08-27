@@ -624,6 +624,70 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-041 — The twenty-fifth-anniversary moment marks the Soviet-German and global anti-fascist turning point
+
+- Source/date: V3-011 `祝十月革命二十五周年`, 1942-11-06.
+- Type: phase-state + local-to-global forecast.
+- Prediction: the 1942 October Revolution anniversary is not only the turning point of the Soviet-German war but also the turning point at which the global anti-fascist front begins defeating the fascist front.
+- Preconditions: German summer objectives have become unrecoverable; Soviet capability continues to grow; other Allied theaters add durable pressure; the Axis cannot restore strategic initiative.
+- Time horizon: immediate phase identification with subsequent war-wide consequences.
+- Observable outcome: separate the anniversary as communication marker from later operational confirmation in Stalingrad, North Africa, Western Europe and the Pacific.
+- Later evidence: El Alamein withdrawal was visible by November 6; Operation Torch began November 8, Operation Uranus November 19 and the Stalingrad encirclement completed November 23. Late 1942 is widely treated as a multi-theater turning period, but the article precedes several confirming events.
+- Status: **strongly confirmed directionally; partly premature as a globally completed state; the exact commemorative date is not causal**.
+- Alternative explanation: the global turn was a distributed process driven by Soviet adaptation, Allied production, North African/Pacific operations and Axis overextension rather than one anniversary or battle alone.
+- Model update: use memorable phase labels for communication, while the forecast ledger preserves the event bundle and staggered confirmation dates.
+- Evidence pointer: `evidence/v3-011/evidence-ledger.md#E02-E08; E19-E25`.
+
+---
+
+## PRED-042 — The anti-fascist coalition will shift to offensive action and finally defeat the Axis
+
+- Source/date: V3-011, 1942-11-06.
+- Type: coalition-posture + final-outcome forecast.
+- Prediction: after the failure of Hitler's second summer campaign, the anti-fascist front will undertake offensive action and ultimately defeat the fascist front.
+- Preconditions: Soviet reserves and logistics support counteroffensive; Britain and the United States open sustainable operations; coalition coordination holds; Axis replacements and coercive alliance control continue to weaken.
+- Time horizon: from late 1942 to final war outcome; no intermediate milestones stated.
+- Observable outcome: sustained offensive initiative by theater, territorial/force effects, Axis ability to recover and final regime/military surrender.
+- Later evidence: Soviet, North African, Mediterranean, Western European and Pacific offensives expanded over the following years; Germany and Japan surrendered in 1945. The transition was staggered rather than synchronous.
+- Status: **confirmed on final direction and outcome; under-specified on capability gate, sequence and duration**.
+- Alternative explanation: victory followed from multiple theaters, industrial/resource asymmetry, logistics, intelligence and Axis decisions, not solely from the German summer campaign's failure.
+- Model update: a declared task must be paired with readiness gates and theater-specific schedules; final success does not validate every intermediate causal link.
+- Evidence pointer: `evidence/v3-011/evidence-ledger.md#E06-E09; E19-E26`.
+
+---
+
+## PRED-043 — The October Revolution's banner is invincible and all fascist forces must disappear
+
+- Source/date: V3-011, 1942-11-06.
+- Type: institutional-causal + universal/terminal forecast.
+- Prediction: the political-institutional legacy represented by the October Revolution cannot be defeated, while all fascist forces will necessarily be destroyed.
+- Preconditions: not operationally stated; the wording combines Soviet wartime survival, regime legitimacy and a universal historical destination.
+- Time horizon: unspecified and potentially unbounded.
+- Observable outcome: must distinguish defeat of the wartime Axis regimes from elimination of every fascist organization/ideology, and wartime Soviet survival from permanent institutional invulnerability.
+- Later evidence: the Axis regimes were defeated in 1945; fascist movements and authoritarian variants did not disappear universally; the Soviet Union later dissolved. These outcomes do not fit a single literal “invincible versus eliminated” binary.
+- Status: **confirmed only for defeat of the principal wartime Axis regimes; contradicted or unidentifiable in universal/permanent form**.
+- Alternative explanation: the Axis defeat can be explained by coalition resources, military operations and strategic decisions without proving permanent superiority of one institutional symbol.
+- Model update: split identity commitments, bounded regime forecasts and universal historical claims; never use a bounded victory to validate an unbounded destination.
+- Evidence pointer: `evidence/v3-011/evidence-ledger.md#E09-E11; E26`.
+
+---
+
+## PRED-044 — Japan's defeat is certain and not far away
+
+- Source/date: V3-011, 1942-11-06.
+- Type: outcome-certainty + timing forecast.
+- Prediction: despite further hardship, victory over Japanese fascism is certain and no longer far away.
+- Preconditions: Allied initiative continues; China sustains resistance; Japanese maritime, industrial and territorial position worsens; Germany cannot reverse the European war.
+- Time horizon: “not far” without a numerical deadline.
+- Observable outcome: Japanese surrender date, intervening military/resource trajectory and the planning horizon implied by “not far.”
+- Later evidence: Japan's initiative was increasingly constrained and it surrendered in September 1945, approximately thirty-four months after the article. China and the Allies incurred substantial additional costs during that interval.
+- Status: **confirmed directionally and in final outcome; timing is under-specified and potentially over-optimistic for operational planning**.
+- Alternative explanation: Japan's defeat depended on US industrial and naval power, blockade and bombing, Chinese resistance, Allied campaigns and Soviet entry, not merely the European turning point.
+- Model update: translate “soon” into multiple resource horizons and scheduled re-estimation; strategic confidence must not erase the endurance budget.
+- Evidence pointer: `evidence/v3-011/evidence-ledger.md#E12-E16; E23-E26`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
