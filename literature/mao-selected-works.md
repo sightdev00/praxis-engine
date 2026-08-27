@@ -29,8 +29,8 @@ Only Volumes I-IV belong to the initial Mao distillation. Later writings, recoll
 
 ## Reading status
 
-- [ ] Volume I complete
-- [ ] Volume II complete
+- [x] Volume I complete
+- [x] Volume II complete
 - [ ] Volume III complete
 - [ ] Volume IV complete
 - [ ] Variant-text audit for methodologically important articles

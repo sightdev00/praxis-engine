@@ -307,3 +307,19 @@ earlier judgment
 - Candidate methodological lesson: after a high-severity event, preserve prior constraints and set a short re-evaluation window. When downgrading, record both the conclusion change and which causal assumptions were withdrawn; otherwise only the headline updates.
 - Confidence: high textual confidence on the forecast conflict, downgrade and later explicit error diagnosis; medium on how consciously the later directive included the January central statement in that diagnosis.
 - Evidence pointer: `evidence/v2-038/evidence-ledger.md#E05-E08`; `evidence/v2-039/evidence-ledger.md#E01-E11`; `evidence/v2-040/evidence-ledger.md#E03-E12`.
+
+---
+
+## R-020 — Earlier landlord land allotment rejected, then restored as the correct bounded policy
+
+- Earlier policy/period: early and middle Land Revolution, roughly late 1927–autumn 1931.
+- Earlier policy: allot landlords a share of land like peasants so they could farm rather than become displaced or join destabilizing armed activity.
+- Intermediate revision: the late-period “all struggle” line rejected this bounded inclusion policy.
+- Later article/date: V3-001 postscript, 1941-04-19.
+- What changed: Mao explicitly calls the later rejection an error and restores the earlier differentiated policy as correct for its setting, while the anti-Japanese stage uses a different rent/interest policy.
+- Error type: `policy overgeneralization + actor-category collapse + failure to preserve a bounded earlier mechanism`.
+- Was the earlier judgment explicitly revised?: yes at the level of the 1941 retrospective; the intermediate decision document and outcome data still require direct audit.
+- Operational consequence: do not move from constraining harmful power to eliminating every member of a structural category; preserve behavior- and harm-sensitive participation paths.
+- Candidate methodological lesson: revision histories can be non-monotonic. Store policy versions and why each transition occurred; the newest change may restore an older mechanism under a newly articulated boundary.
+- Confidence: high textual confidence on the 1941 retrospective chain; medium empirical confidence until earlier directives and outcomes are compared.
+- Evidence pointer: `evidence/v3-001/evidence-ledger.md#E11-E15`.
