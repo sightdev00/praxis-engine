@@ -560,6 +560,70 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-037 — Stalingrad has been won and marks the turning point of the Soviet-German and world wars
+
+- Source/date: V3-010 `第二次世界大战的转折点`, 1942-10-12.
+- Type: event-state claim + strategic phase forecast.
+- Prediction: the forty-eight days through October 9 ended in victory at Stalingrad, making the battle the turning point of the Soviet-German war, the world anti-fascist war and human history.
+- Preconditions: Soviet local recovery is durable; German offensive options are exhausted; the battle does not reverse; the local result propagates to alliance-wide initiative.
+- Time horizon: immediate battle state and subsequent war trajectory.
+- Observable outcome: distinguish operational battle completion, theater initiative, European/global war trajectory and open-ended historical significance.
+- Later evidence: the battle continued, a major German assault followed on October 14, the Soviet encirclement offensive began November 19 and the Sixth Army surrendered February 2, 1943. Stalingrad is widely treated as a pivotal Eastern Front/European-war turning point.
+- Status: **premature/contradicted on October 12 event completion; strongly confirmed on broad strategic direction; “human history” unidentifiable**.
+- Alternative explanation: the final turning point depended on later Soviet operations, industrial/force growth, Allied pressure and German decisions not completed by October 12.
+- Model update: preserve a correct trajectory forecast and a wrong closure state simultaneously; do not let later success erase timing error.
+- Evidence pointer: `evidence/v3-010/evidence-ledger.md#E03-E05; E21-E24`.
+
+---
+
+## PRED-038 — Soviet counteroffensive, a Western second front and European uprisings will force Germany into terminal defense
+
+- Source/date: V3-010, 1942-10-12.
+- Type: multi-theater sequence forecast.
+- Prediction: a large Soviet winter counteroffensive will begin; Britain and the United States can no longer delay a second front; occupied European populations will rise; Germany will shift to strategic defense and lose the ability to conduct another large-scale offensive.
+- Preconditions: Soviet forces retain reserves; Western logistics/politics permit opening; resistance movements can coordinate; German reserves cannot recover.
+- Time horizon: winter 1942 onward, with no exact terminal date.
+- Observable outcome: score each theater and event separately, defining second front and large offensive by location, force, duration and objective.
+- Later evidence: the Soviet counteroffensive occurred; Western operations expanded through North Africa/Italy but the cross-Channel front opened only in June 1944; resistance increased unevenly; Germany still launched major offensives at Kursk and later in the Ardennes, though it did not regain durable strategic initiative.
+- Status: **partial; right on Soviet/overall initiative, early on Western timing, contradicted in strong no-more-large-offensive form**.
+- Alternative explanation: each theater followed its own logistics and politics rather than a single Stalingrad trigger.
+- Model update: do not compress linked-but-independent branches into a synchronized deterministic sequence.
+- Evidence pointer: `evidence/v3-010/evidence-ledger.md#E12-E17; E21-E24`.
+
+---
+
+## PRED-039 — Germany's European allies will become increasingly disaffected as German power declines
+
+- Source/date: V3-010, 1942-10-12.
+- Type: coalition-fracture forecast.
+- Prediction: Italy, Romania, Hungary and other partners will become increasingly pessimistic and disaffected as Germany consumes their forces and loses momentum.
+- Preconditions: German protection and victory prospects fall; partner costs rise; domestic alternatives and exit routes exist.
+- Time horizon: from winter 1942 through German defeat.
+- Observable outcome: partner force contributions, negotiations, government change, defection/surrender dates and German coercion.
+- Later evidence: Italy surrendered in September 1943; Romania and other partners later shifted or collapsed under distinct military and political conditions. Germany also used occupation/coercion to delay exits.
+- Status: **confirmed directionally; timing and actor-specific mechanism require separate scoring**.
+- Alternative explanation: Allied invasions, Soviet advances, domestic coups and national interests—not confidence alone—drove individual exits.
+- Model update: alliance feedback is useful, but every member needs its own cost, coercion and exit model.
+- Evidence pointer: `evidence/v3-010/evidence-ledger.md#E13; E23`.
+
+---
+
+## PRED-040 — 1943 will be increasingly unfavorable to Japan and begin a continuing path toward defeat
+
+- Source/date: V3-010, 1942-10-12.
+- Type: cross-theater strategic forecast.
+- Prediction: the European reversal will make 1943 an unfavorable year for Japan, which will encounter increasing difficulty and move toward eventual defeat.
+- Preconditions: Germany cannot free resources or enable a Soviet attack from Manchuria; Allied/Soviet pressure constrains Japan; Japan cannot compensate in the Pacific or China.
+- Time horizon: calendar 1943 onward.
+- Observable outcome: Japanese territorial initiative, shipping/industrial loss, force allocation, Soviet border posture and political/military defeat.
+- Later evidence: Japan did not attack Siberia, its Pacific position deteriorated and it ultimately surrendered in 1945; the main causal chain also ran through US industrial/military power, China and later Soviet entry, not only Stalingrad.
+- Status: **confirmed directionally; causal attribution over-bundled**.
+- Alternative explanation: Midway, Guadalcanal, submarine warfare, US production, Chinese resistance and 1945 Soviet entry independently shaped the trajectory.
+- Model update: cross-theater forecasts must list transmission channels and competing drivers instead of treating one turning point as sufficient.
+- Evidence pointer: `evidence/v3-010/evidence-ledger.md#E19; E24`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
