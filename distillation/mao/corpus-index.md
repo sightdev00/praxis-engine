@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 12 | 40 |
+| II | 13 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **30** | **159** |
+| **Total** | **31** | **159** |
 
 ---
 
@@ -61,7 +61,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-010 中国共产党在民族战争中的地位
 - [x] V2-011 统一战线中的独立自主问题
 - [x] V2-012 战争和战略问题
-- [ ] V2-013 五四运动
+- [x] V2-013 五四运动
 - [ ] V2-014 青年运动的方向
 - [ ] V2-015 反对投降活动
 - [ ] V2-016 必须制裁反动派
