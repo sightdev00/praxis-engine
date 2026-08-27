@@ -231,3 +231,18 @@ earlier judgment
 - Candidate methodological lesson: alliance reliability is issue-, time- and mechanism-specific. Preserve internal capability and alternate support paths even when cooperation is strong.
 - Confidence: high that the permanent no-conflict claim fails; medium-high on treaty-related aid restriction, pending full Soviet/Chinese aid records.
 - Evidence pointer: `evidence/v2-019/evidence-ledger.md#E10-E15`.
+
+---
+
+## R-015 — Coarse structural categories revised after new actor behavior became visible
+
+- Earlier article / date: original V2-023 `中国革命与中国共产党`, 1939-12-15.
+- Earlier model: class position was treated as determining political attitude, while several landlord and bourgeois categories were too coarse for current united-front policy.
+- Later evidence/article: the Selected Works note records that after attitudes became clearer by March 1940, Mao revised the text to distinguish big from national bourgeoisie, pro-Japanese from non-pro-Japanese big bourgeoisie, and big landlords from middle/small landlords and enlightened gentry.
+- What changed: the structural ontology was retained, but its actor taxonomy and policy-relevant partitions were refined using subsequent observed behavior.
+- Error type: `actor classification under-specification / delayed behavioral evidence`.
+- Was the earlier judgment explicitly revised?: yes; the later note connects the revision to what could not yet be clearly observed in December and could be seen by March.
+- Operational consequence: a later selected-text reading makes a more precise 1940 classification look available to the December 1939 decision-maker.
+- Candidate methodological lesson: timestamp taxonomies. Structural identity may set a prior, but behavior and context must control later category splits, merges and policy consequences.
+- Confidence: high textual confidence on the revision record; empirical quality of the new grouping still requires independent outcome validation.
+- Evidence pointer: `evidence/v2-023/evidence-ledger.md#E18-E21`.

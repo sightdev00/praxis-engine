@@ -209,6 +209,21 @@ prediction at time t
 
 ---
 
+## PRED-014 — Global socialist rise will carry China beyond capitalism
+
+- Source/date: V2-023 `中国革命和中国共产党`, 1939-12 (original dated 1939-12-15).
+- Type: global trend + national transition forecast.
+- Prediction: the 1940s–1950s international environment will be one of rising socialism and declining capitalism; this environment, together with domestic socialist factors, makes China's final socialist rather than capitalist outcome highly likely.
+- Preconditions: continuing growth of communist political leadership, acceptance by allied classes, state/cooperative economic growth and a favorable international environment.
+- Time horizon: the 1940s–1950s are named for the international trend; the Chinese transition date is unspecified.
+- Observable outcome: socialist institutions prevail in China; capitalism declines relative to socialism globally over the stated era.
+- Later evidence: the PRC adopted a socialist state/economic program and completed major ownership transformations in the 1950s. The broader prediction is mixed: the socialist bloc expanded after World War II, but capitalist economies also grew strongly and capitalism did not enter a durable general decline.
+- Status: **confirmed for China's institutional direction; partial/contradicted for the universal global-trend mechanism**.
+- Alternative explanation: China's outcome followed civil-war victory, state coercive/administrative capacity, Soviet support and domestic policy choices; it does not by itself validate a global law of capitalist decline.
+- Model update: decompose `local outcome`, `international enabling condition` and `universal historical direction`; evidence for one component cannot validate the others.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
