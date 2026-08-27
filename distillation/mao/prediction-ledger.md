@@ -960,6 +960,118 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-062 — Germany's war machine is close to collapse and Europe to general resolution
+
+- Source/date: V3-016 `评国民党十一中全会和三届二次国民参政会`, 1943-10-05.
+- Type: theater-level timing forecast.
+- Prediction: after the Red Army reaches the Dnieper, another winter offensive will reach at least the old Soviet border, Germany will soon collapse and Europe is on the eve of general resolution.
+- Preconditions: Soviet momentum continues; Germany cannot stabilize; Anglo-American pressure increases; “eve/soon” is assigned a finite horizon.
+- Time horizon: winter 1943–44 and near-term European war.
+- Observable outcome: front line, second front, German surrender date and retained combat capacity.
+- Later evidence: Soviet forces reached the old border in early 1944 and Germany surrendered in May 1945; direction and border branch were strong, while “eve” was rhetorically elastic.
+- Status: **substantially confirmed in direction and near-term front movement; timing phrase under-specified**.
+- Alternative explanation: Allied material/air/ground contributions as well as Soviet operations caused German defeat.
+- Model update: attach explicit dates and contribution metrics to theater forecasts.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E04-E08; E48`.
+
+---
+
+## PRED-063 — Japan is inevitably losing and entering its final-struggle phase
+
+- Source/date: V3-016, 1943-10-05.
+- Type: strategic outcome and phase forecast.
+- Prediction: European Axis defeat will decide the global balance; Japan is cornered and can only concentrate for a final struggle, including intensified anti-Communist sweeps and Kuomintang inducement.
+- Preconditions: Allied coalition persists; Japan cannot replace losses/resources; European victory releases capacity to Asia.
+- Time horizon: remaining war through Japanese defeat.
+- Observable outcome: Japanese resource/territorial trend, strategy mix and surrender.
+- Later evidence: Japan surrendered in August 1945, confirming defeat direction; its remaining strategy was broader than the two Chinese channels listed.
+- Status: **confirmed on eventual defeat; partial on phase timing and exclusive strategy description**.
+- Alternative explanation: Pacific naval/air attrition and atomic/Soviet entry paths mattered independently of the Europe-first mechanism.
+- Model update: separate endpoint, timing and strategy-set forecasts.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E05-E08; E48`.
+
+---
+
+## PRED-064 — Starting civil war will necessarily end Kuomintang resistance and cause unconditional surrender to Japan
+
+- Source/date: V3-016, 1943-10-05.
+- Type: strong necessity / escalation forecast.
+- Prediction: if Kuomintang forces start or join civil war, two-front limits and surrenderist control will inevitably end anti-Japanese action and culminate in unconditional surrender to Japan.
+- Preconditions: civil conflict becomes dominant before Japanese defeat; no external support offsets capacity; surrenderists control the decision.
+- Time horizon: late 1943 through the end of anti-Japanese war.
+- Observable outcome: start of conflict, anti-Japanese operations, negotiations/treaty and surrender authority.
+- Later evidence: serious inter-party conflict and later full civil war did not produce Kuomintang unconditional surrender to Japan; Japan surrendered in 1945.
+- Status: **contradicted in its inevitable endpoint form; opportunity-cost warning remains valid**.
+- Alternative explanation: conflict can reduce resistance without determining sovereign surrender, especially under Allied support and Japanese deterioration.
+- Model update: forecast probability and capacity loss, not a single necessary political endpoint.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E15-E21; E47-E48`.
+
+---
+
+## PRED-065 — The likely intermediate course is temporary delay while preserving future civil-war preparation
+
+- Source/date: V3-016, 1943-10-05.
+- Type: adversary strategy forecast.
+- Prediction: domestic/international pressure and Japanese decline will induce Kuomintang authorities to postpone immediate attack, use political/constitutional language and retain preparations for later conflict.
+- Preconditions: pressure raises immediate costs; leaders retain power and anti-Communist preference; postponement is cheaper than reform or attack.
+- Time horizon: late 1943 through postwar transition.
+- Observable outcome: troop easing without structural settlement, negotiations without key implementation, retained coercive capacity and later conflict.
+- Later evidence: northern Shaanxi crisis eased, talks resumed, constitutional activity occurred, while structural conflict persisted and expanded after Japanese surrender.
+- Status: **substantially confirmed at broad strategic level; individual motives remain unidentifiable**.
+- Alternative explanation: policy evolved with changing security conditions rather than following a fixed hidden plan.
+- Model update: infer strategy from sequences and costly actions, not a timeless collective intent.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E22-E30; E43-E49`.
+
+---
+
+## PRED-066 — Broad coalition pressure can move policy toward genuine democratic cooperation
+
+- Source/date: V3-016, 1943-10-05.
+- Type: coalition-intervention forecast.
+- Prediction: action by patriotic Kuomintang members, other parties and the public, aided by international conditions, can block surrender/delay paths and win fair political settlement and democratic constitutional government.
+- Preconditions: coalition can organize safely; pressure changes elite incentives; representative institutions gain operating authority; armed actors accept constraints.
+- Time horizon: wartime and immediate postwar transition.
+- Observable outcome: freedoms, representative elections, coalition government, military/political settlement and peaceful turnover.
+- Later evidence: democratic and constitutional movements expanded and coalition-government proposals gained support, but no durable jointly accepted democratic settlement prevented civil war.
+- Status: **partially confirmed for mobilization and agenda change; contradicted as completed durable settlement**.
+- Alternative explanation: mass pressure changed rhetoric without controlling military power or institutional enforcement.
+- Model update: distinguish agenda adoption, formal institution, operating power and durable compliance.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E34-E46; E49`.
+
+---
+
+## PRED-067 — Kuomintang forces are highly fragile because anti-Communism crowds out resistance
+
+- Source/date: V3-016, 1943-10-05.
+- Type: organizational-capability forecast.
+- Prediction: low morale and the policy mix of active anti-Communism and passive resistance make the nominal three-million force extremely brittle against enemies or people.
+- Preconditions: cited defeats are representative; command/logistics/political legitimacy drive performance; no major re-equipment or theater variation offsets them.
+- Time horizon: 1943–45 and possible internal war.
+- Observable outcome: combat-loss rates, retreat, unit cohesion and cross-theater comparisons.
+- Later evidence: the 1944 Henan-Hunan-Guangxi defeats support severe weaknesses, but Kuomintang forces remained heterogeneous and later fought a prolonged civil war.
+- Status: **partially confirmed as serious weakness; contradicted as uniform immediate-collapse claim**.
+- Alternative explanation: Japanese concentration, logistics, corruption, command failures and equipment distribution vary independently of anti-Communist policy.
+- Model update: replace global morale labels with unit/theater capability distributions.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E19-E20; E31-E33; E47-E48`.
+
+---
+
+## PRED-068 — The 1943 political-settlement and constitutional promises lack present sincerity
+
+- Source/date: V3-016, 1943-10-05.
+- Type: commitment-credibility forecast.
+- Prediction: given prior nonperformance, concurrent coercive actions and power concentration, the conference promises are chiefly delay language rather than current intent to implement democratic settlement.
+- Preconditions: acceptance tests are specified; later actions can change the assessment; institutional substance matters beyond formal enactment.
+- Time horizon: 1943 through postwar constitutional transition.
+- Observable outcome: troop withdrawal, talks, freedoms, party rights, representative assembly, security apparatus and effective power sharing.
+- Later evidence: easing and talks were real but limited; democratic agitation expanded; a 1946 constitution was adopted amid contested representation and civil war, without durable shared settlement.
+- Status: **substantially supported for incomplete wartime substance; not a license to treat every subsequent action as insincere**.
+- Alternative explanation: mixed factions and changing conditions produced partial sincere steps alongside power preservation.
+- Model update: score each promise and costly signal separately on a versioned commitment ledger.
+- Evidence pointer: `evidence/v3-016/evidence-ledger.md#E10-E13; E22-E49`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
