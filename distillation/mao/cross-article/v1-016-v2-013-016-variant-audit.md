@@ -1,4 +1,4 @@
-# Variant Audit — V1-016, V2-013, V2-015, V2-016
+# Variant Audit — V1-016, V2-013, V2-015, V2-016, V2-029
 
 > Status: source-critical cross-article control; not an author-method confidence upgrade
 
@@ -24,6 +24,7 @@ Because all cases pass through a related editorial tradition, they are not indep
 | V2-013 `五四运动` | Original explicitly attributes the failures of Xinhai/May Fourth to intellectuals not joining workers/peasants; selected text deletes this sentence, strengthens working-class leadership, broadens the behavioral label | The original causal claim was always as qualified as the later text |
 | V2-015 `反对投降活动` | Original twice supports Chiang/the National Government's declared resistance policy; selected text deletes these commitments | The 1939 actor model had already fully identified the KMT top leadership as the capitulation opponent |
 | V2-016 `必须制裁反动派` | Original appeals to law, life protection, Chiang and the National Government; selected text compresses that interface, while later notes identify Chiang as the secret commander | The later responsibility attribution was already available at the original decision point |
+| V2-029 `向国民党的十点要求` | Original title is `讨汪拥蒋大会通电`, directly addresses Chiang/government and a broad delivery network, calls it `我国民政府`, supports Chiang's resistance and carries named/30,000-person signatures; selected text removes these while retaining most demands | The 1940 artifact was a one-way anti-KMT demand rather than conditional recognition plus pressure through a shared governmental interface |
 
 ## Source-critical mechanism
 
@@ -55,6 +56,7 @@ For methodologically important variants, record separately:
 3. what evidence was available at the earlier time;
 4. whether the later change is author revision, editorial framing or unknown;
 5. whether the candidate mechanism survives when only contemporaneous evidence is used.
+6. delivery metadata: title, addressees, signatories, publication channel and public/private scope.
 
 ## Confidence and boundary
 
