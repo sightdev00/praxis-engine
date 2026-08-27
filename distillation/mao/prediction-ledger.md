@@ -1200,6 +1200,166 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-077 — Historical-route study raises cadre judgment and prevents recurrence while preserving unity
+
+- Source/date: V3-018 `学习和时局`, 1944-04-12/05-20.
+- Type: organizational-learning forecast.
+- Prediction: studying competing historical routes through context/root analysis and lenient treatment will improve political judgment, avoid repeated error and unite more cadres.
+- Preconditions: documents and dissent are complete; conclusions can be revised; personal leniency does not erase responsibility or victim remedy.
+- Time horizon: pre-Seventh-Congress learning and subsequent work.
+- Observable outcome: prediction/correction quality, dissent survival, recurrence, cooperation and repair.
+- Later evidence: a formal historical resolution and high organizational unity followed; this does not independently prove epistemic correctness, while later recurrence of coercive classification limits any universal claim.
+- Status: **partially supported for cohesion and formal learning; recurrence prevention unconfirmed**.
+- Alternative explanation: authority consolidation and wartime incentives can produce agreement without better reasoning.
+- Model update: measure error correction and dissent quality separately from consensus.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E02-E16; E41-E50`.
+
+---
+
+## PRED-078 — Clear party-wide understanding will guarantee study success and Chinese revolutionary victory
+
+- Source/date: V3-018, 1944-04-12.
+- Type: macro sufficiency forecast.
+- Prediction: if the historical conclusions are clearly understood throughout the party, the study will succeed and the Chinese revolution will certainly win.
+- Preconditions: conclusions are accurate; understanding changes execution; military, material, coalition and external conditions align.
+- Time horizon: study cycle through revolutionary outcome.
+- Observable outcome: comprehension, behavior change, organizational performance and causal contribution to victory.
+- Later evidence: the party achieved high unity and eventual victory, but the outcome had many military, social and international causes; agreement cannot identify sufficiency.
+- Status: **endpoint confirmed; guarantee/sufficiency unidentifiable**.
+- Alternative explanation: coercive capacity, war outcomes, material organization and opponents' failures dominate.
+- Model update: treat shared doctrine as one capability with guardrails, not a victory guarantee.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E03-E16; E49-E50`.
+
+---
+
+## PRED-079 — The old faction no longer exists and continued rectification can remove its ideological remnants
+
+- Source/date: V3-018, 1944-04-12.
+- Type: actor-state and correction forecast.
+- Prediction: prior factional political/organizational forms have disappeared after successive changes; remaining dogmatist/empiricist habits can be overcome by deeper study.
+- Preconditions: networks/actions are independently observed; disagreement is not relabeled as residue; education changes behavior.
+- Time horizon: current rectification and later organization.
+- Observable outcome: network coordination, program, behavior, recurrence and open disagreement.
+- Later evidence: former opponents worked within the unified organization and no same formal faction is identified in the immediate record; ideological categories remain difficult to falsify.
+- Status: **plausible for organizational dissolution; correction of thought residues unidentifiable**.
+- Alternative explanation: faction expression may be suppressed or transformed rather than eliminated.
+- Model update: use observable coordination/actions and retire unfalsifiable identity labels.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E12-E15; E49-E50`.
+
+---
+
+## PRED-080 — Anti-fascist and popular forces will continue strengthening
+
+- Source/date: V3-018, 1944-04-12.
+- Type: global political trend forecast.
+- Prediction: the anti-fascist camp is strengthening as fascism declines, and within the anti-fascist camp popular forces are increasing relative to anti-popular forces.
+- Preconditions: coalition holds; “popular” actors and power metrics are defined; wartime mobilization persists after victory.
+- Time horizon: end of World War II and immediate aftermath.
+- Observable outcome: military balance, elections/membership, labor/left-party power and postwar institutions across countries.
+- Later evidence: Axis defeat confirms the first trend; postwar popular/left influence rose in some places but varied and reversed in others.
+- Status: **confirmed for anti-fascist military balance; mixed/under-defined for internal popular-power trend**.
+- Alternative explanation: state mobilization and superpower competition do not map monotonically to popular power.
+- Model update: disaggregate geography, institution and time horizon.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E17-E19`.
+
+---
+
+## PRED-081 — Hitler will soon be defeated and Japan is already declining
+
+- Source/date: V3-018, 1944-04-12.
+- Type: war outcome/timing forecast.
+- Prediction: Germany will be defeated soon and Japan is in a decline process.
+- Preconditions: Allied offensives continue and Axis coalitions cannot recover.
+- Time horizon: near-term end of war.
+- Observable outcome: surrender dates and military-resource trends.
+- Later evidence: Germany surrendered May 1945 and Japan August 1945.
+- Status: **confirmed direction; “soon” remains elastic but roughly one year**.
+- Alternative explanation: exact timing depended on later Allied operations, Soviet entry and Japanese decisions.
+- Model update: time-box phase labels.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E17-E19`.
+
+---
+
+## PRED-082 — Kuomintang military decay will cause further severe defeat and raise Communist resistance burdens
+
+- Source/date: V3-018, 1944-04-12.
+- Type: military capability forecast.
+- Prediction: long-term passive resistance, anti-Communism and civil-military separation have degraded Kuomintang forces; further serious defeat will follow and increase Communist anti-enemy responsibility.
+- Preconditions: observed Henan weakness is representative; Japan continues major offensives; Communist areas absorb displaced pressure.
+- Time horizon: 1944 campaign.
+- Observable outcome: subsequent losses/territory, Japanese redeployment and Communist operational burden.
+- Later evidence: the 1944 Henan-Hunan-Guangxi campaign caused major Kuomintang defeats, supporting the weakness forecast; exact shift in burden and single-cause attribution remain uncertain.
+- Status: **substantially confirmed on further defeat; partial on causal and burden chain**.
+- Alternative explanation: Japanese concentration, logistics, command, Allied allocation and terrain jointly caused defeat.
+- Model update: model distributed unit capability and multiple causes.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E27-E31`.
+
+---
+
+## PRED-083 — Failure to prepare urban and transport work will obstruct expelling Japan and national liberation
+
+- Source/date: V3-018, 1944-04-12.
+- Type: strategic capability necessity forecast.
+- Prediction: without organizing urban/transport populations and preparing uprisings, rural armies/bases will lack city coordination and face serious obstacles to expelling Japan and liberating China.
+- Preconditions: endgame requires internal city uprising/management; alternative Allied surrender/occupation channels are insufficient.
+- Time horizon: war end and national transition.
+- Observable outcome: city intelligence/uprising, occupation, handover and governance outcomes with varied preparation.
+- Later evidence: urban/transport capability mattered greatly in postwar competition, but Japan's surrender resulted from a wider external military chain and many cities changed hands without the prescribed uprising path.
+- Status: **partially supported as transition capability; contradicted as strict necessity for Japanese defeat**.
+- Alternative explanation: external surrender and negotiated/contested reception can replace uprising.
+- Model update: prepare a portfolio of transition scenarios.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E32-E36`.
+
+---
+
+## PRED-084 — The Seventh Party Congress will soon convene around urban work and national victory
+
+- Source/date: V3-018, 1944-04-12.
+- Type: internal delivery/timing forecast.
+- Prediction: the Seventh Congress may meet soon and will discuss strengthening urban work and winning national victory.
+- Preconditions: security and internal preparation permit convening; agenda remains stable.
+- Time horizon: “soon” after April 1944.
+- Observable outcome: congress date and agenda.
+- Later evidence: the Seventh Congress convened April–June 1945 and centered political/military preparation for victory and postwar order, with relevant urban/state tasks.
+- Status: **confirmed with roughly one-year lag**.
+- Alternative explanation: “soon” had no explicit deadline and could absorb delay.
+- Model update: attach target/outer-bound dates to institutional commitments.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E32-E36; E49`.
+
+---
+
+## PRED-085 — Learning urban industrial and transport management is necessary for national liberation
+
+- Source/date: V3-018, 1944-04-12.
+- Type: capability-dependency forecast.
+- Prediction: base areas must learn to manage major-city industry, commerce and transport; without this preparation they cannot expel Japan or liberate China.
+- Preconditions: political/military transition entails administrative control; learning transfers from small base industries to cities.
+- Time horizon: pre-victory preparation and city takeover.
+- Observable outcome: training, transfer performance, production continuity and governance failures.
+- Later evidence: city administration was crucial after territorial expansion, supporting capability value; Japanese defeat itself did not depend uniquely on this preparation.
+- Status: **confirmed as important state-capacity debt; necessity for war endpoint overstated**.
+- Alternative explanation: retained technical staff and existing institutions can supply capability after transition.
+- Model update: separate war victory, transition continuity and long-run governance dependencies.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E32-E36`.
+
+---
+
+## PRED-086 — Dropping status burdens and practicing analysis will reduce error and aid victory
+
+- Source/date: V3-018, 1944-04-12.
+- Type: cognitive/organizational performance forecast.
+- Prediction: cadres who release pride/shame tied to errors, success, origin, expertise or age and develop active analytical habits will connect with people, make fewer errors and win.
+- Preconditions: institutional incentives permit criticism; evidence and feedback are available; “dropping burdens” does not suppress victim claims.
+- Time horizon: ongoing organizational work.
+- Observable outcome: error/correction rates, help-seeking, cross-status collaboration, dissent and decision quality.
+- Later evidence: plausible general mechanism and organizational practice, but no direct comparison isolates it; the recent Rescue Campaign shows analysis slogans can coexist with coercive error.
+- Status: **plausible and useful, empirically unidentifiable in strong outcome form**.
+- Alternative explanation: authority, checks, resources and information systems dominate individual mindset.
+- Model update: pair cognitive training with independent evidence, rights and accountability.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E37-E48`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

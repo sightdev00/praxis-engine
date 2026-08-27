@@ -452,3 +452,18 @@ earlier judgment
 - Candidate methodological lesson: precommit both escalation and de-escalation triggers; record state changes, reciprocal signals and residual defense separately from public rhetoric.
 - Confidence: high on sequence, medium on the independent causal effect of the October change.
 - Evidence pointer: `evidence/v3-014/evidence-ledger.md#E32-E39`.
+
+---
+
+## R-030 — Rescue Campaign correction added responsibility and repair beyond operational safeguards
+
+- Earlier policy/date: mass cadre examination and anti-spy escalation culminating in the July 1943 Rescue Campaign; see V3-013 and `R-028`.
+- Earlier judgment: unified chief responsibility, broad participation and higher guidance were treated as sufficient for full success; accusation cascades and coercive confession instead created extensive false cases.
+- Later evidence/date: by late 1943 the campaign was stopped and screening began; in the May 1944 Central Party School setting associated with V3-018, Mao acknowledged mistaken labels and apologized; later statements accepted responsibility for issuing orders, while review continued through the Seventh Congress period and some harms lasted much longer.
+- What changed: the correction moved from investigation/stop/arrest limits to explicit withdrawal of labels, apology and named top-level responsibility. Yet compensation, independent adjudication and complete long-tail repair were still not institutionally specified.
+- Error type: `false-positive cascade + command responsibility + incomplete remedy debt`.
+- Was the earlier judgment explicitly revised?: yes operationally and personally; the accessible canonical body of V3-018 still under-discloses the failure when it says the organization learned or began to learn cadre examination and anti-spy policy.
+- Operational consequence: correction is incomplete when harmful records, lost liberty/opportunity, stigma or recurrence risk remain. A leader's apology is an input to repair, not its terminal state.
+- Candidate methodological lesson: attach every high-consequence classifier to a reversible status, evidence record, independent appeal, command-responsibility field and remedy ledger that remains open until downstream harms are resolved.
+- Confidence: high on the failure/correction/apology sequence; medium on completeness for every affected person.
+- Evidence pointer: `evidence/v3-018/evidence-ledger.md#E25; E41-E48`.
