@@ -880,6 +880,86 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-057 — Thorough rent reduction will strengthen next year's production and resistance
+
+- Source/date: V3-015 `开展根据地的减租、生产和拥政爱民运动`, 1943-10-01.
+- Type: agrarian-mobilization causal forecast.
+- Prediction: inspecting and completing rent reduction in autumn 1943 will raise peasant initiative, stimulate 1944 production and strengthen resistance.
+- Preconditions: reductions are real and enforceable; farmers retain marginal output; organization does not impose offsetting burdens; land, inputs and security permit production.
+- Time horizon: autumn 1943 through the 1944 agricultural/war cycle.
+- Observable outcome: effective rents, household surplus, participation, planted area/yield, support for resistance and comparison across implementation intensity.
+- Later evidence: official histories associate rent-reduction campaigns with greater production and resistance enthusiasm, including earlier Taihang experience, but do not isolate this directive from organization, security and resource conditions.
+- Status: **directionally supported, exact causal magnitude unidentifiable**.
+- Alternative explanation: stronger local organizations may both implement reduction and produce better military/economic outcomes.
+- Model update: audit realized household transfers and use staggered/local comparisons rather than policy-presence labels.
+- Evidence pointer: `evidence/v3-015/evidence-ledger.md#E02-E12; E41-E42`.
+
+---
+
+## PRED-058 — Spending most fiscal effort on production will make revenue collection easier
+
+- Source/date: V3-015, 1943-10-01.
+- Type: capacity-first fiscal forecast.
+- Prediction: if county/district personnel devote roughly 90 percent of effort to helping farmers increase production and 10 percent to taxation, revenue collection will become easier.
+- Preconditions: assistance raises net output; benefits precede collection; tax rules preserve household surplus; reported assistance is substantive.
+- Time horizon: one or more agricultural/fiscal cycles.
+- Observable outcome: staff effort, marginal net production, arrears, collection cost, effective burden and household consumption.
+- Later evidence: base-area production movements improved material conditions in later official accounts, but no accessible common-denominator evidence validates the 90/10 ratio.
+- Status: **plausible mechanism; numerical allocation unvalidated**.
+- Alternative explanation: security improvement, weather or lower effective tax burdens could explain easier collection.
+- Model update: treat 90/10 as a priority heuristic and optimize against net household/output and administrative data.
+- Evidence pointer: `evidence/v3-015/evidence-ledger.md#E16-E17; E26-E27; E41-E42`.
+
+---
+
+## PRED-059 — Large-scale labor organization is possible and necessary in every base
+
+- Source/date: V3-015, 1943-10-01.
+- Type: scaling and necessity forecast.
+- Prediction: even under war conditions, each base can and must organize tens of thousands of party-government-army workers and hundreds of thousands of residents through household plans, mutual-aid teams, transport teams and cooperatives.
+- Preconditions: population scale is sufficient; security, tools and land permit work; participation is voluntary; labor is equivalently compensated; administrative overhead is tolerable.
+- Time horizon: 1944 production movement.
+- Observable outcome: eligible population, genuine enrollment/exit, labor days, compensation, net output and regional failure/exception cases.
+- Later evidence: mutual-aid organizations expanded and some bases were later described as especially effective, supporting feasibility in several regions but not universal scale or necessity.
+- Status: **partially supported for multi-region feasibility; universal magnitude and necessity unconfirmed**.
+- Alternative explanation: ordinary household production, markets or smaller flexible groups may outperform mass organization under some conditions.
+- Model update: scale by local bottleneck and net benefit; do not use enrollment totals as proof of voluntariness or output.
+- Evidence pointer: `evidence/v3-015/evidence-ledger.md#E29-E34; E42`.
+
+---
+
+## PRED-060 — Universal production will create the material base for persistence and disaster resistance
+
+- Source/date: V3-015, 1943-10-01.
+- Type: resilience forecast.
+- Prediction: production by party, government, army and civilians across agriculture and related sectors will increase food/daily goods, prepare for disasters and materially sustain the bases; failure will create extreme difficulty.
+- Preconditions: production is additional rather than displaced; military/educational duties remain functional; storage/distribution work; disaster and enemy losses are manageable.
+- Time horizon: 1944 and the remaining resistance period.
+- Observable outcome: net supply, imports/extractions avoided, nutrition, reserves, mission performance and shock recovery.
+- Later evidence: later official histories credit mass production with helping bases overcome severe difficulty, but gross campaign success cannot identify universal participation as the necessary component.
+- Status: **broadly supported at system level; necessity of every-person participation unconfirmed**.
+- Alternative explanation: fiscal reform, external supply, military improvement and reduced consumption also contributed.
+- Model update: separate activity, gross output, net output and shock survival; preserve protected professional duties.
+- Evidence pointer: `evidence/v3-015/evidence-ledger.md#E13-E34; E41-E42`.
+
+---
+
+## PRED-061 — Annual reciprocal review, compensation and apology will repair civil-military relations
+
+- Source/date: V3-015, 1943-10-01.
+- Type: recurring governance and trust forecast.
+- Prediction: annual campaigns in which the army and civilians restate reciprocal duties, self-criticize, compensate and apologize for harms will unite them and improve subsequent defense and production.
+- Preconditions: harms can be reported safely; responsible organizations verify and pay compensation; public criticism changes conduct; repetition does not become ritual.
+- Time horizon: lunar New Year 1944 and annually thereafter.
+- Observable outcome: complaint volume/resolution, compensation completion, recurrence, trust, requisition disputes and operational cooperation.
+- Later evidence: the practice became an enduring “双拥” institution, confirming recurrence and diffusion; accessible celebratory histories do not independently establish falling abuse or causal effects.
+- Status: **confirmed as institutional persistence; outcome effectiveness only partially supported**.
+- Alternative explanation: military security and material support could improve relations independent of campaign rituals.
+- Model update: retain the reciprocal contract, add cross-party complaint, independent verification, remedy deadlines and recurrence metrics.
+- Evidence pointer: `evidence/v3-015/evidence-ledger.md#E35-E40`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
