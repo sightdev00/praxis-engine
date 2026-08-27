@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 23 | 40 |
+| II | 24 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **41** | **159** |
+| **Total** | **42** | **159** |
 
 ---
 
@@ -72,7 +72,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-021 目前形势和党的任务
 - [x] V2-022 大量吸收知识分子
 - [x] V2-023 中国革命和中国共产党
-- [ ] V2-024 斯大林是中国人民的朋友
+- [x] V2-024 斯大林是中国人民的朋友
 - [ ] V2-025 纪念白求恩
 - [ ] V2-026 新民主主义论
 - [ ] V2-027 克服投降危险，力争时局好转

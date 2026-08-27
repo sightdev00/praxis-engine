@@ -224,6 +224,21 @@ prediction at time t
 
 ---
 
+## PRED-015 — Only socialist actors can truly aid Chinese liberation
+
+- Source/date: V2-024 `斯大林是中国人民的朋友`, 1939-12-20.
+- Type: actor-class universal + counterfactual necessity claim.
+- Prediction: only socialist states, leaders and peoples can truly aid Chinese liberation; without their aid final victory is impossible.
+- Preconditions: “true aid” is implicitly defined by alignment with socialist liberation rather than by an explicit material/outcome metric.
+- Time horizon: through final victory.
+- Observable outcome: no non-socialist state provides material, operational or institutional aid contributing to resistance/victory; socialist aid remains indispensable and non-substitutable.
+- Later evidence: in 1941 the United States allocated and shipped war materials to China and established a military mission; the 1942 Lend-Lease agreement and subsequent China-Burma-India operations supplied, trained and supported Chinese forces. These actions meet ordinary operational definitions of aid despite mixed US motives and limitations.
+- Status: **contradicted as an exclusive actor-class claim; necessity component unidentifiable**.
+- Alternative explanation: Soviet aid was unusually early and valuable, while later non-socialist aid emerged as US/Japanese relations and the global war changed. Actor policy was stage-dependent, not fixed by regime class alone.
+- Model update: define aid by observable transfer, risk, delivery and effect; score motive and reliability separately. Do not use “true” to immunize a class prediction from counterexamples.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
