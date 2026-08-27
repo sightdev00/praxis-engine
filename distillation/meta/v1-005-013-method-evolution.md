@@ -140,6 +140,24 @@ Before using action primarily to learn, classify:
 
 Prefer experiments, simulations, read-only probes, shadow evaluation or limited pilots when the action class is 3–4.
 
+### Conflict-specific extension (tested at V2-034)
+
+When the action responds to an adversarial or disputed event, reversibility alone is insufficient. Record:
+
+```text
+trigger evidence
+-> attribution confidence
+-> authorized objective
+-> minimum necessary response
+-> third-party / rights impact
+-> escalation ceiling
+-> stop / ceasefire condition
+-> monitoring
+-> re-entry condition
+```
+
+V2-034 supplies a partial lifecycle—defensive trigger, readiness/selectivity, and a stop/reset rule—but not neutral fact finding, proportionality, third-party protection or an appeal path. Those are modern safety additions and must not be attributed to the source.
+
 ### Decision rule
 
 “Practice is evidence” does not imply “all uncertainty should be resolved by real-world trial.”
@@ -156,6 +174,6 @@ This will later connect naturally to value of information, downside risk and all
 
 # Status
 
-All three controls are **active working hypotheses for Praxis Engine**, not claims that Mao explicitly formulated them in this modern form.
+All three controls and the conflict-specific extension are **active working hypotheses for Praxis Engine**, not claims that Mao explicitly formulated them in this modern form.
 
 They should be tested against the remaining corpus and may be narrowed, split or removed.

@@ -301,6 +301,21 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-020 — Japan can no longer launch large-scale military offensives in China
+
+- Source/date: V2-034 `目前抗日统一战线中的策略问题`, 1940-03-11.
+- Type: adversary capability + stage forecast.
+- Prediction: Japan has been seriously damaged and no longer has the capacity to conduct large-scale military offensives; the war is therefore in strategic stalemate, though sweeps and economic/political pressure continue.
+- Preconditions: the statement is tied to the `current` situation after prolonged Chinese resistance; theater and force threshold are unstated.
+- Time horizon: `目前`; no expiry date or re-evaluation trigger.
+- Observable outcome: define large-scale by forces, territory, duration and strategic objective; track later Japanese campaigns separately from local sweeps.
+- Later evidence: not scored at entry. Subsequent campaigns, especially the 1944 Ichigo offensive, are a clear falsification target for any broad/indefinite reading; near-term scoring requires a campaign chronology and a fixed threshold.
+- Status: **unresolved as a bounded 1940 claim; likely contradicted if read as durable/theater-wide incapacity**.
+- Alternative explanation: Japan may have shifted priorities or temporarily lacked favorable cost/benefit without losing underlying capability; strategic stalemate can still contain large campaigns.
+- Model update: stage labels do not prove capability absence. Bind capability forecasts to unit, scale, geography, horizon and observable re-entry triggers.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

@@ -194,3 +194,66 @@ This adds another meta-question and can become overformalized. Use it only when 
 ### Validation target
 
 V1-004 and later economic/organizational texts should test whether Mao repeatedly reduces systems to one principal bottleneck, or alternates between bottleneck and configuration reasoning depending on the problem.
+
+---
+
+## 2026-08-26 — After V2-034: extend the reversibility gate for adversarial action
+
+### Trigger
+
+- V2-034 `目前抗日统一战线中的策略问题`
+- earlier M-03 reversibility / failure-cost gate from V1-013
+
+### Observed weakness
+
+M-03 classifies how recoverable an action is, but conflict can escalate even when an individual response appears locally recoverable. A defensive actor can misattribute the trigger, use more force than necessary, harm third parties, omit a stop condition or interpret every later event as a new trigger.
+
+V2-034 provides a useful partial lifecycle:
+
+```text
+claimed defensive trigger
+-> planned/selective engagement
+-> stop after the episode
+-> reopen cooperation
+-> respond again only to a new attack
+```
+
+The historical rule itself is not a sufficient modern safety protocol because the same passage authorizes total destruction of an attacking force and leaves trigger adjudication to the acting side.
+
+### Classification
+
+- Philosophy: observed harm vs disputed attribution; self-defense claim vs verified event.
+- Architecture: conflict actions require a lifecycle record, not only a scalar risk score.
+- Methodology: add proportionality, third-party impact, escalation and exit fields.
+
+### Change adopted
+
+For adversarial/disputed action, extend M-03 with:
+
+1. trigger evidence;
+2. attribution confidence;
+3. authorized objective;
+4. minimum necessary response;
+5. third-party/rights impact;
+6. escalation ceiling;
+7. stop or ceasefire condition;
+8. monitoring;
+9. re-entry condition.
+
+### Expected benefit
+
+- separates “we were harmed” from “this actor intentionally caused it”;
+- prevents a valid protective objective from authorizing unlimited response;
+- makes conflict termination and renewed cooperation first-class design elements;
+- exposes effects on actors outside the immediate dispute.
+
+### Cost / risk
+
+The fields can create false procedural confidence when facts are contested or enforcement is asymmetric. They are a minimum audit surface, not proof that an action is legitimate or safe.
+
+### Backward impact and validation
+
+- No article cards require blocking rewrite.
+- V2-028 effect/intent separation and V2-029 due-process gaps are supporting precursors.
+- Validate against V2-035–040, especially whether the rules prevent escalation in practice or only rationalize the acting side's decisions.
+- Keep/revise/revert decision: **active hypothesis; pending end-of-volume review**.
