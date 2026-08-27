@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 19 | 40 |
+| II | 20 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **37** | **159** |
+| **Total** | **38** | **159** |
 
 ---
 
@@ -68,7 +68,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-017 关于国际新形势对新华日报记者的谈话
 - [x] V2-018 和中央社、扫荡报、新民报三记者的谈话
 - [x] V2-019 苏联利益和人类利益的一致
-- [ ] V2-020 《共产党人》发刊词
+- [x] V2-020 《共产党人》发刊词
 - [ ] V2-021 目前形势和党的任务
 - [ ] V2-022 大量吸收知识分子
 - [ ] V2-023 中国革命和中国共产党
