@@ -226,7 +226,7 @@ The target corpus is large enough that article cards must remain comparable.
 Preferred structure:
 
 ```text
-article-cards/<原文章中文标题>.md   # compact synthesis and argument map
+article-cards/V<卷号>-<篇号> <原文章中文标题>.md  # compact synthesis and argument map
 evidence/<article>/              # evidence ledger, source map, variants, historical notes
 cross-article/                    # pattern tracking
 revision-ledger.md                # later corrections, reversals, failed judgments

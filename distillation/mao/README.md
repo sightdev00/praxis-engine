@@ -36,17 +36,17 @@ Work through the selected corpus in published volume order. Do not skip directly
 ## Article-card naming
 
 ```text
-<原文章中文标题>.md
+V<卷号>-<篇号> <原文章中文标题>.md
 ```
 
 Example:
 
 ```text
-中国社会各阶级的分析.md
-湖南农民运动考察报告.md
+V1-001 中国社会各阶级的分析.md
+V1-002 湖南农民运动考察报告.md
 ```
 
-文件名只使用第二版目录中的原文章中文标题；文章编号继续保留在卡片首行、`corpus-index.md` 和证据目录（例如 `evidence/v1-001/`）中，以保证顺序、索引和稳定引用。标题中的《》、问号、顿号等原文标点均保留。
+文件名以卷号和篇号作为排序主键，后接第二版目录中的原文章中文标题；标题中的《》、问号、顿号等原文标点均保留。证据目录仍使用对应编号（例如 `evidence/v1-001/`）。
 
 ## Workflow for each article
 

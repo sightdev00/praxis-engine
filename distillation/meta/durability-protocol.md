@@ -25,7 +25,7 @@ reprocessed from `V3-008` in published order.
 
 An article is complete only when the same checkpoint contains, as applicable:
 
-1. `distillation/mao/article-cards/<原文章中文标题>.md`;
+1. `distillation/mao/article-cards/V<卷号>-<篇号> <原文章中文标题>.md`;
 2. `distillation/mao/evidence/<article>/evidence-ledger.md`;
 3. variant, commitment, prediction, or revision records required by the article;
 4. the corresponding `corpus-index.md` update;

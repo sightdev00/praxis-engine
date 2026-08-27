@@ -18,7 +18,12 @@ while IFS= read -r index_line; do
   article=$(printf '%s\n' "$index_line" | rg -o 'V[1-4]-[0-9]{3}')
   [[ -z "$article" ]] && continue
   completed=$((completed + 1))
-  cards=$(rg -l "^# ${article} " "$cards_dir" --glob '*.md' || true)
+  cards=$(find "$cards_dir" -maxdepth 1 -type f -name '*.md' -print0 | while IFS= read -r -d '' candidate; do
+    first_line=$(sed -n '1p' "$candidate")
+    if [[ "$first_line" == "# ${article} "* ]]; then
+      printf '%s\n' "$candidate"
+    fi
+  done)
   card_count=$(printf '%s\n' "$cards" | sed '/^$/d' | wc -l)
   evidence_file="$evidence_dir/${article,,}/evidence-ledger.md"
 
@@ -34,8 +39,8 @@ while IFS= read -r index_line; do
   if [[ "$card_count" -eq 1 ]]; then
     card="$cards"
     title=$(sed -n "1s/^# ${article} //p" "$card")
-    if [[ "$(basename "$card" .md)" != "$title" ]]; then
-      echo "${article}: article-card filename must equal original Chinese title: $(basename "$card")" >&2
+    if [[ "$(basename "$card" .md)" != "$article $title" ]]; then
+      echo "${article}: article-card filename must equal sequence plus original Chinese title: $(basename "$card")" >&2
       failures=$((failures + 1))
     fi
   fi
