@@ -44,6 +44,8 @@ Record only the historical context needed to understand the document:
 
 Do not use later theory to explain the article at this stage.
 
+When variants materially affect the reasoning, also record the source artifact's title, date, owner/author, addressees, signatories, publication channel, public/private scope and document role (for example decision, directive, speech, editorial, slogan or retrospective). Delivery metadata is part of the action model.
+
 ### Pass 1 — Source / argument reconstruction
 
 Reconstruct the article on its own terms.
@@ -93,6 +95,17 @@ For each important item record, where possible:
 - whether the evidence was available at the time of the decision.
 
 Do not call an author inference an observed fact.
+
+Where relevant, tag the decision-state object separately from evidence type:
+
+- `forecast` — what the speaker expects to happen;
+- `target` — a state the actor is trying to cause;
+- `commitment` — an outcome an actor accepts responsibility to deliver;
+- `contingency` — a branch the actor prepares for if triggered;
+- `action` — an intervention actually authorized or executed;
+- `outcome` — a later observed result.
+
+Do not score a target as a forecast, a contingency as the base case, or an eventual outcome as proof that every stated mechanism was correct.
 
 ### Pass 3 — Reasoning reconstruction
 
@@ -241,6 +254,8 @@ earlier judgment
 ```
 
 A mechanism that explains only successful judgments is weaker than one that also explains why mistakes were detected and corrected.
+
+Forecast revisions should be versioned rather than overwritten. Record the old probability/direction, new evidence, changed fields, remaining fields, and whether upstream communication or incentives helped produce the earlier error.
 
 ## 9. Transfer test
 

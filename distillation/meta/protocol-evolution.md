@@ -257,3 +257,11 @@ The fields can create false procedural confidence when facts are contested or en
 - V2-028 effect/intent separation and V2-029 due-process gaps are supporting precursors.
 - Validate against V2-035–040, especially whether the rules prevent escalation in practice or only rationalize the acting side's decisions.
 - Keep/revise/revert decision: **active hypothesis; pending end-of-volume review**.
+
+### End-of-Volume-II validation
+
+- **Retain** the conflict-specific extension. V2-038 showed that defensive framing and a demand list do not prevent attribution overreach, escalation rhetoric or sequence overfit.
+- **Add** decision-state typing: `forecast / target / commitment / contingency / action / outcome`.
+- **Add** forecast-versioning and upstream-communication review after V2-038→040.
+- **Expand** variant identity to delivery metadata and document role after V2-029/031.
+- **Control cost** by allowing short/repetitive Volume-III cards to remain short while preserving all six passes and separate evidence ledgers.
