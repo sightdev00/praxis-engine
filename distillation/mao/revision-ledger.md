@@ -276,3 +276,18 @@ earlier judgment
 - Candidate methodological lesson: audit at two levels—claim data and inference. Fixing a datum does not automatically repair sampling, causal attribution or universal quantification.
 - Confidence: high that the compared texts differ and the later duration is substantially closer to the historical interval; contemporaneous scan and editorial provenance remain pending.
 - Evidence pointer: `evidence/v2-032/evidence-ledger.md#E14-E15`.
+
+---
+
+## R-018 — Land-Revolution “left” policy bundle explicitly rejected as wrong even then
+
+- Earlier period: late Land Revolution / roughly the policies associated in V2-037 with the later pre-Long-March phase.
+- Earlier policies: economically eliminating the bourgeoisie and harming rich peasants, physically eliminating landlords, attacking intellectuals, excessive purge policy, Communist monopoly of government, a Communist national-education aim, urban-offensive/anti-guerrilla military policy, adventurism in KMT areas and punitive intra-party organization policy.
+- Later article/date: V2-037 `论政策`, 1940-12-25.
+- What changed: Mao does not merely say the bundle is unsuitable for the anti-Japanese stage; he explicitly says many listed policies were wrong even in the period when they were used. The replacement is a coalition policy combining unity and struggle plus bounded domain rules.
+- Error type: `problem/stage model error + policy error + actor model overcompression + organizational control error`.
+- Was the earlier judgment explicitly revised?: yes, at bundle level. This article does not provide a claim-by-claim causal after-action record.
+- Operational consequence: earlier political objectives no longer authorize property elimination, physical exclusion, monopoly staffing, indiscriminate purge, urban-offensive or organizational-punishment defaults.
+- Candidate methodological lesson: do not protect a failed method by relabeling it as merely “right for its time.” First ask whether it was ever supported, then separately ask whether the environment changed. A bundle-level repudiation should be decomposed into independently testable revisions.
+- Confidence: high textual confidence that the bundle is explicitly rejected; medium on the exact historical scope and causal loss of every item until the relevant earlier documents and V3-018 historical resolution are audited.
+- Evidence pointer: `evidence/v2-037/evidence-ledger.md#E01-E04`.
