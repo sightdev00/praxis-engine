@@ -1072,6 +1072,134 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-069 — The 1943 results completely prove the mass-organization production policy
+
+- Source/date: V3-017 `组织起来`, 1943-11-29.
+- Type: retrospective causal claim with forward policy implication.
+- Prediction: observed production, self-supply and labor heroes establish that organizing nearly all available labor is the correct general policy.
+- Preconditions: outcomes are measured consistently; inputs and opportunity costs are included; failures are observed; alternatives cannot explain gains.
+- Time horizon: 1943 evaluation and subsequent expansion.
+- Observable outcome: complete unit distribution, net output, protected missions, household burden and matched comparisons.
+- Later evidence: substantial participation and wider diffusion support feasibility and perceived benefit, but selected cases and incomplete statistics cannot “completely” identify causality.
+- Status: **partially supported; strong proof claim unidentifiable**.
+- Alternative explanation: recovery, weather, land expansion, inputs, reduced waste and security changes may jointly explain results.
+- Model update: replace exemplary proof with denominator-based, net-benefit evaluation.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E01-E13; E44-E46`.
+
+---
+
+## PRED-070 — Three months of soldier production can achieve full self-supply and reduce civilian extraction
+
+- Source/date: V3-017, 1943-11-29.
+- Type: military self-supply capacity forecast.
+- Prediction: soldiers with land can spend about three months producing, retain nine months for training/combat, achieve near-total self-supply and reduce taxes on residents.
+- Preconditions: land and inputs are available without uncompensated transfer; seasonal work fits operations; output accounting is complete; combat readiness is preserved.
+- Time horizon: annual base-area cycle.
+- Observable outcome: consolidated input/output ledger, training/readiness, civilian transfers and nutritional/material quality.
+- Later evidence: internal 1943 reports show extensive self-production, but accessible evidence does not independently validate complete supply or absence of mission/asset costs.
+- Status: **partially supported locally; full accounting and transfer claim unconfirmed**.
+- Alternative explanation: government/civilian inputs may have been relabeled rather than eliminated.
+- Model update: calculate net self-supply after all transferred assets and mission costs.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E05-E12`.
+
+---
+
+## PRED-071 — Front-line bases can and must mount broad self-help production in 1944
+
+- Source/date: V3-017, 1943-11-29.
+- Type: cross-context scaling forecast.
+- Prediction: despite war and disaster, North/Central China bases can prepare in winter and create broad production movements in 1944, though not reach Shaan-Gan-Ning's abundance.
+- Preconditions: operations leave labor/time; inputs and land exist; targets adapt locally; civilian protection remains primary.
+- Time horizon: winter preparation and 1944 production.
+- Observable outcome: base-specific rollout, participation, net supply, mission effects and exceptions.
+- Later evidence: mutual-aid and production organizations expanded in Jin-Sui, Jin-Cha-Ji and elsewhere, supporting feasibility in multiple bases.
+- Status: **substantially supported for multi-base feasibility; universal necessity/effect size unconfirmed**.
+- Alternative explanation: local movements developed from prior experience and local leadership rather than this speech alone.
+- Model update: transfer mechanisms and safeguards, not the same target or coverage quota.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E14-E16; E31; E46`.
+
+---
+
+## PRED-072 — Mutual-aid organization doubles harvests and will attract more voluntary adoption
+
+- Source/date: V3-017, 1943-11-29.
+- Type: productivity and adoption forecast.
+- Prediction: organized plowing, weeding and harvest produced about twice the previous year's output in many teams; visible effect will cause more people to adopt next year.
+- Preconditions: comparisons hold land/weather/inputs constant; gains are net; adoption remains voluntary; benefits are equitably distributed.
+- Time horizon: 1943 result and 1944 adoption.
+- Observable outcome: matched yields/labor productivity, member surplus, refusal/exit and next-year enrollment.
+- Later evidence: participation reached a reported 45% by end-1943 and expanded later, but no matched evidence confirms a general doubling or distinguishes voluntary attraction from mobilization.
+- Status: **adoption direction supported; magnitude and causal lift unconfirmed**.
+- Alternative explanation: better-resourced/high-motivation households selected into teams and weather/acreage changed.
+- Model update: measure matched net lift and revealed voluntary retention.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E23-E31; E44-E46`.
+
+---
+
+## PRED-073 — All full and partial labor in the Border Region can enter cooperatives within a few years
+
+- Source/date: V3-017, 1943-11-29.
+- Type: coverage/timing forecast.
+- Prediction: not in one year, but within several years the region can organize all eligible full and partial labor into cooperatives.
+- Preconditions: every actor benefits or can be protected; voluntary refusal approaches zero; organizations scale without governance failure; war does not disrupt.
+- Time horizon: unspecified “several years” after 1943.
+- Observable outcome: eligible denominator, genuine membership, duration, exit and organization survival.
+- Later evidence: reported coverage was 45% at end-1943 and targets rose, but accessible evidence does not establish voluntary 100% coverage within a defined horizon.
+- Status: **unresolved/under-specified; early expansion supports possibility below universal coverage**.
+- Alternative explanation: diverse households may rationally remain outside or use other coordination forms.
+- Model update: use optional coverage curves and member outcomes; never make 100% a success requirement when voluntariness is binding.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E25-E31; E44-E46`.
+
+---
+
+## PRED-074 — Gradual collectivization through cooperatives is the unique road out of poverty
+
+- Source/date: V3-017, 1943-11-29.
+- Type: long-horizon institutional necessity forecast.
+- Prediction: dispersed household production necessarily sustains poverty; gradual collectivization is the only cure, and cooperatives are the only route to it.
+- Preconditions: alternatives cannot overcome scale/coordination constraints; cooperative governance protects member agency and surplus; later stages outperform private-base forms.
+- Time horizon: multi-stage rural transformation.
+- Observable outcome: comparative productivity/welfare/rights across household, market-service, cooperative and collective arrangements and across transition stages.
+- Later evidence: cooperatives can pool labor and assets and later became a major transformation route, but this does not prove uniqueness; later ownership/coercion outcomes require separate audits.
+- Status: **partially supported as one coordination path; uniqueness unconfirmed**.
+- Alternative explanation: mechanization, markets, infrastructure, insurance and voluntary service networks can address constraints while retaining household ownership.
+- Model update: compare institutional portfolios and preserve reversible member choice.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E18-E25; E32-E33; E44-E46`.
+
+---
+
+## PRED-075 — Determined intellectual cadres can learn labor organization within six to twelve months
+
+- Source/date: V3-017, 1943-11-29.
+- Type: capability-acquisition forecast.
+- Prediction: intellectual-origin party members who engage with mass practice can learn to organize production in half a year to one year.
+- Preconditions: role definition and curriculum are clear; supervised practice and feedback exist; competence is tested rather than inferred from resolve.
+- Time horizon: 6–12 months.
+- Observable outcome: pre/post skill assessment, independently rated projects, member outcomes and failure recovery.
+- Later evidence: cadres organized expanding movements, but no accessible cohort evidence validates the universal timeframe or “determination” mechanism.
+- Status: **plausible but unvalidated**.
+- Alternative explanation: prior skills, local mentors, authority and resources drive learning rate.
+- Model update: define competencies and test performance; resolve is an input, not a completion metric.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E34-E39; E46`.
+
+---
+
+## PRED-076 — Organizing the labor army will ensure victory and a new state
+
+- Source/date: V3-017, 1943-11-29.
+- Type: macro-outcome sufficiency forecast.
+- Prediction: once cadres can organize cooperative production alongside other skills, they will certainly help expel Japan and establish a new country.
+- Preconditions: economic resilience materially affects war and state-building; military, diplomatic and coalition conditions also align.
+- Time horizon: remaining anti-Japanese war and state transition.
+- Observable outcome: contribution of production to supply/endurance and independent pathways to military/political outcomes.
+- Later evidence: Japan was defeated and a new state founded, while causation was a broad bundle including Allied war, military/political organization and postwar conflict.
+- Status: **endpoint confirmed; cooperative-production sufficiency unidentifiable and overstated**.
+- Alternative explanation: external military defeat of Japan and later civil-war outcomes dominate the endpoint.
+- Model update: record contribution and dependency chains, not endpoint coincidence as proof of one mechanism.
+- Evidence pointer: `evidence/v3-017/evidence-ledger.md#E33-E36; E44-E46`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
