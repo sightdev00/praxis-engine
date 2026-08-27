@@ -331,6 +331,21 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-022 — The Wannan Incident begins a fifteen-step nationwide rupture and capitulation plan
+
+- Source/date: V2-038 `为皖南事变发表的命令和谈话`, 1941-01-20.
+- Type: hidden-plan sequence + system-transition forecast.
+- Prediction: the Wannan Incident and cancellation of the New Fourth Army designation are the opening of a coordinated Japanese/pro-Japanese plan that will proceed through fifteen steps, culminating in nationwide suppression of the CCP, KMT-Japanese ceasefire/peace and the National Government joining the Tripartite Pact.
+- Preconditions: the first four steps are described as completed, step five underway and six/seven in preparation; the speaker infers a unified command/intent linking later steps.
+- Time horizon: “今后逐步演出 / 正在积极准备推行”; no terminal date.
+- Observable outcome: score each step separately with dates; distinguish observed action, preparation evidence, non-occurrence and incompatible action. Separately score national-rupture transition and direct Japanese command.
+- Later evidence: not scored at entry. V2-039 and V2-040 are immediate within-corpus update points; later wartime conduct must test the peace treaty/Axis-entry and total-annihilation endpoints.
+- Status: **unresolved at entry; high overfitting risk from extrapolating a completed prefix**.
+- Alternative explanation: KMT anti-CCP coercion, control competition and Japanese benefit could coexist without a single fully coordinated fifteen-step plan or final capitulation decision.
+- Model update: sequence forecasts require per-step confidence, timeouts and causal-link evidence. A matched prefix is not validation of the remaining plan.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
