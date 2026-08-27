@@ -496,6 +496,22 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 
 ---
 
+## PRED-033 — Rectification and mass integration will produce widely welcomed works and a new literary stage
+
+- Source/date: V3-008 `在延安文艺座谈会上的讲话`, 1942-05-23 conclusion.
+- Type: organizational/cultural outcome forecast.
+- Prediction: through rectification, long-term study, work among workers, peasants and soldiers, and correction of authors and works, literary and artistic workers will create many excellent works warmly welcomed by the popular masses and advance base-area and nationwide literature and art to a new stage.
+- Preconditions: field contact genuinely improves understanding; political and artistic quality remain distinguishable; publication and criticism channels surface negative feedback; organizational rectification does not replace audience evidence with conformity.
+- Time horizon: long-term learning and work after the forum; no terminal date or quantitative target.
+- Observable outcome: track changes in creator field participation, subjects and forms, circulation/use by audience segment, voluntary reception, artistic diversity, criticism freedom, harms and the contribution of other wartime institutions separately.
+- Later evidence: later research records culture-going-to-the-countryside practices, changed self-positioning among writers, labor heroes becoming preferred subjects and participants, and new popular forms and works. The same evidence also records intellectual subordination and selective emphasis on bright/model subjects; the Wang Shiwei case shows a contraction of independent public criticism.
+- Status: **partially confirmed directionally; unidentifiable as a complete causal and quality forecast**.
+- Alternative explanation: wartime mobilization, new publication/organizational resources, coercive conformity, existing folk forms, changing literacy and political selection may explain part of the observed production and reception.
+- Model update: score producer-environment contact, audience reception, artistic quality, political control and dissent costs separately; do not use the existence of a “new stage” to validate the full governance bundle.
+- Evidence pointer: `evidence/v3-008/evidence-ledger.md#E38-E44`.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title

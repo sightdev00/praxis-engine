@@ -393,3 +393,18 @@ earlier judgment
 - Candidate methodological lesson: preserve failed local cases and revise the actuator when execution costs threaten production and coalition capacity; record what changed and what remained protected.
 - Confidence: medium-high textual confidence on the later policy shift; medium causal confidence.
 - Evidence pointer: `evidence/v4-026/evidence-ledger.md#E50-E52`.
+
+---
+
+## R-026 — “Special-service literature” accusations added during the Rescue Campaign and removed from the canonical version
+
+- Earlier text/date: the 1943 *Liberation Daily*/Jiefangshe version of V3-008, published during the rectification and Rescue Campaign context.
+- Earlier judgment: besides feudal, bourgeois and collaborationist literature, the published text added a “special-service literature” category and described people who had entered Communist organizations while allegedly belonging to enemy or landlord-bourgeois spy parties.
+- Later text/date: the 1953 Selected Works definitive version, retained as body text in the 1991 second edition.
+- What changed: all “special-service/spy” passages were removed; other passages were regularized and reframed, but the canonical body does not preserve an explicit after-action explanation for the deletion.
+- Error type: `high-consequence actor-classification escalation + campaign-coupled editing + silent canonical softening`.
+- Was the earlier judgment explicitly revised?: textually yes by deletion, epistemically no. The later version does not say whether the accusation was false, too broad, obsolete, harmful or merely unsuitable for a canonical work.
+- Operational consequence: current readers see a less campaign-specific classifier than 1943 readers, while the historical actions influenced by the earlier version remain outside the canonical text.
+- Candidate methodological lesson: when a version adds or removes a claim that can withdraw rights, trigger investigation or redefine critics as enemies, preserve the old claim, evidence standard, actuator, affected actors and correction outcome. A clean final text is not a complete learning record.
+- Confidence: high that the 1943 addition and 1953 deletion occurred; medium on the causal role of this exact wording in individual cases because campaign actions had multiple upstream signals.
+- Evidence pointer: `evidence/v3-008/evidence-ledger.md#E39-E43`.
