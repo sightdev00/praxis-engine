@@ -17,10 +17,10 @@ This file is the execution ledger for Phase 1.
 | Volume | First-pass complete | Total |
 |---|---:|---:|
 | I | 18 | 18 |
-| II | 38 | 40 |
+| II | 39 | 40 |
 | III | 0 | 31 |
 | IV | 0 | 70 |
-| **Total** | **56** | **159** |
+| **Total** | **57** | **159** |
 
 ---
 
@@ -87,7 +87,7 @@ This file is the execution ledger for Phase 1.
 - [x] V2-036 团结到底
 - [x] V2-037 论政策
 - [x] V2-038 为皖南事变发表的命令和谈话
-- [ ] V2-039 打退第二次反共高潮后的时局
+- [x] V2-039 打退第二次反共高潮后的时局
 - [ ] V2-040 关于打退第二次反共高潮的总结
 
 ---

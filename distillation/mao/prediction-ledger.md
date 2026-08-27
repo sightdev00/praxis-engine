@@ -339,10 +339,25 @@ Source recurrence: V2-026 (1940-01) again calls Soviet aid an indispensable cond
 - Preconditions: the first four steps are described as completed, step five underway and six/seven in preparation; the speaker infers a unified command/intent linking later steps.
 - Time horizon: “今后逐步演出 / 正在积极准备推行”; no terminal date.
 - Observable outcome: score each step separately with dates; distinguish observed action, preparation evidence, non-occurrence and incompatible action. Separately score national-rupture transition and direct Japanese command.
-- Later evidence: not scored at entry. V2-039 and V2-040 are immediate within-corpus update points; later wartime conduct must test the peace treaty/Axis-entry and total-annihilation endpoints.
-- Status: **unresolved at entry; high overfitting risk from extrapolating a completed prefix**.
+- Later evidence: V2-039 (1941-03-18) judges the anti-Communist high tide to have peaked at Wannan/January 17 and predicts temporary limited easing; it explicitly opposes the view that final rupture has occurred or will occur soon. The full KMT did not subsequently sign peace with Japan or join the Tripartite Pact, and the national anti-Japanese war continued, though local military/political repression persisted.
+- Status: **partially observed prefix; contradicted as the projected nationwide capitulation/Axis-entry sequence**.
 - Alternative explanation: KMT anti-CCP coercion, control competition and Japanese benefit could coexist without a single fully coordinated fifteen-step plan or final capitulation decision.
 - Model update: sequence forecasts require per-step confidence, timeouts and causal-link evidence. A matched prefix is not validation of the remaining plan.
+
+---
+
+## PRED-023 — System-level easing will coexist with continuing local repression
+
+- Source/date: V2-039 `打退第二次反共高潮后的时局`, 1941-03-18.
+- Type: two-scale political/military forecast.
+- Prediction: after the second anti-Communist high tide, KMT-CCP relations may enter a temporary, slight and partial easing; KMT-area repression/propaganda and attacks in Huaipei, eastern Anhui and central/eastern Hubei will nevertheless continue, without immediate final national rupture.
+- Preconditions: international pressure, KMT factional contradictions, domestic public opinion and continued CCP protest constrain escalation.
+- Time horizon: `从此暂时`; no expiry date.
+- Observable outcome: track system-level coalition status separately from regional attacks, political restrictions and propaganda; identify when easing ends.
+- Later evidence: not fully scored at entry. V2-040 is the immediate internal review; later wartime corpus/history must establish event frequency, national coalition continuity and regional scope.
+- Status: **unresolved / calibrated and falsifiable by scale**.
+- Alternative explanation: limited easing may reflect the KMT's already-limited objectives or resource/external constraints rather than CCP pressure; local conflict persistence may arise from decentralized actors.
+- Model update: maintain separate alert levels by scale and channel. A severe local incident need not imply system transition, while non-transition does not make local harm minor.
 
 ---
 

@@ -291,3 +291,19 @@ earlier judgment
 - Candidate methodological lesson: do not protect a failed method by relabeling it as merely “right for its time.” First ask whether it was ever supported, then separately ask whether the environment changed. A bundle-level repudiation should be decomposed into independently testable revisions.
 - Confidence: high textual confidence that the bundle is explicitly rejected; medium on the exact historical scope and causal loss of every item until the relevant earlier documents and V3-018 historical resolution are audited.
 - Evidence pointer: `evidence/v2-037/evidence-ledger.md#E01-E04`.
+
+---
+
+## R-019 — Nationwide rupture forecast downgraded after the Wannan peak
+
+- Earlier article/date: V2-038, 1941-01-20.
+- Earlier judgment: the Wannan Incident was the opening of a nationwide sudden event; the issuers of the January 17 order had already decided on total KMT-CCP rupture and capitulation, and a fifteen-step plan would unfold toward suppression, peace with Japan and Axis alignment.
+- Later article/date: V2-039, 1941-03-18.
+- Later judgment: Wannan/January 17 marked the high point, March 6 was a rearguard action, limited temporary easing was possible, and views that final rupture had occurred or would occur soon were erroneous. Local attacks and repression would continue.
+- What changed: system-transition probability and direction were sharply reduced; the model restored scale separation and added calibrated magnitude/duration language. Attribution to pro-Japanese/anti-Communist actors was not equivalently re-audited.
+- Error type: `stage-transition overcall + sequence extrapolation + forecast calibration error + incomplete causal-model revision`.
+- Was the earlier judgment explicitly revised?: V2-039 does not name V2-038, but its rejection of immediate/final rupture directly conflicts with V2-038's central forecast two months earlier.
+- Operational consequence: nationwide-break contingency should be lowered while local-defense and remediation tracks remain active; predicted later sequence steps require closure rather than indefinite postponement.
+- Candidate methodological lesson: after a high-severity event, preserve prior constraints and set a short re-evaluation window. When downgrading, record both the conclusion change and which causal assumptions were withdrawn; otherwise only the headline updates.
+- Confidence: high textual confidence on the forecast conflict and downgrade; medium on how consciously the later directive was framed as a correction of the January statement.
+- Evidence pointer: `evidence/v2-038/evidence-ledger.md#E05-E08`; `evidence/v2-039/evidence-ledger.md#E01-E11`.
