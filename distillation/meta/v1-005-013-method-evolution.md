@@ -172,6 +172,60 @@ This will later connect naturally to value of information, downside risk and all
 
 ---
 
+## M-04 — Every correction system requires a protected-layer audit
+
+### Trigger
+
+- V2-040 `关于打退第二次反共高潮的总结`: explicitly corrects cadres who treated the worst-case branch as the only future, but does not fully audit how V2-038's Central public statement created the same high-confidence interpretation;
+- V3-006 `整顿党的作风`: declares the general line correct and unquestionable before opening study, organization and writing styles to correction.
+
+### Observation
+
+A system may appear highly self-critical while allowing updates only below a protected layer:
+
+```text
+protected objective / model / authority
+-> cannot be a failure hypothesis
+
+observed failure
+-> method error
+or execution error
+or local actor error
+or communication error
+```
+
+Such a system can improve implementation and still preserve an upstream cause of repeated failure.
+
+### Praxis control
+
+For every retrospective, self-criticism or learning loop, record:
+
+1. which layers are explicitly open to revision;
+2. which layers are assumed correct before evidence review;
+3. what observation could reopen each protected layer;
+4. whether the evaluator is independent of the authority/model being evaluated;
+5. whether error attribution is systematically downward or outward;
+6. whether upstream signals, incentives and permissions contributed to the observed behavior.
+
+### Decision rule
+
+Local correction is still useful; do not reject it merely because scope is bounded. But label the loop accurately:
+
+```text
+parameter correction
+< method correction
+< model correction
+< objective / governance correction
+```
+
+Do not call a process fully self-correcting when only the lower levels have a challenge path.
+
+### Risk
+
+Unlimited challenge at every step can destroy action commitment and create recursive audit. Apply the full protected-layer review at retrospectives, major failures, repeated anomalies and stage transitions; during ordinary execution, keep the existing commit boundary unless a predeclared trigger fires.
+
+---
+
 # Status
 
 All three controls and the conflict-specific extension are **active working hypotheses for Praxis Engine**, not claims that Mao explicitly formulated them in this modern form.

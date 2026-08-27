@@ -144,6 +144,16 @@ At minimum test for:
 - short observation windows hiding long-term consequences;
 - later developments that revise or contradict the claim.
 
+For any self-criticism, after-action review, learning system or correction campaign, also record its **protected layer**:
+
+- which objective, model, authority, institution or identity is declared correct before inquiry;
+- which layers are permitted to change;
+- what evidence could reopen the protected layer;
+- whether failures are systematically attributed downward or outward;
+- whether a challenge path exists outside the authority being reviewed.
+
+A process is not a full correction loop if it can revise only implementation while its upstream model is immune to evidence.
+
 Do not search only for support.
 
 ### Pass 5 — Candidate mechanisms

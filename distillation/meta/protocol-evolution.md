@@ -265,3 +265,42 @@ The fields can create false procedural confidence when facts are contested or en
 - **Add** forecast-versioning and upstream-communication review after V2-038→040.
 - **Expand** variant identity to delivery metadata and document role after V2-029/031.
 - **Control cost** by allowing short/repetitive Volume-III cards to remain short while preserving all six passes and separate evidence ledgers.
+
+---
+
+## 2026-08-26 — After V3-006: audit the protected layer of correction systems
+
+### Trigger
+
+- V2-040 corrected downstream contingency/base-case confusion without fully auditing the upstream V2-038 Central signal.
+- V3-006 explicitly declared the general line correct before limiting rectification to study, organization and writing styles.
+
+### Observed weakness
+
+The six-pass protocol tests revision and failure, but did not require us to state what a source's own correction process places outside revision. This can make a tightly bounded implementation repair look like a full learning loop.
+
+### Change adopted
+
+Pass 4 now requires a `protected layer` audit for self-criticism, after-action review, organizational learning and correction campaigns. It records:
+
+- what is pre-certified;
+- what may change;
+- what evidence can reopen the protected layer;
+- whether blame systematically moves downward/outward;
+- whether an independent challenge path exists.
+
+M-04 is added to `v1-005-013-method-evolution.md`.
+
+### Expected benefit
+
+- distinguishes parameter/implementation learning from model/objective/governance learning;
+- prevents a successful local fix from immunizing its upstream cause;
+- improves Agent retrospectives by examining instructions, interfaces and evaluators, not only executor behavior.
+
+### Cost / risk
+
+Recursive challenge can block commitment. Use full review at retrospectives, repeated anomalies, serious failures and stage transitions; ordinary execution remains under M-01's commitment boundary until a trigger fires.
+
+### Validation target
+
+V3-007/018 and later organizational/economic reviews must test whether the new field finds real omitted causes without turning every task into unlimited constitutional review. Do not write to AgentRecord until it survives beyond this corpus/project context.
