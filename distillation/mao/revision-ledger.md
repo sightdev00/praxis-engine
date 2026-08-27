@@ -216,3 +216,18 @@ earlier judgment
 - Candidate methodological lesson: when a stage label controls action, define what counter-events remain compatible and which actions are still forbidden.
 - Confidence: high textual confidence; empirical accuracy of the stage date still requires war-history validation.
 - Evidence pointer: `evidence/v2-018/evidence-ledger.md#E01-E04`.
+
+---
+
+## R-014 — Permanent Soviet-Chinese interest identity contradicted by later state bargains
+
+- Earlier article / date: V2-019, 1939-09-28.
+- Earlier judgment: Soviet interests and Chinese national-liberation interests would never conflict; even a future Soviet-Japanese pact would not restrict Soviet aid to China.
+- Later reality: the 1941 Soviet-Japanese Neutrality Pact included a declaration concerning Manchukuo and Mongolia that drew Chinese protest; contemporary diplomatic reporting states Soviet aid to Chiang would cease, while aid/volunteer operations ended around this period.
+- What changed: concrete Soviet security bargains created costs or constraints for Chinese territorial and resistance interests.
+- Error type: `actor-model overgeneralization + alliance-interest conflation + forecast failure`.
+- Was the earlier judgment explicitly revised?: not yet located in a later Mao text; later corpus articles and 1941 statements require audit.
+- Operational consequence: treating an ally as permanently interest-identical disables contingency planning, aid diversification and detection of third-party bargains.
+- Candidate methodological lesson: alliance reliability is issue-, time- and mechanism-specific. Preserve internal capability and alternate support paths even when cooperation is strong.
+- Confidence: high that the permanent no-conflict claim fails; medium-high on treaty-related aid restriction, pending full Soviet/Chinese aid records.
+- Evidence pointer: `evidence/v2-019/evidence-ledger.md#E10-E15`.

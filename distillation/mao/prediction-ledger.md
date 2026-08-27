@@ -179,6 +179,36 @@ prediction at time t
 
 ---
 
+## PRED-012 — Soviet and Chinese national-liberation interests will never conflict
+
+- Source/date: V2-019 `苏联利益和人类利益的一致`, 1939-09-28.
+- Type: actor-interest / universal relationship forecast.
+- Prediction: Soviet interests and the interests of Chinese national liberation will never conflict and will remain permanently aligned.
+- Preconditions: inferred from Soviet socialist identity; no operational exceptions are allowed.
+- Time horizon: permanent.
+- Observable outcome: no Soviet agreement or action materially conflicts with Chinese territorial, resistance, aid or political interests.
+- Later evidence: the 1941 Soviet-Japanese Neutrality Pact declaration recognized the territorial integrity of Manchukuo while Japan recognized Mongolia; Chinese diplomatic records include protest that this affected Chinese rights/interests. Later Sino-Soviet relations also contained major state-interest conflicts.
+- Status: **contradicted**.
+- Alternative explanation: interests were strongly aligned on several anti-Japanese and revolutionary objectives while diverging on Soviet security, territory, timing and third-party bargains.
+- Model update: represent alliance as a vector of interests with changing weights, not a permanent scalar identity.
+
+---
+
+## PRED-013 — A future Soviet-Japanese pact will not restrict Soviet aid to China
+
+- Source/date: V2-019, 1939-09-28.
+- Type: treaty-boundary + aid forecast.
+- Prediction: even if a Soviet-Japanese non-aggression agreement is concluded, the Soviet Union will never accept terms limiting its aid to China.
+- Preconditions: Soviet public commitments and permanent alignment of Soviet/Chinese liberation interests.
+- Time horizon: any future pact.
+- Observable outcome: Soviet material/technical aid continues without treaty-induced restriction after such a pact.
+- Later evidence: the Soviet-Japanese Neutrality Pact was signed on 1941-04-13. A contemporary US diplomatic report states the Soviet government had given categorical assurance that aid to Chiang Kai-shek would cease; Soviet volunteer/aid operations also ended around 1941. Exact causal quantities require Soviet/Chinese archival validation.
+- Status: **strongly contradicted / final aid-flow quantification pending**.
+- Alternative explanation: German invasion of the Soviet Union soon afterward also constrained aid, so the magnitude attributable specifically to the Japan pact needs separation.
+- Model update: public ideological commitments do not bind secret or later state bargains; forecast treaty effects from incentives and text, not identity assurances.
+
+---
+
 ## Future entry template
 
 ### PRED-XXX — title
