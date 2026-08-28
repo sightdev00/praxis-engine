@@ -1,87 +1,65 @@
-# Evidence Ledger — V3-017 组织起来
+# 证据账本 — V3-017 组织起来
 
-Primary source: https://www.qstheory.cn/books/2019-07/31/c_1119479227_17.htm
+## 来源
 
-Comparison text: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm
+- 第二版正文：https://www.qstheory.cn/books/2019-07/31/c_1119479227_17.htm
+- 对照文本：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm
+- 历史背景资料：https://www.dswxyjy.org.cn/n1/2019/0625/c219021-31192844.html
 
-Historical context:
-
-- https://www.dswxyjy.org.cn/n1/2019/0625/c219021-31192844.html
-- https://www.dswxyjy.org.cn/n1/2023/1108/c423725-40113655.html
-- https://www.dswxyjy.org.cn/n1/2019/0625/c219021-31192845.html
-
-| ID | Source claim / evidence | Type | Location | Limit / note |
+| 编号 | 主张／证据 | 类型 | 位置 | 限制／说明 |
 |---|---|---|---|---|
-| E01 | 讲话日期为 1943-11-29，场合是边区劳动英雄大会 | O1 | 标题/后记 | selected-success audience |
-| E02 | 1943 一年生产被称取得很大成绩、面貌更新 | O5/internal retrospective | 开头 | no common denominator or net-cost table |
-| E03 | 成绩被称“完全证明”高级干部会议方针正确 | O6/causal conclusion | 开头 | overclaims from before/after observation |
-| E04 | 可劳动的男女老少、全/半劳动力应几乎无例外组织 | O6/mobilization | 开头 | tension with later voluntariness |
-| E05 | 军队须兼具作战、生产、群众工作能力 | O6/capability design | 开头 | role conflict/opportunity cost absent |
-| E06 | 有地部队人均种地 18 亩 | O5/quantitative claim | 军队生产段 | coverage, land quality and labor accounting unknown |
-| E07 | 每战士一年三个月生产、九个月训练作战 | O5/O6 | 军队生产段 | intensity and seasonal overlap unknown |
-| E08 | 军队被称无需三方发饷并完全自给 | O5/strong outcome | 军队生产段 | transferred assets/inputs may be omitted |
-| E09 | 机关学校蔬菜自给率被称从 50% 到 100% | O5/before-after | 机关生产段 | denominator/quality and other inputs absent |
-| E10 | 自产被推断减少向百姓征税并提高家庭留存 | O6/flow inference | 机关生产段 | requires consolidated fiscal/asset ledger |
-| E11 | 工厂发展生产、清查特务、效率同时提高 | O5/correlated events | 工厂段 | does not validate classification or causal link |
-| E12 | 劳动英雄大量出现被列为生产上轨证据 | O5/activity/result | 工厂段 | awards select high performers |
-| E13 | 错误方针被定义为只组织少数财政供给贸易人员 | O6/method contrast | 群众方针段 | mass vs specialist is not always either/or |
-| E14 | 敌后生产较弱归于战争紧张和领导不够 | O5/O6 | 前方段 | other resource/institution causes possible |
-| E15 | 敌后 1944 被预测可且必须形成广泛生产运动 | O6/forecast | 前方段 | regional conditions heterogeneous |
-| E16 | 敌后不能立即丰衣足食但可自己动手克服困难 | O6/target calibration | 前方段 | useful state-specific outcome level |
-| E17 | 部队机关互助劳动被按功能称为合作社性质 | O6/institution definition | 合作社段 | member governance may differ greatly |
-| E18 | 个体生产被视为封建统治经济基础和永久贫困原因 | O6/causal generalization | 农民合作段 | multiple institutions/resources omitted |
-| E19 | 逐渐集体化被称克服个体贫困唯一办法 | O6/necessity claim | 农民合作段 | alternative pathways excluded |
-| E20 | 合作社被称达到集体化唯一道路 | O6/necessity claim | 农民合作段 | path and endpoint require separate validation |
-| E21 | 当前合作社明确建立在个体经济/私有财产基础 | O6/version boundary | 农民合作段 | critical distinction from later ownership forms |
-| E22 | 合作社须经多个阶段才可能发展到集体农庄 | O6/stage forecast | 农民合作段 | transition criteria absent |
-| E23 | 变工/扎工可数人至数百人、临时或永久 | O6/form diversity | 农民合作段 | supports adaptable topology |
-| E24 | 互助可交换人力、畜力、工具及农忙食宿 | O6/resource pooling | 农民合作段 | equivalence and liability need accounting |
-| E25 | 集体互助必须群众自愿、决不能强迫 | O6/rights safeguard | 农民合作段 | compliance measurement absent |
-| E26 | 互助形式被称由群众发明、干部总结 | O5/O6/provenance | 农民合作段 | official selection can reshape form |
-| E27 | 许多变工队被称收成同比多一倍 | O5/quantitative outcome | 农民合作段 | no matched control; selection/weather effects |
-| E28 | 因显著效果预测次年更多群众采用 | O6/adoption forecast | 农民合作段 | adoption can reflect pressure or subsidies |
-| E29 | 讲话不要求次年全覆盖，但称数年内可全覆盖 | O6/scale forecast | 农民合作段 | horizon and eligible denominator vague |
-| E30 | 妇女被要求参加一定生产，所谓二流子须改造参加 | O6/actor obligation | 农民合作段 | care work, stigma and coercion risk |
-| E31 | 华北华中也应在自愿基础上广泛组织 | O6/scaling action | 农民合作段 | external validity requires local trials |
-| E32 | 另列综合、运输和手工业三类合作社 | O6/portfolio | 合作社段 | multi-business governance risk |
-| E33 | 合作社被称解放、致富和抗战胜利必由之路 | O6/necessity forecast | 合作社段 | bundles economic, rights and military outcomes |
-| E34 | 每个党员必须学会组织劳动 | O6/capability commitment | 干部段 | role-specific exemptions absent |
-| E35 | 有决心的知识分子党员半年一年可学会 | O6/learning forecast | 干部段 | proficiency standard absent |
-| E36 | 组织劳动等能力被预测必能驱逐日本、建立新国家 | O6/outcome forecast | 干部段 | contribution is not sufficiency |
-| E37 | 群众经验须经学习、综合、宣传再实行 | O6/mass-line loop | 群众段 | synthesis power and falsification missing |
-| E38 | 九成助私粮、一成取公粮原则再次出现 | O6/priority heuristic | 群众段 | exact ratio not validated |
-| E39 | 向群众只索取不帮助被归为官僚主义 | O6/governance diagnostic | 群众段 | strong reciprocal-service norm |
-| E40 | 正文承认己方军队出现骄横、肉刑/损民等军阀主义风险 | O5/internal adverse evidence | 军队段 | important against identity-based immunity |
-| E41 | 官长爱护士兵、军队爱民、尊重政府和党被列为规则 | O6/behavioral duties | 军队段 | investigation/remedy not specified here |
-| E42 | 春节双拥后毛病被称根本克服但仍有残余 | O5/strong retrospective | 军队段 | internal claim; contradiction signals incomplete outcome |
-| E43 | 自我批评被设为克服官僚/军阀主义机制 | O6/correction | 结尾 | external review and victim remedy absent |
-| E44 | 后续资料称 1943 年底约 21 万农民、45% 农业劳力入互助组织 | O5/coverage result | historical context | incomplete statistics; voluntariness not independently measured |
-| E45 | 同期约 260 个合作社、15% 采用综合形式 | O5/organization result | historical context | count is not survival or member-benefit result |
-| E46 | 1944 后晋绥、晋察冀等出现多种互助形式和广泛扩展 | O5/external adoption | historical context | supports feasibility, not identical effect |
+| E01 | 讲话日期为 1943-11-29，场合是边区劳动英雄大会 | O1 | 标题／后记 | 受众是被选出的成功模范 |
+| E02 | 1943 年生产被称取得很大成绩、面貌更新 | O5 | 开头 | 无统一分母、净成本和失败单位 |
+| E03 | 成绩被称完全证明高级干部会议方针正确 | O6 | 开头 | 前后观察不能单独证明因果 |
+| E04 | 可劳动的男女老少和全、半劳动力几乎都应组织 | O6 | 开头 | 与后文自愿边界存在张力 |
+| E05 | 军队须同时具备作战、生产和群众工作能力 | O6 | 开头 | 训练、休息、专业化机会成本未核算 |
+| E06 | 有地部队人均种地十八亩 | O5 | 军队生产段 | 覆盖率、土地质量和劳力账不明 |
+| E07 | 每名战士一年生产三个月、训练作战九个月 | O5/O6 | 军队生产段 | 季节重叠和实际强度不明 |
+| E08 | 军队被称无需三方发饷并可完全自给 | O5 | 军队生产段 | 可能遗漏公共资产和投入转移 |
+| E09 | 机关学校蔬菜自给率被称由百分之五十提高到百分之百 | O5 | 机关生产段 | 分母、质量和其他投入未列 |
+| E10 | 自产被推断能减少向百姓征税并增加家庭留存 | O6 | 机关生产段 | 需要完整财政和资产账 |
+| E11 | 工厂生产、清查特务和效率提高被同时叙述 | O5 | 工厂段 | 相关同时发生不等于因果或分类正确 |
+| E12 | 敌后生产较弱被归因于战争紧张和领导不足 | O5/O6 | 前方段 | 资源、制度和安全因素也可能解释 |
+| E13 | 敌后 1944 年被预测可以并且必须形成广泛生产运动 | O6 | 前方段 | 各地条件不均一 |
+| E14 | 敌后不能立即丰衣足食，但可以自己动手克服困难 | O6 | 前方段 | 是较有边界的地区目标 |
+| E15 | 互助劳动按功能被称为合作社性质 | O6 | 合作社段 | 功能相似不等于成员治理相同 |
+| E16 | 个体经济被视为贫困和封建基础，合作社被称唯一道路 | O6 | 农民合作段 | 排除了市场、家庭联盟等替代路径 |
+| E17 | 当时合作社明确建立在个体经济和私有财产基础上 | O6 | 农民合作段 | 不得倒灌后来的所有制版本 |
+| E18 | 变工、扎工可临时或长期，交换人力、畜力和工具 | O6 | 农民合作段 | 交换等价与损失承担未核算 |
+| E19 | 文本明确群众自愿、决不能强迫 | O6 | 农民合作段 | 未说明拒绝、退出和受压测量 |
+| E20 | 许多变工队被称收成比上年多一倍 | O5 | 农民合作段 | 缺未参加户、天气和低基线比较 |
+| E21 | 因效果显著，预测次年更多群众采用 | O6 | 农民合作段 | 采用也可能来自压力或补贴 |
+| E22 | 文本称数年内可能组织全部或半数劳动力 | O6 | 农民合作段 | 时间范围和合资格分母模糊 |
+| E23 | 妇女被要求参加生产，“二流子”被要求改造参加 | O6 | 农民合作段 | 照护劳动、污名和强制风险未处理 |
+| E24 | 还列出综合、运输和手工业合作社 | O6 | 合作社段 | 多业务组织有代理和交叉补贴风险 |
+| E25 | 每个党员必须学会组织劳动 | O6 | 干部段 | 能力标准和豁免边界未列 |
+| E26 | 群众发明、干部总结、再向群众推广 | O6 | 群众段 | 谁选择经验、怎样证伪未说明 |
+| E27 | 九成精力救民私粮、一成解决公粮被再次提出 | O6 | 群众段 | 比例是启发式而非验证结果 |
+| E28 | 只向群众索取而不帮助被归为官僚主义 | O6 | 群众段 | 提供了互惠服务规范 |
+| E29 | 正文承认己方部队有骄横、肉刑和损害民众等军阀主义风险 | O5 | 军队段 | 反驳以组织身份免于审查 |
+| E30 | 官长爱护士兵、军队爱护人民被列为规则 | O6 | 军队段 | 调查、申诉和赔偿未规定 |
+| E31 | 春节双拥后问题被称根本克服但仍有残余 | O5 | 军队段 | 内部判断与“仍有残余”相冲突 |
+| E32 | 自我批评被设为克服官僚主义和军阀主义的机制 | O6 | 结尾 | 没有外部复核和受害者补救 |
+| E33 | 后续统计称 1943 年底约二十一万农民、占农业劳力百分之四十五参加互助 | O5 | 历史背景 | 覆盖不等于自愿或受益 |
+| E34 | 同期约二百六十个合作社、百分之十五为综合型 | O5 | 历史背景 | 数量不等于存续和成员福利 |
+| E35 | 1944 年后晋绥、晋察冀等地出现多种互助形式 | O5 | 历史背景 | 支持扩散，不证明效果相同 |
 
-## Evidence quality summary
+## 证据质量总结
 
-- Strongest version evidence: current cooperatives are diverse, gradual, based on private property and explicitly voluntary.
-- Strongest outcome evidence: later statistics support substantial 1943 coverage and cross-base diffusion.
-- Main causal gap: selected heroes, successful teams and before/after production cannot isolate mutual aid from land, weather, inputs, security and selection.
-- Main rights gap: universal mobilization, moral actor labels and cadre pressure can conflict with the stated ban on coercion.
-- High-consequence warning: factory efficiency cannot validate spy-clearing classifications, especially after the documented 1943 false-positive campaign.
+最强证据是：当时合作形式多样、以个体财产为基础、逐步推进并明确要求自愿；后续统计也支持存在较大范围扩散。最主要的因果缺口是成功模范、同比产量和内部统计无法隔离土地、天气、投入、安全、选择偏差和压力。最主要的权利缺口是“决不能强迫”与“几乎全部组织”的执行张力。尤其不能用工厂效率为清查特务等高后果身份分类背书。
 
-## Variant audit
+## 版本审计
 
-The QST and Marxists comparison versions preserve the same speech context, self-supply figures, cooperative stages, private-property base, non-coercion language, mass-line section and criticism of bureaucratic/militarist tendencies. No material body divergence was found.
+两个正文版本在自给数字、合作阶段、私有基础、自愿语言、群众路线和批评官僚主义等方面一致。后来的集体化政策属于后续版本，不能倒灌到 1943 年的“合作社”概念中。
 
-Later collectivization policy is a later version and must not be imported into the 1943 term “cooperative.” This article explicitly describes private-property-based collective labor and multiple stages; any later ownership change requires its own decision and result audit.
+## 对抗性检查点
 
-## Adversarial checkpoints
-
-1. What units failed or exited the 1943 production movement?
-2. Does self-supply accounting include land, tools, inputs and civilian opportunity costs?
-3. What is matched yield lift, not selected-team year-over-year growth?
-4. Can members refuse or exit without losing political status, credit or protection?
-5. Who owns assets and residual income, elects managers and bears losses?
-6. How are labor, livestock, tools and risk valued in exchanges?
-7. Which local constraints block transfer from Shaan-Gan-Ning?
-8. Are women and stigmatized nonworkers supported or coerced?
-9. What evidence independently validates any spy classification?
-10. Can soldiers and residents obtain remedy outside command self-criticism?
+1. 失败、退出和低产单位在哪里？
+2. 自给账是否包括土地、工具、投入和居民机会成本？
+3. 互助的净增产是否有匹配对照？
+4. 成员能否拒绝或退出而不失去政治、信贷和保护？
+5. 谁拥有资产、剩余收益和亏损责任？
+6. 妇女与被污名者得到支持还是被强制？
+7. 哪些地方约束阻止跨地区照搬？
+8. 哪些证据独立验证清查身份？
+9. 士兵和居民能否在指挥系统之外获得补救？
