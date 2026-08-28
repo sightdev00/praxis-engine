@@ -1,21 +1,21 @@
-# Evidence Ledger — V3-021 文化工作中的统一战线
+# 证据账本 — V3-021 文化工作中的统一战线
 
-Primary text: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm
+原文：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm
 
-| ID | Claim / evidence | Type | Location | Limit |
+| 编号 | 主张／证据 | 类型 | 位置 | 限制 |
 |---|---|---|---|---|
-| E01 | Speech dated 1944-10-30 to border-region cultural workers | O1 | title/note | document role established |
-| E02 | Work is ordered war, production, culture | O6 | ¶1 | prioritization claim |
-| E03 | Culture is said necessary to military competence | O6 | ¶1 | causal mechanism needs outcomes |
-| E04 | 1.5m population, over 1m illiterate, 2,000 spirit mediums | O3/O4 | ¶2 | counts and categories need source audit |
-| E05 | Formal and informal education are both prescribed | O6 | ¶2 | coverage/quality trade-off unspecified |
-| E06 | Old schools and old performance groups should be transformed | O6 | ¶2 | “transform” has no consent procedure |
-| E07 | New medicine alone is judged inadequate | O6 | ¶2 | depends on available workforce and quality |
-| E08 | Existing old doctors/veterinarians should be united and assisted | O6 | ¶2 | standards and patient protection absent |
-| E09 | Unity then criticism/education/reform are named principles | O6 | ¶2 | power to define reform remains central |
-| E10 | Actual needs and voluntary decision are made reform conditions | O6 | ¶3 | majority threshold and dissent rights unspecified |
-| E11 | Non-voluntary mass work is forecast to become formalistic and fail | O6 | ¶3 | requires operational definition of failure |
+| E01 | 讲话日期为 1944-10-30，对象是边区文教工作者 | O1 | 标题／说明 | 确定文献角色 |
+| E02 | 工作被安排为战争、生产、文化三项 | O6 | 第 1 段 | 属优先序主张 |
+| E03 | 文化被称为军事能力所必需 | O6 | 第 1 段 | 因果机制仍需结果资料 |
+| E04 | 文本称人口一百五十万、文盲逾百万、巫神两千 | O3/O4 | 第 2 段 | 数量与分类须查源 |
+| E05 | 正规和非正规教育都被规定使用 | O6 | 第 2 段 | 未说明覆盖与质量权衡 |
+| E06 | 旧学校、旧戏班应被改造 | O6 | 第 2 段 | “改造”没有同意程序 |
+| E07 | 只靠新医不足以解决问题 | O6 | 第 2 段 | 取决于人力和服务质量 |
+| E08 | 既有中医、兽医应被团结和帮助 | O6 | 第 2 段 | 缺少标准与病人保护 |
+| E09 | 团结、批评、教育、改革被列为原则 | O6 | 第 2 段 | 定义改革的权力仍居中心 |
+| E10 | 实际需要和自愿决定被列为改革条件 | O6 | 第 3 段 | 多数门槛与异议权未说明 |
+| E11 | 非自愿群众工作被预言会形式化并失败 | O6 | 第 3 段 | 须有可操作的失败定义 |
 
-## Evidence-quality judgment
+## 证据质量判断
 
-The strongest evidence is the explicit sequencing and voluntary-participation language. The main gaps are independent service-quality data, coercion/exit evidence and the voice of those being “reformed.”
+最强证据是明确的顺序和自愿参与语言；主要缺口是独立服务质量资料、强制与退出证据，以及被“改革”者自身的声音。

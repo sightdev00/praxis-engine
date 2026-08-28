@@ -1,17 +1,17 @@
-# Evidence Ledger — V3-022 必须学会做经济工作
+# 证据账本 — V3-022 必须学会做经济工作
 
-| ID | Claim / evidence | Type | Limit |
+| 编号 | 主张／证据 | 类型 | 限制 |
 |---|---|---|---|
-| E01 | Speech is dated 1945-01-10 and addressed to labour models | O1 | role and audience |
-| E02 | External aid is desired but cannot be relied upon | O6 | strategic commitment, not aid forecast |
-| E03 | Own effort and army/people creativity are proposed as base | O6 | distribution of burdens unspecified |
-| E04 | Cadres must learn economic work | O6 | skill/capacity claim |
-| E05 | Production includes agriculture, industry and trade | O6 | sector allocation not quantified |
-| E06 | Quantity and quality are jointly required | O6 | quality metric absent |
-| E07 | Thrift and avoiding waste are required | O6 | baseline and trade-offs absent |
-| E08 | Labour heroes/models are treated as diffusion bridges | O6 | selection bias and denominator absent |
-| E09 | Production is linked to improved living and war endurance | O6 | causal effect needs outcome data |
+| E01 | 讲话日期为 1945-01-10，对象为劳动模范 | O1 | 确定角色与受众 |
+| E02 | 欢迎外援但不能依赖 | O6 | 是战略承诺，不是援助预测 |
+| E03 | 军民自身努力与创造性被作为基础 | O6 | 负担分配未说明 |
+| E04 | 干部必须学习经济工作 | O6 | 属技能／能力主张 |
+| E05 | 生产包括农业、工业和贸易 | O6 | 未量化部门配置 |
+| E06 | 数量与质量须同时提高 | O6 | 无质量指标 |
+| E07 | 要求节约并避免浪费 | O6 | 基线和权衡未列 |
+| E08 | 劳动英雄与模范被视为经验扩散桥梁 | O6 | 有选择偏差，缺少分母 |
+| E09 | 生产被联系到生活改善和战争耐力 | O6 | 因果效果需结果资料 |
 
-## Evidence-quality judgment
+## 证据质量判断
 
-The source is strong on intended economic-control logic. It does not independently establish productivity, welfare, voluntariness, injury, compensation or the causal contribution of labour contests.
+原文是理解预期经济控制逻辑的强证据；它不能独立证明生产率、福利、自愿性、伤害、补偿或劳动竞赛的因果贡献。

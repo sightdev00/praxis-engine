@@ -14,6 +14,21 @@ fi
 failures=0
 completed=0
 
+# 蒸馏正文面向中文读者。英文缩写、URL、文献标题和 Pass 编号可以保留，
+# 但文章卡与证据账不能以英文叙述为主体。
+check_chinese_body() {
+  local article="$1"
+  local file="$2"
+  local label="$3"
+  local han latin
+  han=$(rg -o '\p{Han}' "$file" | wc -l)
+  latin=$(rg -o '[A-Za-z]' "$file" | wc -l)
+  if [[ "$han" -le "$latin" ]]; then
+    echo "${article}: ${label} must have Chinese as its dominant body language: $(basename "$file")" >&2
+    failures=$((failures + 1))
+  fi
+}
+
 while IFS= read -r index_line; do
   article=$(printf '%s\n' "$index_line" | rg -o 'V[1-4]-[0-9]{3}')
   [[ -z "$article" ]] && continue
@@ -34,6 +49,13 @@ while IFS= read -r index_line; do
   if [[ ! -f "$evidence_file" ]]; then
     echo "${article}: missing evidence ledger" >&2
     failures=$((failures + 1))
+  fi
+
+  if [[ "$card_count" -eq 1 ]]; then
+    check_chinese_body "$article" "$cards" "article card"
+  fi
+  if [[ -f "$evidence_file" ]]; then
+    check_chinese_body "$article" "$evidence_file" "evidence ledger"
   fi
 
   if [[ "$card_count" -eq 1 ]]; then
