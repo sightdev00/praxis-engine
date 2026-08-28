@@ -1,92 +1,91 @@
-# Evidence Ledger — V3-018 学习和时局
+# 证据账本 — V3-018 学习和时局
 
-Primary source: https://www.qstheory.cn/books/2019-07/31/c_1119479227_18.htm
+## 来源与纠错背景
 
-Comparison text: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440412.htm
+- 正文：https://www.qstheory.cn/books/2019-07/31/c_1119479227_18.htm
+- 对照文本：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440412.htm
+- 纠错背景资料：
+  - https://www.dswxyjy.org.cn/n/2014/0706/c244520-25244228.html
+  - https://www.dswxyjy.org.cn/n/2013/1023/c244516-23295201.html
+  - https://www.dswxyjy.org.cn/n1/2019/0228/c423731-30916828.html
+  - https://www.dswxyjy.org.cn/n1/2019/0228/c423964-30919140.html
 
-Correction context:
-
-- https://www.dswxyjy.org.cn/n/2014/0706/c244520-25244228.html
-- https://www.dswxyjy.org.cn/n/2013/1023/c244516-23295201.html
-- https://www.dswxyjy.org.cn/n1/2019/0228/c423731-30916828.html
-- https://www.dswxyjy.org.cn/n1/2019/0228/c423964-30919140.html
-
-| ID | Source claim / evidence | Type | Location | Limit / note |
+| 编号 | 主张／证据 | 类型 | 位置 | 限制／说明 |
 |---|---|---|---|---|
-| E01 | 选集后记称本文合并 1944-04-12 和 05-20 两次讲话 | O1/O2 | 后记 | composite-date boundary |
-| E02 | 高干党史学习被称大幅提高政治水平 | O5/internal outcome | 第一部分 | no pre/post independent measure |
-| E03 | 历史问题须弄清同时对犯错者宽大 | O6/governance rule | 结论一 | balances learning and coalition retention |
-| E04 | 过去斗争缺点含未解释原因/环境/改法 | O6/retrospective | 结论一 | strong recurrence diagnosis |
-| E05 | 过去过重个人责任导致不能团结更多人 | O6/retrospective | 结论一 | responsibility must not be erased |
-| E06 | 新方法分析环境、错误内容及社会/历史/思想根源 | O6/method | 结论一 | multi-level causal audit |
-| E07 | 处理人须慎重、不敷衍也不损害 | O6/rights/organization rule | 结论一 | remedy and appeal absent |
-| E08 | 复杂问题应分析，反对绝对肯定/否定 | O6/method | 结论二 | broad high-value rule |
-| E09 | 1931–35 路线主要错误但基本革命目标有共同点 | O6/field-level judgment | 结论二 | conclusion produced by incumbent authority |
-| E10 | 六大被判基本正确同时有重要缺点 | O6/field-level judgment | 结论三 | avoids total label |
-| E11 | 临时中央/五中全会合法但选举手续不完备 | O6/legal-procedure split | 结论四 | exact legal standard not stated |
-| E12 | 过去宗派的政治纲领和组织形态被判已不存在 | O6/actor-state claim | 结论五 | independent network evidence absent |
-| E13 | 教条/经验主义残余仍在并可由整风克服 | O6/correction forecast | 结论五 | completion metric absent |
-| E14 | 山头主义被称严重且几乎普遍 | O6/prevalence claim | 结论五 | no denominator/measurement |
-| E15 | 地域、历史和部门分割被列为结构根源 | O6/causal model | 结论五 | plausible fragmentation mechanism |
-| E16 | 全党理解结论被称可保证学习和革命胜利 | O6/sufficiency forecast | 第一部分结尾 | macro overreach |
-| E17 | 反法西斯阵线增强、法西斯衰落 | O6/trend forecast | 第二部分 | later confirmed direction |
-| E18 | 阵线内部人民势力增强、反人民势力衰落 | O6/global trend | 第二部分 | actor/metric definitions broad |
-| E19 | 希特勒不久被打败、日本已衰败 | O6/timing forecast | 第二部分 | “soon” under-specified |
-| E20 | 1937 党/军约 4 万，1940 党员 80 万、军近 50 万 | O5/internal statistics | 第一阶段 | definitions and independent verification needed |
-| E21 | 1940 根据地人口约一亿，含单/双重负担区 | O5/internal statistics | 第一阶段 | control and support cannot be inferred from population |
-| E22 | 1941–42 人口降至 5000 万以下、军降至 30 多万 | O5/internal statistics | 第二阶段 | supports contraction trend |
-| E23 | 困难期被称学会多项军事、政权、土地和经济政策 | O5/O6/learning claim | 第二阶段 | adoption not effectiveness for every policy |
-| E24 | 1943–44 整风生产被称产生根本效果和不败基础 | O6/strong causal claim | 第三阶段 | endpoint/proof overreach |
-| E25 | 正文称已学会或开始学会审干反特 | O5/learning claim | 第三阶段 | contradicted by recent false-positive record |
-| E26 | 1944 根据地人口 8000 多万、军 47 万、民兵 227 万、党员 90 多万 | O5/internal statistics | 第三阶段 | category/time audit required |
-| E27 | 日军 60% 以上压在根据地、伪军 90% 以上由中共抗击 | O6/quantitative claim | 战局段 | source/denominator absent in text |
-| E28 | 国民党抗击日军不到 40%、伪军不到 10% | O6/quantitative claim | 战局段 | complementary-looking figures may use different frames |
-| E29 | 河南国民党数十万军被称败于少数日军师团 | O5/concurrent event | 河南段 | exact order of battle/loss requires independent sources |
-| E30 | 河南失败被完全归因于长期反动政策 | O6/causal claim | 河南段 | single-cause overreach |
-| E31 | 预测国民党将受严重挫败、中共任务加重 | O6/forecast | 河南段 | 1944 campaign supports direction |
-| E32 | 城市/交通工作被提升为与根据地同等重要 | O6/strategic update | 任务段 | stage change explicit |
-| E33 | 未组织城市群众和准备武装起义将造成困难 | O6/necessity forecast | 城市段 | alternative transition routes absent |
-| E34 | 七大被预测不久召开并讨论城市和胜利 | O6/timing/agenda forecast | 城市段 | held Apr 1945; agenda broadly aligned |
-| E35 | 工人数字 1937 约 700、1942 约 4000、当前 12000 | O5/internal statistics | 工业段 | scale not management competence |
-| E36 | 学习城市工商业交通管理被称全国解放必要准备 | O6/necessity claim | 工业段 | capability valuable; endpoint necessity overstrong |
-| E37 | 错误/成功、资历、出身、专业、年龄都可形成认知包袱 | O6/cognitive model | 第三部分 | useful bias inventory |
-| E38 | 放下包袱被称联系群众和少犯错必要前提之一 | O6/necessity claim | 第三部分 | organizational incentives and rights also matter |
-| E39 | 四次胜利后骄傲被连接到路线错误和损失 | O5/O6/pattern claim | 第三部分 | post-hoc psychological attribution |
-| E40 | 开动机器被定义为主动思考和分析习惯 | O6/capability rule | 第三部分 | outcomes/falsification needed |
-| E41 | 1943 审干夸大敌情并把思想/历史问题升级为反革命问题 | O5/adverse evidence | official correction history | direct contradiction to simple success narrative |
-| E42 | 逼供信和群众性抢救造成严重扩大化 | O5/adverse outcome | official correction history | high-consequence systemic failure |
-| E43 | 延安短期出现 1400 多所谓特嫌等分类爆炸 | O5/scale indicator | official history | exact final validated number differs radically |
-| E44 | 中央随后停止抢救、强调调查、甄别和限制捕杀 | O5/revision | correction history | correction followed harm, not ex-ante control |
-| E45 | 毛泽东在 1944-05 中央党校讲话对搞错者赔礼 | O5/accountability action | biography/history | apology is meaningful but not full remedy |
-| E46 | 后续回顾称其承担发号施令责任 | O5/responsibility statement | later talks/history | responsibility statement should remain attached to policy record |
-| E47 | 甄别和平反持续至七大前后 | O5/repair process | recollection/history | demonstrates correction was not instantaneous |
-| E48 | 后遗症被记录长期存在，部分至更晚时期才完全纠正 | O7/long-tail outcome | later institutional history | prevents declaring repair complete at apology |
-| E49 | 1945-04 通过《关于若干历史问题的决议》 | O7/institutional outcome | later history | confirms formal culmination, not every conclusion's truth |
-| E50 | QST 与 Marxists 正文保持三部分结构和主要结论 | O2 | variant audit | correction context remains outside prominent body narrative |
+| E01 | 后记称文本合并 1944-04-12 与 05-20 两次讲话 | O1/O2 | 后记 | 存在合成日期边界 |
+| E02 | 高干党史学习被称大幅提高政治水平 | O5 | 第一部分 | 无独立前后测量 |
+| E03 | 历史问题须弄清，同时对犯错者宽大 | O6 | 结论一 | 平衡学习和联盟维持 |
+| E04 | 过去斗争未解释原因、环境和改法 | O6 | 结论一 | 是强的复发诊断 |
+| E05 | 过重个人责任妨碍团结更多人 | O6 | 结论一 | 不能抹去责任 |
+| E06 | 新方法分析环境、错误内容及社会、历史、思想根源 | O6 | 结论一 | 多层因果审计 |
+| E07 | 处理人须慎重，不敷衍也不损害 | O6 | 结论一 | 未列补救和申诉 |
+| E08 | 复杂问题应分析，反对绝对肯定或否定 | O6 | 结论二 | 普适但须具体化 |
+| E09 | 1931—35 路线主要错误但基本革命目标有共同点 | O6 | 结论二 | 结论由当权者形成 |
+| E10 | 六大被判基本正确且有重要缺点 | O6 | 结论三 | 避免整体标签 |
+| E11 | 临时中央与五中全会合法，但选举手续不完备 | O6 | 结论四 | 未给精确合法标准 |
+| E12 | 过去宗派的纲领和组织形态被判不存在 | O6 | 结论五 | 缺独立网络证据 |
+| E13 | 教条和经验主义残余可由整风克服 | O6 | 结论五 | 无完成指标 |
+| E14 | 山头主义严重且几乎普遍 | O6 | 结论五 | 无分母和测量 |
+| E15 | 地域、历史和部门分割被列为结构根源 | O6 | 结论五 | 是合理的碎片化机制 |
+| E16 | 全党理解结论可保证学习和革命胜利 | O6 | 第一部分末 | 宏观充分性过强 |
+| E17 | 反法西斯阵线增强、法西斯衰落 | O6 | 第二部分 | 后来方向得到支持 |
+| E18 | 阵线中人民势力增强、反人民势力衰落 | O6 | 第二部分 | 主体与指标宽泛 |
+| E19 | 希特勒不久失败、日本已衰败 | O6 | 第二部分 | “不久”未定义 |
+| E20 | 1937 党军约四万；1940 党员八十万、军近五十万 | O5 | 第一阶段 | 定义与独立核验不足 |
+| E21 | 1940 根据地人口约一亿，含单双重负担区 | O5 | 第一阶段 | 人口不能推出控制或支持 |
+| E22 | 1941—42 人口降至五千万以下、军降至三十多万 | O5 | 第二阶段 | 支持收缩趋势 |
+| E23 | 困难期学会军事、政权、土地和经济政策 | O5/O6 | 第二阶段 | 采用不等于每项有效 |
+| E24 | 1943—44 整风生产产生根本效果和不败基础 | O6 | 第三阶段 | 终点与证明过强 |
+| E25 | 正文称已学会或开始学会审干反特 | O5 | 第三阶段 | 与近期扩大化记录冲突 |
+| E26 | 1944 人口八千余万、军四十七万、民兵二百二十七万、党员九十余万 | O5 | 第三阶段 | 类别与时点须审计 |
+| E27 | 日军六成以上压在根据地、伪军九成以上由中共抗击 | O6 | 战局段 | 正文无来源与分母 |
+| E28 | 国民党抗击日军不足四成、伪军不足一成 | O6 | 战局段 | 表面互补的数字可能框架不同 |
+| E29 | 河南国民党数十万军败于少数日军师团 | O5 | 河南段 | 须独立核对战序和损失 |
+| E30 | 河南失败被完全归因于长期反动政策 | O6 | 河南段 | 单因归因过强 |
+| E31 | 预测国民党将严重受挫、中共任务加重 | O6 | 河南段 | 1944 战局支持方向 |
+| E32 | 城市和交通工作与根据地同等重要 | O6 | 任务段 | 明确阶段转换 |
+| E33 | 不组织城市群众和准备武装起义会造成困难 | O6 | 城市段 | 未比较其他过渡路径 |
+| E34 | 七大将不久召开并讨论城市和胜利 | O6 | 城市段 | 1945 年 4 月召开，议程大体相合 |
+| E35 | 工人数：1937 约七百、1942 约四千、当时一万二千 | O5 | 工业段 | 规模不等于管理能力 |
+| E36 | 学习城市工商业和交通管理是全国解放必要准备 | O6 | 工业段 | 能力有价值，必要性表述过强 |
+| E37 | 错误、成功、资历、出身、专业、年龄都会形成认知包袱 | O6 | 第三部分 | 有用的偏见清单 |
+| E38 | 放下包袱是联系群众、少犯错误的必要前提之一 | O6 | 第三部分 | 还需组织激励和权利 |
+| E39 | 四次胜利后的骄傲被联系到路线错误和损失 | O5/O6 | 第三部分 | 属事后心理归因 |
+| E40 | 开动机器指主动思考和分析习惯 | O6 | 第三部分 | 须有结果和证伪机制 |
+| E41 | 1943 审干夸大敌情，把思想和历史问题升级为反革命问题 | O5 | 官方纠错史 | 直接反驳简单成功叙事 |
+| E42 | 逼供信和群众性抢救造成严重扩大化 | O5 | 官方纠错史 | 高后果系统失败 |
+| E43 | 延安短期出现一千四百多名所谓特嫌等分类爆炸 | O5 | 官方史料 | 最终核定数字差异极大 |
+| E44 | 中央随后停止抢救，强调调查、甄别和限制捕杀 | O5 | 纠错史 | 纠错发生在伤害之后 |
+| E45 | 毛泽东 1944-05 在中央党校向被搞错者赔礼 | O5 | 传记／史料 | 有意义但非完整补救 |
+| E46 | 后续回顾称其承担发号施令责任 | O5 | 后来谈话／史料 | 责任陈述应留在政策记录上 |
+| E47 | 甄别和平反延续到七大前后 | O5 | 回忆／史料 | 说明纠错并不即时 |
+| E48 | 后遗症长期存在，部分至更晚时期才完全纠正 | O7 | 后来制度史 | 不能以赔礼宣布修复完成 |
+| E49 | 1945-04 通过《关于若干历史问题的决议》 | O7 | 后来史料 | 确定正式收束，不证明每项结论为真 |
+| E50 | 两个版本保留三部分结构和主要结论 | O2 | 版本审计 | 纠错背景未在正文突出呈现 |
 
-## Evidence quality summary
+## 证据质量总结
 
-- Strongest method evidence: field-level evaluation, multi-root analysis and person-policy separation offer a robust historical-review protocol.
-- Strongest counterevidence: the same organization had just scaled false accusations through coercion, requiring stoppage, review, apology and years of repair.
-- Main transparency gap: the canonical body describes learning to examine cadres without proportionate disclosure of the failure state and responsibility.
-- Main quantitative gap: membership, forces, population and enemy-percentage figures are internally reported with limited provenance.
-- Main outcome boundary: formal unity and a historical resolution are observable; epistemic correctness, dissent freedom and non-recurrence require separate tests.
+- 最强方法证据：分项评价、多根源分析和人事分离构成稳健的历史复盘协议。
+- 最强反证：同一组织刚以强制方式扩大错误指控，之后必须停止、复核、赔礼并经历多年修复。
+- 主要透明度缺口：正文称学会审查干部，却未按比例披露失败状态和责任。
+- 主要数量缺口：党员、军队、人口和敌军比例主要为内部统计，来源有限。
+- 主要结果边界：形式上的统一和历史决议可观察；认识正确、异议自由和不再发生必须另测。
 
-## Variant audit
+## 版本审计
 
-The QST and Marxists body versions align on the April speech structure and major claims. The editorial note says the selected text also derives from the May 20 Central Party School speech. Independent histories record apology and correction in that May setting, but the accessible canonical body foregrounds neither the scale of Rescue Campaign harm nor a complete remedy ledger.
+两个版本在四月讲话的结构和主要结论上相合。后记称选文还来自五月二十日中央党校讲话；独立史料在该场合记录了赔礼和纠错，但公开正文没有突出抢救运动伤害规模或完整补救账本。
 
-This is a provenance issue, not permission to insert later words into the body. The article card therefore keeps canonical claims as O1/O2 and the correction history as O5/O7 evidence.
+这是来源边界，不允许把后来的话倒灌进正文。因此文章卡把正文主张保留为 O1/O2，把纠错史保留为 O5/O7 的独立证据层。
 
-## Adversarial checkpoints
+## 对抗性检查点
 
-1. Who selected the historical documents and framed the competing routes?
-2. Can dissenting interpretations remain in the record after “unity”?
-3. Does multi-root analysis still name decision and escalation responsibility?
-4. What remedy does each falsely classified person receive?
-5. How long did correction take, and which records remained harmful?
-6. Are force/population percentages comparable across time and sides?
-7. Which causes besides political line explain battlefield performance?
-8. What outcome would falsify “old faction gone” or “residual thought corrected”?
-9. Which transition scenarios require city capability besides armed uprising?
-10. Does “put down burdens” empower people or pressure victims to stop seeking repair?
+1. 谁选择历史材料并框定竞争路线？
+2. “统一”之后，不同解释能否留在记录中？
+3. 多根源分析是否仍点名决策与升级责任？
+4. 每位被误分类者得到什么补救？
+5. 纠错耗时多久，哪些记录仍造成伤害？
+6. 各时期和各方的人口、兵力比例能否比较？
+7. 除政治路线外，哪些原因解释战场表现？
+8. 什么结果会反驳“旧派已无”或“残余思想已纠正”？
+9. 除武装起义外，哪些过渡情境需要城市能力？
+10. “放下包袱”是在赋权，还是压迫受害者停止追索补救？
