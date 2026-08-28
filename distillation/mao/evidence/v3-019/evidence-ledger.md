@@ -1,74 +1,73 @@
-# Evidence Ledger — V3-019 为人民服务
+# 证据账本 — V3-019 为人民服务
 
-Primary source: https://www.qstheory.cn/books/2019-07/31/c_1119479227_19.htm
+## 来源
 
-Comparison text: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440908.htm
+- 正文：https://www.qstheory.cn/books/2019-07/31/c_1119479227_19.htm
+- 对照文本：https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440908.htm
+- 人物与事件背景：
+  - https://www.dswxyjy.org.cn/n1/2016/0729/c398751-28595511.html
+  - https://cpc.people.com.cn/n1/2024/0906/c443712-40314314.html
 
-Biographical context:
-
-- https://www.dswxyjy.org.cn/n1/2016/0729/c398751-28595511.html
-- https://cpc.people.com.cn/n1/2024/0906/c443712-40314314.html
-
-| ID | Source claim / evidence | Type | Location | Limit / note |
+| 编号 | 主张／证据 | 类型 | 位置 | 限制／说明 |
 |---|---|---|---|---|
-| E01 | 讲话日期为 1944-09-08，场合为张思德追悼会 | O1 | 标题/后记 | memorial rhetoric and policy claims coexist |
-| E02 | 张思德 9 月 5 日在安塞烧炭时因炭窑崩塌死亡 | O1/O5 | 注释 | event fact; not a complete accident investigation |
-| E03 | 组织自称完全为解放人民、彻底为人民利益工作 | O6/purpose commitment | 第一段 | self-description is not outcome evidence |
-| E04 | 张思德被作为该组织普通成员和服务典型 | O6/exemplar | 第一段 | selected case, not workforce distribution |
-| E05 | 死亡意义按服务人民或服务压迫者区分 | O6/normative classifier | 第二段 | moral meaning separate from preventability |
-| E06 | 张思德之死被判为人民利益而死 | O6/case judgment | 第二段 | public task clear; causal/safety facts incomplete |
-| E07 | 因为服务人民，所以不怕别人指出缺点 | O6/purpose-governance derivation | 第三段 | criticism safety not specified |
-| E08 | 不论提出者是谁，只要正确就改 | O6/source-neutral rule | 第三段 | who judges “correct” remains internal |
-| E09 | 对人民有好处的办法就采用 | O6/acceptance test | 第三段 | “people/benefit” needs affected-group metrics |
-| E10 | 李鼎铭提出精兵简政并被采用 | O5/example | 第三段/注释 | one positive case, no denominator |
-| E11 | 坚持好的、改正错的被预测使队伍兴旺 | O6/forecast | 第三段 | causal mechanism plausible but institutional controls omitted |
-| E12 | 成员来自五湖四海、由共同目标结合 | O6/coalition claim | 第四段 | diversity dimensions and dissent unknown |
-| E13 | 根据地人口被称 9100 万 | O5/quantitative claim | 第四段/注释 | governance reach is not consent/support |
-| E14 | 覆盖仍被称不足，须扩大才能全民族解放 | O6/scale necessity | 第四段 | organization size is one of several conditions |
-| E15 | 困难时要看到成绩、光明并提高勇气 | O6/morale intervention | 第四段 | optimism can also suppress bad news |
-| E16 | 解救受难人民被定义为组织责任 | O6/public commitment | 第四段 | outcomes and affected-person voice needed |
-| E17 | 奋斗会有牺牲和经常死亡 | O6/risk acknowledgment | 第四段 | does not authorize avoidable risk |
-| E18 | 为人民而死被称死得其所 | O6/normative claim | 第四段 | meaning cannot close investigation |
-| E19 | 明确要求尽量减少不必要牺牲 | O6/safety commitment | 第四段 | necessary/unnecessary decision process absent |
-| E20 | 干部须关心每个战士 | O6/duty of care | 第四段 | care metrics/remedy absent |
-| E21 | 全体成员须互相关心爱护帮助 | O6/reciprocal duty | 第四段 | peer duty cannot substitute command safety obligations |
-| E22 | 无论炊事员或战士，只要做过有益工作都应送葬追悼 | O6/equality commitment | 第五段 | rank-neutral recognition |
-| E23 | 追悼应成为组织制度 | O6/institutional promise | 第五段 | implementation, family support not detailed |
-| E24 | 方法应向村庄推广 | O6/scaling action | 第五段 | local custom and consent require adaptation |
-| E25 | 追悼被预测寄托哀思并团结人民 | O6/social forecast | 第五段 | grief outcomes and dissenting memories unobserved |
-| E26 | 对照本保留五段结构和四项核心规则 | O2 | variant comparison | no material body divergence |
-| E27 | 后续材料记录张思德 1933 入红军、长征、负伤 | O5/biography | official retrospective | celebratory institutional source |
-| E28 | 后续材料记录其通信、警卫、开荒、烧炭等工作 | O5/biography | official retrospective | supports broad service history |
-| E29 | 后续叙事称崩塌时推战友出窑 | O5/later testimony | official retrospective | not present in canonical body note; primary witness chain needed |
-| E30 | 后续材料称雨天施工且炭窑突然崩塌 | O5/accident context | official retrospective | prompts safety audit, does not establish negligence alone |
-| E31 | 另有回顾称当时缺基本防护用品 | O5/work-condition context | official retrospective | may refer earlier charcoal work; exact 1944 task link needs care |
-| E32 | 毛泽东获知后要求妥善入殓、棺木和追悼会 | O5/leadership action | later history | confirms recognition response |
-| E33 | 讲话后来被纳入七大报告所述组织宗旨传统 | O7/institutional diffusion | later history | diffusion is not compliance outcome |
-| E34 | 追悼会参加者被后续记为约千人 | O5/event detail | later history | attendance is not causal proof of unity |
+| E01 | 讲话日期为 1944-09-08，场合为张思德追悼会 | O1 | 标题／后记 | 追悼修辞与政策主张并存 |
+| E02 | 张思德 9 月 5 日在安塞烧炭时因炭窑崩塌死亡 | O1/O5 | 注释 | 是事件事实，不是完整事故调查 |
+| E03 | 组织自称完全为解放人民、彻底为人民利益工作 | O6 | 第一段 | 自我描述不能代替结果证据 |
+| E04 | 张思德被作为普通成员和服务典型 | O6 | 第一段 | 是选择个案，不代表成员分布 |
+| E05 | 死亡意义按服务人民或服务压迫者区分 | O6 | 第二段 | 道德意义应与可避免性分开 |
+| E06 | 张思德之死被判为为人民利益而死 | O6 | 第二段 | 公共任务明确，因果与安全事实不完整 |
+| E07 | 因服务人民而不怕别人指出缺点 | O6 | 第三段 | 未说明批评者安全 |
+| E08 | 不论提出者是谁，只要正确就改 | O6 | 第三段 | “正确”的判定仍在组织内部 |
+| E09 | 对人民有好处的办法就采用 | O6 | 第三段 | “人民／好处”须有受影响群体指标 |
+| E10 | 李鼎铭提出精兵简政并被采用 | O5 | 第三段／注释 | 仅一个正面个案，缺少总体分母 |
+| E11 | 坚持好的、改正错的会使队伍兴旺 | O6 | 第三段 | 机制合理，但制度控制未说明 |
+| E12 | 成员来自五湖四海、以共同目标结合 | O6 | 第四段 | 多样性的维度和异议未知 |
+| E13 | 根据地人口被称为九千一百万 | O5 | 第四段／注释 | 治理范围不等于同意或支持 |
+| E14 | 覆盖仍不足，须扩大才能实现全民族解放 | O6 | 第四段 | 组织规模只是多项条件之一 |
+| E15 | 困难时要看到成绩和光明以提高勇气 | O6 | 第四段 | 乐观也可能压制坏消息 |
+| E16 | 解救受难人民被定义为组织责任 | O6 | 第四段 | 须有结果和当事人声音 |
+| E17 | 奋斗会有牺牲和经常死亡 | O6 | 第四段 | 不授权可避免风险 |
+| E18 | 为人民而死被称死得其所 | O6 | 第四段 | 意义判断不能终止调查 |
+| E19 | 明确要求尽量减少不必要牺牲 | O6 | 第四段 | 未给必要／不必要的判定程序 |
+| E20 | 干部必须关心每个战士 | O6 | 第四段 | 缺护理指标与补救机制 |
+| E21 | 全体成员须互相关心、爱护、帮助 | O6 | 第四段 | 同伴责任不能替代指挥系统的安全义务 |
+| E22 | 炊事员或战士只要有益劳动都应送葬追悼 | O6 | 第五段 | 不分等级的承认承诺 |
+| E23 | 追悼应成为组织制度 | O6 | 第五段 | 未详述执行和家属支持 |
+| E24 | 方法应向村庄推广 | O6 | 第五段 | 须适应地方习俗并取得同意 |
+| E25 | 追悼被预期寄托哀思并团结人民 | O6 | 第五段 | 悲伤结果与异议记忆未被观察 |
+| E26 | 对照文本保留五段结构和四项核心规则 | O2 | 版本比对 | 未发现实质正文差异 |
+| E27 | 后续材料记录张思德入红军、长征和负伤经历 | O5 | 官方回顾 | 属纪念性制度来源 |
+| E28 | 后续材料记录其通信、警卫、开荒和烧炭工作 | O5 | 官方回顾 | 支持其服务经历的广度 |
+| E29 | 后续叙事称崩塌时推战友出窑 | O5 | 后来证言 | 正文注释未载；须追溯见证链 |
+| E30 | 后续材料称雨天施工且炭窑突然崩塌 | O5 | 事故背景 | 应触发安全审计，不能单独证明疏忽 |
+| E31 | 另有回顾称当时缺基本防护用品 | O5 | 作业条件 | 与 1944 该任务的精确关联仍须谨慎 |
+| E32 | 毛泽东获知后要求妥善入殓、置办棺木和开追悼会 | O5 | 后来史料 | 证明承认性回应 |
+| E33 | 讲话后来被纳入组织宗旨的制度传统 | O7 | 后来史料 | 传播不等于遵守 |
+| E34 | 后续记载追悼会约千人参加 | O5 | 后来史料 | 参与人数不证明团结的因果效果 |
 
-## Evidence quality summary
+## 证据质量总结
 
-- Strongest textual commitments: source-neutral criticism, correction, avoidable-loss reduction, care for every member and rank-neutral memorial practice.
-- Strongest factual boundary: death by kiln collapse during charcoal work is established; detailed heroism and safety conditions come from later institutional narratives.
-- Main governance gap: the organization still determines what is correct and what counts as the people's benefit without an independent appeal process.
-- Main safety gap: memorialization and moral meaning do not provide root-cause analysis, near-miss data, protection standards or family remedy.
-- Main outcome gap: adoption of the phrase and ritual is well documented; actual criticism acceptance and avoidable-loss reduction need case denominators.
+- 最强文本承诺：不问来源地接受正确批评、改错、减少可避免牺牲、照顾每个成员和不分等级的追悼。
+- 最强事实边界：张思德在烧炭工作中死于炭窑崩塌可以确认；详细英雄叙事与安全条件来自后来的制度性叙述。
+- 主要治理缺口：组织仍自行判定什么是正确、什么是人民利益，缺少独立申诉程序。
+- 主要安全缺口：追悼与道德意义不能提供根因分析、近失数据、防护标准或家属补救。
+- 主要结果缺口：口号和仪式的传播有记录；批评实际被采纳和可避免死亡是否减少，仍需个案分母。
 
-## Variant audit
+## 版本审计
 
-The QST and Marxists versions preserve the same five substantive paragraphs and the Zhang Side, Sima Qian, Li Dingming and population notes. No material body variant was identified.
+两个公开版本保留相同五段正文以及张思德、司马迁、李鼎铭和人口注释。未发现实质正文差异。
 
-Later biographical narratives add accident and hero details not present in the 1944 canonical body. They remain a separate later-evidence layer and cannot be silently inserted as decision-time proof.
+后来的传记叙事增加了事故和英雄细节；它们属于独立的后见性证据层，不能被悄然写作 1944 年决策时点的证明。
 
-## Adversarial checkpoints
+## 对抗性检查点
 
-1. Which affected groups define “the people,” and how are conflicts resolved?
-2. Who decides criticism is correct, with what evidence and appeal?
-3. How many critical proposals were submitted, accepted, rejected or punished?
-4. What action changed after accepted criticism, and did outcomes improve?
-5. Was the death avoidable under contemporary work and safety alternatives?
-6. Who authorized rain-day/structural work and what near misses existed?
-7. Are risk reporters rewarded as strongly as sacrifice heroes?
-8. What medical, compensation and family support follows death?
-9. Does memorial practice allow grief, questions and adverse findings?
-10. Are coverage, consent, benefit and public purpose reported separately?
+1. 哪些受影响群体定义“人民”，冲突如何解决？
+2. 谁以何种证据判定批评正确，并允许什么申诉？
+3. 批评意见的提交、采纳、拒绝和受惩罚比例分别是多少？
+4. 被采纳后采取了什么行动，结果是否改善？
+5. 在当时可用的作业和安全替代方案下，死亡是否可避免？
+6. 谁批准雨天或结构风险下的作业，过去有哪些近失事件？
+7. 风险报告者是否与牺牲英雄得到同等肯定？
+8. 死亡后有哪些医疗、补偿和家属支持？
+9. 追悼是否允许悲伤、质疑和不利发现？
+10. 覆盖、同意、收益和公共目的是否被分别报告？
