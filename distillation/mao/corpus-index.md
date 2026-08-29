@@ -11,7 +11,7 @@ This file is the execution ledger for Phase 1.
 - Do not skip short notices, telegrams, directives, interviews, or documents that appear repetitive.
 - Ordering and titles are cross-checked against the second-edition online indexes recorded in `../../literature/mao-selected-works.md`.
 - Volume completion means all items have first-pass article coverage; it does **not** mean all variant audits or cross-volume tests are complete.
-- Recovery note: the later V4 artifacts reported in the conversation are absent from this clone. Counts below reflect verified files in this checkout; V4-026 is explicitly marked as a source-based reconstruction, while V4-001–025 remain unverified here.
+- Recovery note: the later V4 artifacts reported in the conversation are absent from this clone. Counts below reflect verified files in this checkout; V4-026 is explicitly marked as a source-based reconstruction, while V4-002–025 remain unverified here.
 
 ## Progress
 
@@ -19,9 +19,9 @@ This file is the execution ledger for Phase 1.
 |---|---:|---:|
 | I | 18 | 18 |
 | II | 40 | 40 |
-| III | 27 | 31 |
-| IV | 1 | 70 |
-| **Total** | **86** | **159** |
+| III | 31 | 31 |
+| IV | 2 | 70 |
+| **Total** | **91** | **159** |
 
 ---
 
@@ -131,7 +131,7 @@ This file is the execution ledger for Phase 1.
 
 ## Volume IV — 70
 
-- [ ] V4-001 抗日战争胜利后的时局和我们的方针
+- [x] V4-001 抗日战争胜利后的时局和我们的方针
 - [ ] V4-002 蒋介石在挑动内战
 - [ ] V4-003 第十八集团军总司令给蒋介石的两个电报
 - [ ] V4-004 评蒋介石发言人谈话
