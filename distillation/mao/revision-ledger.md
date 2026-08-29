@@ -467,3 +467,16 @@ earlier judgment
 - Candidate methodological lesson: attach every high-consequence classifier to a reversible status, evidence record, independent appeal, command-responsibility field and remedy ledger that remains open until downstream harms are resolved.
 - Confidence: high on the failure/correction/apology sequence; medium on completeness for every affected person.
 - Evidence pointer: `evidence/v3-018/evidence-ledger.md#E25; E41-E48`.
+
+## R-031 — 公开揭露从制度批评推进到最低改革验收
+
+- 先前政策／日期：V3-028《赫尔利和蒋介石的双簧已经破产》，1945-07-10。
+- 先前判断：公开揭露赫尔利—蒋介石合作及伪民主程序，可以提高欺骗成本；国民大会日期不等于人民获得权力。
+- 后续证据／日期：1945年8—10月重庆谈判形成会谈纪要但未建立稳定联合政府；11月赫尔利辞职；随后全面内战恢复。
+- 变化内容：把“方案破产”的政治判断改写为可验收的最低改革清单，并将谈判、外部外交和军事冲突的共同因果分开。
+- 错误类型：`政治标签过早关闭 + 多因果归因 + 程序替代实质权利`。
+- 是否明确修正：是，方法上修正；不是宣称原文的风险预警全错。
+- 操作后果：任何“还政于民”承诺必须同时记录权利释放、强制机构撤销、党派合法性和独立监督，且保留失败和报复记录。
+- 方法教训：公共威慑需要退出条件与最低行动指标；冷场、措辞变化和辞职只能证明压力或失败信号，不能自动证明民主转型。
+- 置信度：高（事件顺序）；中（本篇评论对后续结果的独立贡献）。
+- 证据指针：`evidence/v3-028/evidence-ledger.md#E18-E22`。
