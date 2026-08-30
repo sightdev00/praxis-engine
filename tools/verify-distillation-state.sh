@@ -1,0 +1,94 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root=$(git rev-parse --show-toplevel)
+index_file="$repo_root/distillation/mao/corpus-index.md"
+cards_dir="$repo_root/distillation/mao/article-cards"
+evidence_dir="$repo_root/distillation/mao/evidence"
+
+if [[ ! -f "$index_file" ]]; then
+  echo "missing corpus index: $index_file" >&2
+  exit 1
+fi
+
+failures=0
+completed=0
+
+# 蒸馏正文面向中文读者。英文缩写、URL、文献标题和 Pass 编号可以保留，
+# 但文章卡与证据账不能以英文叙述为主体。
+check_chinese_body() {
+  local article="$1"
+  local file="$2"
+  local label="$3"
+  local han latin
+  han=$(rg -o '\p{Han}' "$file" | wc -l)
+  latin=$(rg -o '[A-Za-z]' "$file" | wc -l)
+  if [[ "$han" -le "$latin" ]]; then
+    echo "${article}: ${label} must have Chinese as its dominant body language: $(basename "$file")" >&2
+    failures=$((failures + 1))
+  fi
+}
+
+while IFS= read -r index_line; do
+  article=$(printf '%s\n' "$index_line" | rg -o 'V[1-4]-[0-9]{3}')
+  [[ -z "$article" ]] && continue
+  completed=$((completed + 1))
+  cards=$(find "$cards_dir" -maxdepth 1 -type f -name '*.md' -print0 | while IFS= read -r -d '' candidate; do
+    first_line=$(sed -n '1p' "$candidate")
+    if [[ "$first_line" == "# ${article} "* ]]; then
+      printf '%s\n' "$candidate"
+    fi
+  done)
+  card_count=$(printf '%s\n' "$cards" | sed '/^$/d' | wc -l)
+  evidence_file="$evidence_dir/${article,,}/evidence-ledger.md"
+
+  if [[ "$card_count" -ne 1 ]]; then
+    echo "${article}: expected one article card, found $card_count" >&2
+    failures=$((failures + 1))
+  fi
+  if [[ ! -f "$evidence_file" ]]; then
+    echo "${article}: missing evidence ledger" >&2
+    failures=$((failures + 1))
+  fi
+
+  if [[ "$card_count" -eq 1 ]]; then
+    check_chinese_body "$article" "$cards" "article card"
+  fi
+  if [[ -f "$evidence_file" ]]; then
+    check_chinese_body "$article" "$evidence_file" "evidence ledger"
+  fi
+
+  if [[ "$card_count" -eq 1 ]]; then
+    card="$cards"
+    title=$(sed -n "1s/^# ${article} //p" "$card")
+    if [[ "$(basename "$card" .md)" != "$article $title" ]]; then
+      echo "${article}: article-card filename must equal sequence plus original Chinese title: $(basename "$card")" >&2
+      failures=$((failures + 1))
+    fi
+  fi
+  if [[ "$card_count" -eq 1 && "$index_line" != *"legacy card; current-protocol evidence re-audit recorded"* ]]; then
+    card="$cards"
+    for pass_no in 0 1 2 3 4 5 6; do
+      if ! rg -q "^# Pass ${pass_no}( |$)" "$card"; then
+        echo "${article}: missing Pass ${pass_no} in $(basename "$card")" >&2
+        failures=$((failures + 1))
+      fi
+    done
+  fi
+done < <(rg '^\- \[x\] V[1-4]-[0-9]{3}' "$index_file")
+
+if ! git diff --check; then
+  echo "whitespace check failed" >&2
+  failures=$((failures + 1))
+fi
+
+echo "completed articles checked: $completed"
+echo "HEAD: $(git rev-parse HEAD)"
+echo "corpus index: $index_file"
+
+if [[ "$failures" -ne 0 ]]; then
+  echo "verification failed: $failures issue(s)" >&2
+  exit 1
+fi
+
+echo "verification passed"
